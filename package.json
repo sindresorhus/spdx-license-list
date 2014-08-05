@@ -1,0 +1,28 @@
+{
+  "name": "spdx-license-list",
+  "version": "0.0.0",
+  "description": "List of SPDX licenses",
+  "license": "MIT",
+  "repository": "sindresorhus/spdx-license-list",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "http://sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js",
+    "spdx.json"
+  ],
+  "keywords": [
+    "spdx"
+  ],
+  "devDependencies": {
+    "ava": "0.0.3"
+  }
+}
