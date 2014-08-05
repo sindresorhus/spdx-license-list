@@ -20,7 +20,14 @@
     "spdx.json"
   ],
   "keywords": [
-    "spdx"
+    "spdx",
+    "license",
+    "licenses",
+    "mit",
+    "bsd",
+    "list",
+    "open source",
+    "software"
   ],
   "devDependencies": {
     "ava": "0.0.3"
