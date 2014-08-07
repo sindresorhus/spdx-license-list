@@ -1,23 +1,32 @@
 The Open Software License
 v. 1.0
+
 This Open Software License (the "License") applies to any original
 work of authorship (the "Original Work") whose owner (the "Licensor")
 has placed the following notice immediately following the copyright
 notice for the Original Work: "Licensed under the Open Software
-License version 1.0"
-License Terms
+License version 1.0"
+
+License Terms
+
 1) Grant of Copyright License. Licensor hereby grants You a
 world-wide, royalty-free, non-exclusive, perpetual, non-sublicenseable
-license to do the following:
-a) to reproduce the Original Work in copies;
+license to do the following:
+
+a) to reproduce the Original Work in copies;
+
 b) to prepare derivative works ("Derivative Works") based upon the
-Original Work;
+Original Work;
+
 c) to distribute copies of the Original Work and Derivative Works
 to the public, with the proviso that copies of Original Work or
 Derivative Works that You distribute shall be licensed under the
-Open Software License;
-d) to perform the Original Work publicly; and
-e) to display the Original Work publicly.
+Open Software License;
+
+d) to perform the Original Work publicly; and
+
+e) to display the Original Work publicly.
+
 2) Grant of Patent License. Licensor hereby grants You a world-wide,
 royalty-free, non-exclusive, perpetual, non-sublicenseable license,
 under patent claims owned or controlled by the Licensor that are
@@ -25,7 +34,8 @@ embodied in the Original Work as furnished by the Licensor ("Licensed
 Claims") to make, use, sell and offer for sale the Original Work.
 Licensor hereby grants You a world-wide, royalty-free, non-exclusive,
 perpetual, non-sublicenseable license under the Licensed Claims to
-make, use, sell and offer for sale Derivative Works.
+make, use, sell and offer for sale Derivative Works.
+
 3) Grant of Source Code License. The term "Source Code" means the
 preferred form of the Original Work for making modifications to it and
 all available documentation describing how to access and modify the
@@ -37,7 +47,8 @@ the Source Code in an information repository reasonably calculated to
 permit inexpensive and convenient access by You for as long as
 Licensor continues to distribute the Original Work, and by publishing
 the address of that information repository in a notice immediately
-following the copyright notice that applies to the Original Work.
+following the copyright notice that applies to the Original Work.
+
 4) Exclusions From License Grant. Nothing in this License shall be
 deemed to grant any rights to trademarks, copyrights, patents, trade
 secrets or any other intellectual property of Licensor except as
@@ -47,7 +58,8 @@ Licensed Claims defined in Section 2. No right is granted to the
 trademarks of Licensor even if such marks are included in the Original
 Work. Nothing in this License shall be interpreted to prohibit
 Licensor from licensing under different terms from this License any
-Original Work that Licensor otherwise would have a right to license.
+Original Work that Licensor otherwise would have a right to license.
+
 5) External Deployment. The term "External Deployment" means the use
 or distribution of the Original Work or Derivative Works in any way
 such that the Original Work or Derivative Works may be accessed or
@@ -58,7 +70,8 @@ provide services or otherwise deliver content to anyone other than
 You. As an express condition for the grants of license hereunder, You
 agree that any External Deployment by You shall be deemed a
 distribution and shall be licensed to all under the terms of this
-License, as prescribed in section 1(c) herein.
+License, as prescribed in section 1(c) herein.
+
 6) Warranty and Disclaimer of Warranty. LICENSOR WARRANTS THAT THE
 COPYRIGHT IN AND TO THE ORIGINAL WORK IS OWNED BY THE LICENSOR OR THAT
 THE ORIGINAL WORK IS DISTRIBUTED BY LICENSOR UNDER A VALID CURRENT
@@ -70,7 +83,8 @@ NON-INFRINGEMENT AND WARRANTIES THAT THE ORIGINAL WORK IS MERCHANTABLE
 OR FIT FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY OF
 THE ORIGINAL WORK IS WITH YOU. THIS DISCLAIMER OF WARRANTY CONSTITUTES
 AN ESSENTIAL PART OF THIS LICENSE. NO LICENSE TO ORIGINAL WORK IS
-GRANTED HEREUNDER EXCEPT UNDER THIS DISCLAIMER.
+GRANTED HEREUNDER EXCEPT UNDER THIS DISCLAIMER.
+
 7) Limitation of Liability. UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL
 THEORY, WHETHER TORT (INCLUDING NEGLIGENCE), CONTRACT, OR OTHERWISE,
 SHALL THE LICENSOR BE LIABLE TO ANY PERSON FOR ANY DIRECT, INDIRECT,
@@ -84,7 +98,8 @@ APPLY TO LIABILITY FOR DEATH OR PERSONAL INJURY RESULTING FROM SUCH
 PARTY'S NEGLIGENCE TO THE EXTENT APPLICABLE LAW PROHIBITS SUCH
 LIMITATION. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR
 LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS EXCLUSION
-AND LIMITATION MAY NOT APPLY TO YOU.
+AND LIMITATION MAY NOT APPLY TO YOU.
+
 8) Acceptance and Termination. Nothing else but this License (or
 another written agreement between Licensor and You) grants You
 permission to create Derivative Works based upon the Original Work,
@@ -96,13 +111,15 @@ of the rights granted to You in Sections 1 and 2 herein, You indicate
 Your acceptance of this License and all of its terms and conditions.
 This license shall terminate immediately and you may no longer
 exercise any of the rights granted to You by this License upon Your
-failure to honor the proviso in Section 1(c) herein.
+failure to honor the proviso in Section 1(c) herein.
+
 9) Mutual Termination for Patent Action. This License shall terminate
 automatically and You may no longer exercise any of the rights granted
 to You by this License if You file a lawsuit in any court alleging
 that any OSI Certified open source software that is licensed under any
 license containing this "Mutual Termination for Patent Action" clause
-infringes any patent claims that are essential to use that software.
+infringes any patent claims that are essential to use that software.
+
 10) Jurisdiction, Venue and Governing Law. You agree that any lawsuit
 arising under or relating to this License shall be maintained in the
 courts of the jurisdiction wherein the Licensor resides or in which
@@ -114,17 +131,20 @@ outside the scope of this License or after its termination shall be
 subject to the requirements and penalties of the U.S. Copyright Act,
 17 U.S.C. § 101 et seq., the equivalent laws of other countries, and
 international treaty. This section shall survive the termination of
-this License.
+this License.
+
 11) Attorneys Fees. In any action to enforce the terms of this License
 or seeking damages relating thereto, the prevailing party shall be
 entitled to recover its costs and expenses, including, without
 limitation, reasonable attorneys' fees and costs incurred in
 connection with such action, including any appeal of such action. This
-section shall survive the termination of this License.
+section shall survive the termination of this License.
+
 12) Miscellaneous. This License represents the complete agreement
 concerning the subject matter hereof. If any provision of this License
 is held to be unenforceable, such provision shall be reformed only to
-the extent necessary to make it enforceable.
+the extent necessary to make it enforceable.
+
 13) Definition of "You" in This License. "You" throughout this
 License, whether in upper or lower case, means an individual or a
 legal entity exercising rights under, and complying with all of the
@@ -134,7 +154,8 @@ For purposes of this definition, "control" means (i) the power, direct
 or indirect, to cause the direction or management of such entity,
 whether by contract or otherwise, or (ii) ownership of fifty percent
 (50%) or more of the outstanding shares, or (iii) beneficial ownership
-of such entity.
+of such entity.
+
 This license is Copyright (C) 2002 Lawrence E. Rosen. All rights
 reserved. Permission is hereby granted to copy and distribute this
 license without modification. This license may not be modified without

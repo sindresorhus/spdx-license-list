@@ -3,24 +3,18 @@
 var fs = require('fs');
 var request = require('request');
 var cheerio = require('cheerio');
-var ent = require('ent');
-var url = 'http://spdx.org/licenses/';
+var baseUrl = 'http://git.spdx.org/';
+var ignored = ['README.txt', 'Updating the SPDX Licenses.txt'];
 
-var generateLicense = function (name) {
-	request(url + name).on('response', function (res) {
-		var data;
+var generateLicense = function (name, url) {
+	request(baseUrl + url).on('response', function (res) {
+		var data = '';
 		res.on('data', function (chunk) {
 			data += chunk.toString();
 		});
 
 		res.on('end', function () {
-			var $ = cheerio.load(data);
-			var text = $('.license-text').html()
-				.replace(/<p>(\s+)/ig, '<p>') //some paragraphs are followed by white spaces
-				.replace(/<\/p>(\s+)<p>/ig, '\r\n') //line breaks
-				.replace(/(<([^>]+)>)/ig, ''); //remove tags
-
-			fs.writeFile('./licenses/' + name, ent.decode(text.trim()), function (err) {
+			fs.writeFile('./licenses/' + name, data, function (err) {
 				if (err) {
 					console.log(err);
 				} else {
@@ -31,16 +25,21 @@ var generateLicense = function (name) {
 	});
 };
 
-request(url).on('response', function (res) {
-	var data;
+request(baseUrl + '?p=license-list.git;a=tree').on('response', function (res) {
+	var data = '';
 	res.on('data', function (chunk) {
 		data += chunk.toString();
 	});
 
 	res.on('end', function () {
 		var $ = cheerio.load(data);
-		$('#page-inner table tr code').each(function (i, e) {
-			generateLicense($(e).text());
+		$('.tree tr').each(function (i, e) {
+			var name = $(e).find('a.list').text();
+			var url = $(e).find('td.link a:last-child').attr('href');
+			if (name.match(/\.txt$/) && ignored.indexOf(name) === -1) {
+				name = name.replace(/\.txt$/, '');
+				generateLicense(name, url);
+			}
 		});
 	});
 });

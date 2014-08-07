@@ -32,7 +32,6 @@
   "devDependencies": {
     "ava": "0.0.3",
     "request": "^2.39.0",
-    "cheerio": "^0.17.0",
-    "ent": "^2.0.0"
+    "cheerio": "^0.17.0"
   }
 }
