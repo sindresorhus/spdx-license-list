@@ -31,7 +31,6 @@
   ],
   "devDependencies": {
     "ava": "0.0.3",
-    "request": "^2.39.0",
-    "cheerio": "^0.17.0"
+    "download": "^0.1.18"
   }
 }
