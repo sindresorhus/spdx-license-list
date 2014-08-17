@@ -23,6 +23,13 @@ $ npm install --save spdx-license-list
 var spdxLicenseList = require('spdx-license-list');
 
 console.log(spdxLicenseList.MIT);
+//=> { name: 'MIT License', osiApproved: true }
+
+
+// you can also get a version with the licence text included
+var spdxLicenseList2 = require('spdx-license-list/spdx-full');
+
+console.log(spdxLicenseList2.MIT);
 //=> { name: 'MIT License', osiApproved: true, license: '...' }
 ```
 
@@ -33,7 +40,7 @@ console.log(spdxLicenseList.MIT);
 
 Type: `object`
 
-The licenses are indexed by their identifier and contains a `name` property with the full name of the license, `osiApproved` boolean for whether the license is [OSI Approved](http://opensource.org/licenses) and `license` for full license text.
+The licenses are indexed by their identifier and contains a `name` property with the full name of the license, `osiApproved` boolean for whether the license is [OSI Approved](http://opensource.org/licenses).
 
 
 ## License
