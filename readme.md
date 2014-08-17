@@ -23,7 +23,7 @@ $ npm install --save spdx-license-list
 var spdxLicenseList = require('spdx-license-list');
 
 console.log(spdxLicenseList.MIT);
-//=> { name: 'MIT License', osiApproved: true }
+//=> { name: 'MIT License', osiApproved: true, license: '...' }
 ```
 
 
