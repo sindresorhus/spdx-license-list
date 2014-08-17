@@ -2,9 +2,12 @@
 
 > List of [SPDX licenses](http://spdx.org/licenses/)
 
-The list of licenses is just a [JSON file](spdx.json) and can be used wherever.
+The lists of licenses are two JSON files and can be used wherever.
 
-*Using SPDX License List version 1.19.*
+-	[spdx.json](spdx.json) contains just license metadata, license content can be found in `licenses` folder with the same name.
+-	[spdx-full.json](spdx-full.json) includes the license text too.
+
+*Using SPDX License List version 1.20.*
 
 
 ## Install
@@ -20,7 +23,7 @@ $ npm install --save spdx-license-list
 var spdxLicenseList = require('spdx-license-list');
 
 console.log(spdxLicenseList.MIT);
-//=> { name: 'MIT License', osiApproved: true }
+//=> { name: 'MIT License', osiApproved: true, license: '...' }
 ```
 
 
@@ -30,7 +33,7 @@ console.log(spdxLicenseList.MIT);
 
 Type: `object`
 
-The licenses are indexed by their identifier and contains a `name` property with the full name of the license and a `osiApproved` boolean for whether the license is [OSI Approved](http://opensource.org/licenses).
+The licenses are indexed by their identifier and contains a `name` property with the full name of the license, `osiApproved` boolean for whether the license is [OSI Approved](http://opensource.org/licenses) and `license` for full license text.
 
 
 ## License

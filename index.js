@@ -1,1 +1,1 @@
-module.exports = require('./spdx.json');
+module.exports = require('./spdx-full.json');
