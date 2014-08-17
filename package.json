@@ -13,7 +13,8 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "generate": "node generate.js"
   },
   "files": [
     "index.js",
@@ -32,9 +33,10 @@
     "software"
   ],
   "devDependencies": {
-    "ava": "0.0.3",
+    "ava": "0.0.4",
+    "convert-json": "^0.4.0",
     "download": "^1.0.1",
-    "tar": "^1.0.0",
-    "request": "^2.40.0"
+    "request": "^2.40.0",
+    "tar": "^1.0.0"
   }
 }

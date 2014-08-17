@@ -1,5 +1,4 @@
 'use strict';
-
 var fs = require('fs');
 var path = require('path');
 var zlib = require('zlib');
@@ -7,15 +6,19 @@ var tar = require('tar');
 var request = require('request');
 var cv2json = require('convert-json');
 
-//config
+// config
+var url = 'http://git.spdx.org/?p=license-list.git;a=snapshot;h=HEAD;sf=tgz';
 var xlsName = 'licenses/spdx_licenselist_v1.20.xls';
 var folder = 'licenses';
-var ignored = ['README.txt'];
+var ignored = [
+	'README.txt',
+	'Updating the SPDX Licenses.txt'
+];
 var colValue = 'v';
 var licensesJson = {};
 
-//process the excel sheet and generate json files from it
-var processXls = function () {
+// process the excel sheet and generate json files from it
+function processXls() {
 	cv2json.xls(xlsName, function (err, result) {
 		if (err) {
 			throw err;
@@ -56,12 +59,10 @@ var processXls = function () {
 				}
 			});
 		});
-
 	});
-};
+}
 
-
-request('http://git.spdx.org/?p=license-list.git;a=snapshot;h=HEAD;sf=tgz')
+request(url)
 	.pipe(zlib.createGunzip())
 	.pipe(tar.Extract({ path: folder, strip: 1}))
 	.on('error', function (err) { throw err; })
