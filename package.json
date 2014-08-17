@@ -17,7 +17,9 @@
   },
   "files": [
     "index.js",
-    "spdx.json"
+    "spdx.json",
+    "spdx-full.json",
+    "licenses"
   ],
   "keywords": [
     "spdx",
