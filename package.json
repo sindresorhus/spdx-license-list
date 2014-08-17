@@ -34,7 +34,6 @@
   "devDependencies": {
     "ava": "0.0.3",
     "download": "^1.0.1",
-    "zlib": "^1.0.5",
     "tar": "^1.0.0",
     "request": "^2.40.0"
   }
