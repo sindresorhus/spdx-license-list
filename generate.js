@@ -25,8 +25,8 @@ var processXls = function () {
 		for (var key in licenses) {
 			var row = key.match(/^A(\d+)$/);
 			if (row && row[1] > 1) {
-				var name = licenses[row[0]][colValue];
-				var identifier = licenses['B' + row[1]][colValue];
+				var name = licenses[row[0]][colValue].trim();
+				var identifier = licenses['B' + row[1]][colValue].trim();
 				var approved = licenses['E' + row[1]] ? licenses['E' + row[1]][colValue] === 'YES' : false;
 
 				licensesJson[identifier] = {
@@ -39,7 +39,7 @@ var processXls = function () {
 		fs.writeFileSync('spdx.json', JSON.stringify(licensesJson, null, '\t'));
 
 		Object.keys(licensesJson).forEach(function (item) {
-			licensesJson[item].license = fs.readFileSync(path.join(folder, item + '.txt')).toString();
+			licensesJson[item].license = fs.readFileSync(path.join(folder, item + '.txt')).toString().trim();
 		});
 
 		fs.writeFileSync('spdx-full.json', JSON.stringify(licensesJson, null, '\t'));

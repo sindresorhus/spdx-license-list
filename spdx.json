@@ -248,7 +248,7 @@
 		"osiApproved": false
 	},
 	"CPAL-1.0": {
-		"name": "Common Public Attribution License 1.0 ",
+		"name": "Common Public Attribution License 1.0",
 		"osiApproved": true
 	},
 	"CPL-1.0": {
@@ -632,7 +632,7 @@
 		"osiApproved": true
 	},
 	"IBM-pibs": {
-		"name": "IBM PowerPC Initialization and Boot Software ",
+		"name": "IBM PowerPC Initialization and Boot Software",
 		"osiApproved": false
 	},
 	"IPL-1.0": {
@@ -680,7 +680,7 @@
 		"osiApproved": false
 	},
 	"LPPL-1.3a": {
-		"name": "LaTeX Project Public License 1.3a ",
+		"name": "LaTeX Project Public License 1.3a",
 		"osiApproved": false
 	},
 	"LPPL-1.0": {
@@ -764,7 +764,7 @@
 		"osiApproved": true
 	},
 	"MPL-1.1": {
-		"name": "Mozilla Public License 1.1 ",
+		"name": "Mozilla Public License 1.1",
 		"osiApproved": true
 	},
 	"MPL-2.0": {
@@ -796,7 +796,7 @@
 		"osiApproved": true
 	},
 	"NBPL-1.0": {
-		"name": "Net Boolean Public License v1 ",
+		"name": "Net Boolean Public License v1",
 		"osiApproved": false
 	},
 	"NetCDF": {
@@ -876,7 +876,7 @@
 		"osiApproved": false
 	},
 	"OLDAP-1.2": {
-		"name": "Open LDAP Public License v1.2 ",
+		"name": "Open LDAP Public License v1.2",
 		"osiApproved": false
 	},
 	"OLDAP-1.3": {
@@ -1012,7 +1012,7 @@
 		"osiApproved": true
 	},
 	"RPL-1.5": {
-		"name": "Reciprocal Public License 1.5 ",
+		"name": "Reciprocal Public License 1.5",
 		"osiApproved": true
 	},
 	"RHeCos-1.1": {
