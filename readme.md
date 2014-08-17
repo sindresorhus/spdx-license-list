@@ -4,8 +4,8 @@
 
 The lists of licenses are two JSON files and can be used wherever.
 
--	[spdx.json](spdx.json) contains just relative url to the license.
--	[spdx-full.json](spdx-full.json) contains full license content.
+-	[spdx.json](spdx.json) contains just license metadata, license content can be found in licenses folder with the same name.
+-	[spdx-full.json](spdx-full.json) contains also full license content.
 
 *Using SPDX License List version 1.20.*
 

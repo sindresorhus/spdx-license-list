@@ -1,1532 +1,1226 @@
 {
 	"Glide": {
 		"name": "3dfx Glide License",
-		"osiApproved": false,
-		"url": "licenses/Glide.txt"
+		"osiApproved": false
 	},
 	"Abstyles": {
 		"name": "Abstyles License",
-		"osiApproved": false,
-		"url": "licenses/Abstyles.txt"
+		"osiApproved": false
 	},
 	"AFL-1.1": {
 		"name": "Academic Free License v1.1",
-		"osiApproved": true,
-		"url": "licenses/AFL-1.1.txt"
+		"osiApproved": true
 	},
 	"AFL-1.2": {
 		"name": "Academic Free License v1.2",
-		"osiApproved": true,
-		"url": "licenses/AFL-1.2.txt"
+		"osiApproved": true
 	},
 	"AFL-2.0": {
 		"name": "Academic Free License v2.0",
-		"osiApproved": true,
-		"url": "licenses/AFL-2.0.txt"
+		"osiApproved": true
 	},
 	"AFL-2.1": {
 		"name": "Academic Free License v2.1",
-		"osiApproved": true,
-		"url": "licenses/AFL-2.1.txt"
+		"osiApproved": true
 	},
 	"AFL-3.0": {
 		"name": "Academic Free License v3.0",
-		"osiApproved": true,
-		"url": "licenses/AFL-3.0.txt"
+		"osiApproved": true
 	},
 	"AMPAS": {
 		"name": "Academy of Motion Picture Arts and Sciences BSD",
-		"osiApproved": false,
-		"url": "licenses/AMPAS.txt"
+		"osiApproved": false
 	},
 	"APL-1.0": {
 		"name": "Adaptive Public License 1.0",
-		"osiApproved": true,
-		"url": "licenses/APL-1.0.txt"
+		"osiApproved": true
 	},
 	"Adobe-Glyph": {
 		"name": "Adobe Glyph List License",
-		"osiApproved": false,
-		"url": "licenses/Adobe-Glyph.txt"
+		"osiApproved": false
 	},
 	"APAFML": {
 		"name": "Adobe Postscript AFM License",
-		"osiApproved": false,
-		"url": "licenses/APAFML.txt"
+		"osiApproved": false
 	},
 	"Adobe-2006": {
 		"name": "Adobe Systems Incorporated Source Code License Agreement",
-		"osiApproved": false,
-		"url": "licenses/Adobe-2006.txt"
+		"osiApproved": false
 	},
 	"AGPL-1.0": {
 		"name": "Affero General Public License v1.0",
-		"osiApproved": false,
-		"url": "licenses/AGPL-1.0.txt"
+		"osiApproved": false
 	},
 	"Afmparse": {
 		"name": "Afmparse License",
-		"osiApproved": false,
-		"url": "licenses/Afmparse.txt"
+		"osiApproved": false
 	},
 	"Aladdin": {
 		"name": "Aladdin Free Public License",
-		"osiApproved": false,
-		"url": "licenses/Aladdin.txt"
+		"osiApproved": false
 	},
 	"ADSL": {
 		"name": "Amazon Digital Services License",
-		"osiApproved": false,
-		"url": "licenses/ADSL.txt"
+		"osiApproved": false
 	},
 	"AMDPLPA": {
 		"name": "AMD's plpa_map.c License",
-		"osiApproved": false,
-		"url": "licenses/AMDPLPA.txt"
+		"osiApproved": false
 	},
 	"ANTLR-PD": {
 		"name": "ANTLR Software Rights Notice",
-		"osiApproved": false,
-		"url": "licenses/ANTLR-PD.txt"
+		"osiApproved": false
 	},
 	"Apache-1.0": {
 		"name": "Apache License 1.0",
-		"osiApproved": false,
-		"url": "licenses/Apache-1.0.txt"
+		"osiApproved": false
 	},
 	"Apache-1.1": {
 		"name": "Apache License 1.1",
-		"osiApproved": true,
-		"url": "licenses/Apache-1.1.txt"
+		"osiApproved": true
 	},
 	"Apache-2.0": {
 		"name": "Apache License 2.0",
-		"osiApproved": true,
-		"url": "licenses/Apache-2.0.txt"
+		"osiApproved": true
 	},
 	"AML": {
 		"name": "Apple MIT License",
-		"osiApproved": false,
-		"url": "licenses/AML.txt"
+		"osiApproved": false
 	},
 	"APSL-1.0": {
 		"name": "Apple Public Source License 1.0",
-		"osiApproved": true,
-		"url": "licenses/APSL-1.0.txt"
+		"osiApproved": true
 	},
 	"APSL-1.1": {
 		"name": "Apple Public Source License 1.1",
-		"osiApproved": true,
-		"url": "licenses/APSL-1.1.txt"
+		"osiApproved": true
 	},
 	"APSL-1.2": {
 		"name": "Apple Public Source License 1.2",
-		"osiApproved": true,
-		"url": "licenses/APSL-1.2.txt"
+		"osiApproved": true
 	},
 	"APSL-2.0": {
 		"name": "Apple Public Source License 2.0",
-		"osiApproved": true,
-		"url": "licenses/APSL-2.0.txt"
+		"osiApproved": true
 	},
 	"Artistic-1.0": {
 		"name": "Artistic License 1.0",
-		"osiApproved": true,
-		"url": "licenses/Artistic-1.0.txt"
+		"osiApproved": true
 	},
 	"Artistic-1.0-Perl": {
 		"name": "Artistic License 1.0 (Perl)",
-		"osiApproved": true,
-		"url": "licenses/Artistic-1.0-Perl.txt"
+		"osiApproved": true
 	},
 	"Artistic-1.0-cl8": {
 		"name": "Artistic License 1.0 w/clause 8",
-		"osiApproved": true,
-		"url": "licenses/Artistic-1.0-cl8.txt"
+		"osiApproved": true
 	},
 	"Artistic-2.0": {
 		"name": "Artistic License 2.0",
-		"osiApproved": true,
-		"url": "licenses/Artistic-2.0.txt"
+		"osiApproved": true
 	},
 	"AAL": {
 		"name": "Attribution Assurance License",
-		"osiApproved": true,
-		"url": "licenses/AAL.txt"
+		"osiApproved": true
 	},
 	"Bahyph": {
 		"name": "Bahyph License",
-		"osiApproved": false,
-		"url": "licenses/Bahyph.txt"
+		"osiApproved": false
 	},
 	"Barr": {
 		"name": "Barr License",
-		"osiApproved": false,
-		"url": "licenses/Barr.txt"
+		"osiApproved": false
 	},
 	"Beerware": {
 		"name": "Beerware License",
-		"osiApproved": false,
-		"url": "licenses/Beerware.txt"
+		"osiApproved": false
 	},
 	"BitTorrent-1.0": {
 		"name": "BitTorrent Open Source License v1.0",
-		"osiApproved": false,
-		"url": "licenses/BitTorrent-1.0.txt"
+		"osiApproved": false
 	},
 	"BitTorrent-1.1": {
 		"name": "BitTorrent Open Source License v1.1",
-		"osiApproved": false,
-		"url": "licenses/BitTorrent-1.1.txt"
+		"osiApproved": false
 	},
 	"BSL-1.0": {
 		"name": "Boost Software License 1.0",
-		"osiApproved": true,
-		"url": "licenses/BSL-1.0.txt"
+		"osiApproved": true
 	},
 	"Borceux": {
 		"name": "Borceux license",
-		"osiApproved": false,
-		"url": "licenses/Borceux.txt"
+		"osiApproved": false
 	},
 	"BSD-2-Clause": {
 		"name": "BSD 2-clause \"Simplified\" License",
-		"osiApproved": true,
-		"url": "licenses/BSD-2-Clause.txt"
+		"osiApproved": true
 	},
 	"BSD-2-Clause-FreeBSD": {
 		"name": "BSD 2-clause FreeBSD License",
-		"osiApproved": false,
-		"url": "licenses/BSD-2-Clause-FreeBSD.txt"
+		"osiApproved": false
 	},
 	"BSD-2-Clause-NetBSD": {
 		"name": "BSD 2-clause NetBSD License",
-		"osiApproved": false,
-		"url": "licenses/BSD-2-Clause-NetBSD.txt"
+		"osiApproved": false
 	},
 	"BSD-3-Clause": {
 		"name": "BSD 3-clause \"New\" or \"Revised\" License",
-		"osiApproved": true,
-		"url": "licenses/BSD-3-Clause.txt"
+		"osiApproved": true
 	},
 	"BSD-3-Clause-Clear": {
 		"name": "BSD 3-clause Clear License",
-		"osiApproved": false,
-		"url": "licenses/BSD-3-Clause-Clear.txt"
+		"osiApproved": false
 	},
 	"BSD-4-Clause": {
 		"name": "BSD 4-clause \"Original\" or \"Old\" License",
-		"osiApproved": false,
-		"url": "licenses/BSD-4-Clause.txt"
+		"osiApproved": false
 	},
 	"BSD-Protection": {
 		"name": "BSD Protection License",
-		"osiApproved": false,
-		"url": "licenses/BSD-Protection.txt"
+		"osiApproved": false
 	},
 	"BSD-3-Clause-Attribution": {
 		"name": "BSD with attribution",
-		"osiApproved": false,
-		"url": "licenses/BSD-3-Clause-Attribution.txt"
+		"osiApproved": false
 	},
 	"BSD-4-Clause-UC": {
 		"name": "BSD-4-Clause (University of California-Specific)",
-		"osiApproved": false,
-		"url": "licenses/BSD-4-Clause-UC.txt"
+		"osiApproved": false
 	},
 	"bzip2-1.0.5": {
 		"name": "bzip2 and libbzip2 License v1.0.5",
-		"osiApproved": false,
-		"url": "licenses/bzip2-1.0.5.txt"
+		"osiApproved": false
 	},
 	"bzip2-1.0.6": {
 		"name": "bzip2 and libbzip2 License v1.0.6",
-		"osiApproved": false,
-		"url": "licenses/bzip2-1.0.6.txt"
+		"osiApproved": false
 	},
 	"Caldera": {
 		"name": "Caldera License",
-		"osiApproved": false,
-		"url": "licenses/Caldera.txt"
+		"osiApproved": false
 	},
 	"CECILL-1.0": {
 		"name": "CeCILL Free Software License Agreement v1.0",
-		"osiApproved": false,
-		"url": "licenses/CECILL-1.0.txt"
+		"osiApproved": false
 	},
 	"CECILL-1.1": {
 		"name": "CeCILL Free Software License Agreement v1.1",
-		"osiApproved": false,
-		"url": "licenses/CECILL-1.1.txt"
+		"osiApproved": false
 	},
 	"CECILL-2.0": {
 		"name": "CeCILL Free Software License Agreement v2.0",
-		"osiApproved": false,
-		"url": "licenses/CECILL-2.0.txt"
+		"osiApproved": false
 	},
 	"CECILL-B": {
 		"name": "CeCILL-B Free Software License Agreement",
-		"osiApproved": false,
-		"url": "licenses/CECILL-B.txt"
+		"osiApproved": false
 	},
 	"CECILL-C": {
 		"name": "CeCILL-C Free Software License Agreement",
-		"osiApproved": false,
-		"url": "licenses/CECILL-C.txt"
+		"osiApproved": false
 	},
 	"ClArtistic": {
 		"name": "Clarified Artistic License",
-		"osiApproved": false,
-		"url": "licenses/ClArtistic.txt"
+		"osiApproved": false
 	},
 	"MIT-CMU": {
 		"name": "CMU License",
-		"osiApproved": false,
-		"url": "licenses/MIT-CMU.txt"
+		"osiApproved": false
 	},
 	"CNRI-Python": {
 		"name": "CNRI Python License",
-		"osiApproved": true,
-		"url": "licenses/CNRI-Python.txt"
+		"osiApproved": true
 	},
 	"CNRI-Python-GPL-Compatible": {
 		"name": "CNRI Python Open Source GPL Compatible License Agreement",
-		"osiApproved": false,
-		"url": "licenses/CNRI-Python-GPL-Compatible.txt"
+		"osiApproved": false
 	},
 	"CPOL-1.02": {
 		"name": "Code Project Open License 1.02",
-		"osiApproved": false,
-		"url": "licenses/CPOL-1.02.txt"
+		"osiApproved": false
 	},
 	"CDDL-1.0": {
 		"name": "Common Development and Distribution License 1.0",
-		"osiApproved": true,
-		"url": "licenses/CDDL-1.0.txt"
+		"osiApproved": true
 	},
 	"CDDL-1.1": {
 		"name": "Common Development and Distribution License 1.1",
-		"osiApproved": false,
-		"url": "licenses/CDDL-1.1.txt"
+		"osiApproved": false
 	},
 	"CPAL-1.0": {
 		"name": "Common Public Attribution License 1.0 ",
-		"osiApproved": true,
-		"url": "licenses/CPAL-1.0.txt"
+		"osiApproved": true
 	},
 	"CPL-1.0": {
 		"name": "Common Public License 1.0",
-		"osiApproved": true,
-		"url": "licenses/CPL-1.0.txt"
+		"osiApproved": true
 	},
 	"CATOSL-1.1": {
 		"name": "Computer Associates Trusted Open Source License 1.1",
-		"osiApproved": true,
-		"url": "licenses/CATOSL-1.1.txt"
+		"osiApproved": true
 	},
 	"Condor-1.1": {
 		"name": "Condor Public License v1.1",
-		"osiApproved": false,
-		"url": "licenses/Condor-1.1.txt"
+		"osiApproved": false
 	},
 	"CC-BY-1.0": {
 		"name": "Creative Commons Attribution 1.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-1.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-2.0": {
 		"name": "Creative Commons Attribution 2.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-2.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-2.5": {
 		"name": "Creative Commons Attribution 2.5",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-2.5.txt"
+		"osiApproved": false
 	},
 	"CC-BY-3.0": {
 		"name": "Creative Commons Attribution 3.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-3.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-4.0": {
 		"name": "Creative Commons Attribution 4.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-4.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-ND-1.0": {
 		"name": "Creative Commons Attribution No Derivatives 1.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-ND-1.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-ND-2.0": {
 		"name": "Creative Commons Attribution No Derivatives 2.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-ND-2.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-ND-2.5": {
 		"name": "Creative Commons Attribution No Derivatives 2.5",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-ND-2.5.txt"
+		"osiApproved": false
 	},
 	"CC-BY-ND-3.0": {
 		"name": "Creative Commons Attribution No Derivatives 3.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-ND-3.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-ND-4.0": {
 		"name": "Creative Commons Attribution No Derivatives 4.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-ND-4.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-NC-1.0": {
 		"name": "Creative Commons Attribution Non Commercial 1.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-NC-1.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-NC-2.0": {
 		"name": "Creative Commons Attribution Non Commercial 2.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-NC-2.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-NC-2.5": {
 		"name": "Creative Commons Attribution Non Commercial 2.5",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-NC-2.5.txt"
+		"osiApproved": false
 	},
 	"CC-BY-NC-3.0": {
 		"name": "Creative Commons Attribution Non Commercial 3.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-NC-3.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-NC-4.0": {
 		"name": "Creative Commons Attribution Non Commercial 4.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-NC-4.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-NC-ND-1.0": {
 		"name": "Creative Commons Attribution Non Commercial No Derivatives 1.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-NC-ND-1.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-NC-ND-2.0": {
 		"name": "Creative Commons Attribution Non Commercial No Derivatives 2.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-NC-ND-2.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-NC-ND-2.5": {
 		"name": "Creative Commons Attribution Non Commercial No Derivatives 2.5",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-NC-ND-2.5.txt"
+		"osiApproved": false
 	},
 	"CC-BY-NC-ND-3.0": {
 		"name": "Creative Commons Attribution Non Commercial No Derivatives 3.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-NC-ND-3.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-NC-ND-4.0": {
 		"name": "Creative Commons Attribution Non Commercial No Derivatives 4.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-NC-ND-4.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-NC-SA-1.0": {
 		"name": "Creative Commons Attribution Non Commercial Share Alike 1.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-NC-SA-1.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-NC-SA-2.0": {
 		"name": "Creative Commons Attribution Non Commercial Share Alike 2.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-NC-SA-2.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-NC-SA-2.5": {
 		"name": "Creative Commons Attribution Non Commercial Share Alike 2.5",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-NC-SA-2.5.txt"
+		"osiApproved": false
 	},
 	"CC-BY-NC-SA-3.0": {
 		"name": "Creative Commons Attribution Non Commercial Share Alike 3.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-NC-SA-3.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-NC-SA-4.0": {
 		"name": "Creative Commons Attribution Non Commercial Share Alike 4.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-NC-SA-4.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-SA-1.0": {
 		"name": "Creative Commons Attribution Share Alike 1.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-SA-1.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-SA-2.0": {
 		"name": "Creative Commons Attribution Share Alike 2.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-SA-2.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-SA-2.5": {
 		"name": "Creative Commons Attribution Share Alike 2.5",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-SA-2.5.txt"
+		"osiApproved": false
 	},
 	"CC-BY-SA-3.0": {
 		"name": "Creative Commons Attribution Share Alike 3.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-SA-3.0.txt"
+		"osiApproved": false
 	},
 	"CC-BY-SA-4.0": {
 		"name": "Creative Commons Attribution Share Alike 4.0",
-		"osiApproved": false,
-		"url": "licenses/CC-BY-SA-4.0.txt"
+		"osiApproved": false
 	},
 	"CC0-1.0": {
 		"name": "Creative Commons Zero v1.0 Universal",
-		"osiApproved": false,
-		"url": "licenses/CC0-1.0.txt"
+		"osiApproved": false
 	},
 	"Crossword": {
 		"name": "Crossword License",
-		"osiApproved": false,
-		"url": "licenses/Crossword.txt"
+		"osiApproved": false
 	},
 	"CUA-OPL-1.0": {
 		"name": "CUA Office Public License v1.0",
-		"osiApproved": true,
-		"url": "licenses/CUA-OPL-1.0.txt"
+		"osiApproved": true
 	},
 	"Cube": {
 		"name": "Cube License",
-		"osiApproved": false,
-		"url": "licenses/Cube.txt"
+		"osiApproved": false
 	},
 	"D-FSL-1.0": {
 		"name": "Deutsche Freie Software Lizenz",
-		"osiApproved": false,
-		"url": "licenses/D-FSL-1.0.txt"
+		"osiApproved": false
 	},
 	"diffmark": {
 		"name": "diffmark license",
-		"osiApproved": false,
-		"url": "licenses/diffmark.txt"
+		"osiApproved": false
 	},
 	"WTFPL": {
 		"name": "Do What The F*ck You Want To Public License",
-		"osiApproved": false,
-		"url": "licenses/WTFPL.txt"
+		"osiApproved": false
 	},
 	"DOC": {
 		"name": "DOC License",
-		"osiApproved": false,
-		"url": "licenses/DOC.txt"
+		"osiApproved": false
 	},
 	"Dotseqn": {
 		"name": "Dotseqn License",
-		"osiApproved": false,
-		"url": "licenses/Dotseqn.txt"
+		"osiApproved": false
 	},
 	"DSDP": {
 		"name": "DSDP License",
-		"osiApproved": false,
-		"url": "licenses/DSDP.txt"
+		"osiApproved": false
 	},
 	"dvipdfm": {
 		"name": "dvipdfm License",
-		"osiApproved": false,
-		"url": "licenses/dvipdfm.txt"
+		"osiApproved": false
 	},
 	"EPL-1.0": {
 		"name": "Eclipse Public License 1.0",
-		"osiApproved": true,
-		"url": "licenses/EPL-1.0.txt"
+		"osiApproved": true
 	},
 	"eCos-2.0": {
 		"name": "eCos license version 2.0",
-		"osiApproved": false,
-		"url": "licenses/eCos-2.0.txt"
+		"osiApproved": false
 	},
 	"ECL-1.0": {
 		"name": "Educational Community License v1.0",
-		"osiApproved": true,
-		"url": "licenses/ECL-1.0.txt"
+		"osiApproved": true
 	},
 	"ECL-2.0": {
 		"name": "Educational Community License v2.0",
-		"osiApproved": true,
-		"url": "licenses/ECL-2.0.txt"
+		"osiApproved": true
 	},
 	"eGenix": {
 		"name": "eGenix.com Public License 1.1.0",
-		"osiApproved": false,
-		"url": "licenses/eGenix.txt"
+		"osiApproved": false
 	},
 	"EFL-1.0": {
 		"name": "Eiffel Forum License v1.0",
-		"osiApproved": true,
-		"url": "licenses/EFL-1.0.txt"
+		"osiApproved": true
 	},
 	"EFL-2.0": {
 		"name": "Eiffel Forum License v2.0",
-		"osiApproved": true,
-		"url": "licenses/EFL-2.0.txt"
+		"osiApproved": true
 	},
 	"MIT-advertising": {
 		"name": "Enlightenment License (e16)",
-		"osiApproved": false,
-		"url": "licenses/MIT-advertising.txt"
+		"osiApproved": false
 	},
 	"MIT-enna": {
 		"name": "enna License",
-		"osiApproved": false,
-		"url": "licenses/MIT-enna.txt"
+		"osiApproved": false
 	},
 	"Entessa": {
 		"name": "Entessa Public License v1.0",
-		"osiApproved": true,
-		"url": "licenses/Entessa.txt"
+		"osiApproved": true
 	},
 	"ErlPL-1.1": {
 		"name": "Erlang Public License v1.1",
-		"osiApproved": false,
-		"url": "licenses/ErlPL-1.1.txt"
+		"osiApproved": false
 	},
 	"EUDatagrid": {
 		"name": "EU DataGrid Software License",
-		"osiApproved": true,
-		"url": "licenses/EUDatagrid.txt"
+		"osiApproved": true
 	},
 	"EUPL-1.0": {
 		"name": "European Union Public License 1.0",
-		"osiApproved": false,
-		"url": "licenses/EUPL-1.0.txt"
+		"osiApproved": false
 	},
 	"EUPL-1.1": {
 		"name": "European Union Public License 1.1",
-		"osiApproved": true,
-		"url": "licenses/EUPL-1.1.txt"
+		"osiApproved": true
 	},
 	"Eurosym": {
 		"name": "Eurosym License",
-		"osiApproved": false,
-		"url": "licenses/Eurosym.txt"
+		"osiApproved": false
 	},
 	"Fair": {
 		"name": "Fair License",
-		"osiApproved": true,
-		"url": "licenses/Fair.txt"
+		"osiApproved": true
 	},
 	"MIT-feh": {
 		"name": "feh License",
-		"osiApproved": false,
-		"url": "licenses/MIT-feh.txt"
+		"osiApproved": false
 	},
 	"Frameworx-1.0": {
 		"name": "Frameworx Open License 1.0",
-		"osiApproved": true,
-		"url": "licenses/Frameworx-1.0.txt"
+		"osiApproved": true
 	},
 	"FTL": {
 		"name": "Freetype Project License",
-		"osiApproved": false,
-		"url": "licenses/FTL.txt"
+		"osiApproved": false
 	},
 	"FSFUL": {
 		"name": "FSF Unlimited License",
-		"osiApproved": false,
-		"url": "licenses/FSFUL.txt"
+		"osiApproved": false
 	},
 	"FSFULLR": {
 		"name": "FSF Unlimited License (with License Retention)",
-		"osiApproved": false,
-		"url": "licenses/FSFULLR.txt"
+		"osiApproved": false
 	},
 	"Giftware": {
 		"name": "Giftware License",
-		"osiApproved": false,
-		"url": "licenses/Giftware.txt"
+		"osiApproved": false
 	},
 	"GL2PS": {
 		"name": "GL2PS License",
-		"osiApproved": false,
-		"url": "licenses/GL2PS.txt"
+		"osiApproved": false
 	},
 	"Glulxe": {
 		"name": "Glulxe License",
-		"osiApproved": false,
-		"url": "licenses/Glulxe.txt"
+		"osiApproved": false
 	},
 	"AGPL-3.0": {
 		"name": "GNU Affero General Public License v3.0",
-		"osiApproved": true,
-		"url": "licenses/AGPL-3.0.txt"
+		"osiApproved": true
 	},
 	"GFDL-1.1": {
 		"name": "GNU Free Documentation License v1.1",
-		"osiApproved": false,
-		"url": "licenses/GFDL-1.1.txt"
+		"osiApproved": false
 	},
 	"GFDL-1.2": {
 		"name": "GNU Free Documentation License v1.2",
-		"osiApproved": false,
-		"url": "licenses/GFDL-1.2.txt"
+		"osiApproved": false
 	},
 	"GFDL-1.3": {
 		"name": "GNU Free Documentation License v1.3",
-		"osiApproved": false,
-		"url": "licenses/GFDL-1.3.txt"
+		"osiApproved": false
 	},
 	"GPL-1.0": {
 		"name": "GNU General Public License v1.0 only",
-		"osiApproved": false,
-		"url": "licenses/GPL-1.0.txt"
+		"osiApproved": false
 	},
 	"GPL-1.0+": {
 		"name": "GNU General Public License v1.0 or later",
-		"osiApproved": false,
-		"url": "licenses/GPL-1.0+.txt"
+		"osiApproved": false
 	},
 	"GPL-2.0": {
 		"name": "GNU General Public License v2.0 only",
-		"osiApproved": true,
-		"url": "licenses/GPL-2.0.txt"
+		"osiApproved": true
 	},
 	"GPL-2.0+": {
 		"name": "GNU General Public License v2.0 or later",
-		"osiApproved": true,
-		"url": "licenses/GPL-2.0+.txt"
+		"osiApproved": true
 	},
 	"GPL-2.0-with-autoconf-exception": {
 		"name": "GNU General Public License v2.0 w/Autoconf exception",
-		"osiApproved": true,
-		"url": "licenses/GPL-2.0-with-autoconf-exception.txt"
+		"osiApproved": true
 	},
 	"GPL-2.0-with-bison-exception": {
 		"name": "GNU General Public License v2.0 w/Bison exception",
-		"osiApproved": true,
-		"url": "licenses/GPL-2.0-with-bison-exception.txt"
+		"osiApproved": true
 	},
 	"GPL-2.0-with-classpath-exception": {
 		"name": "GNU General Public License v2.0 w/Classpath exception",
-		"osiApproved": true,
-		"url": "licenses/GPL-2.0-with-classpath-exception.txt"
+		"osiApproved": true
 	},
 	"GPL-2.0-with-font-exception": {
 		"name": "GNU General Public License v2.0 w/Font exception",
-		"osiApproved": true,
-		"url": "licenses/GPL-2.0-with-font-exception.txt"
+		"osiApproved": true
 	},
 	"GPL-2.0-with-GCC-exception": {
 		"name": "GNU General Public License v2.0 w/GCC Runtime Library exception",
-		"osiApproved": true,
-		"url": "licenses/GPL-2.0-with-GCC-exception.txt"
+		"osiApproved": true
 	},
 	"GPL-3.0": {
 		"name": "GNU General Public License v3.0 only",
-		"osiApproved": true,
-		"url": "licenses/GPL-3.0.txt"
+		"osiApproved": true
 	},
 	"GPL-3.0+": {
 		"name": "GNU General Public License v3.0 or later",
-		"osiApproved": true,
-		"url": "licenses/GPL-3.0+.txt"
+		"osiApproved": true
 	},
 	"GPL-3.0-with-autoconf-exception": {
 		"name": "GNU General Public License v3.0 w/Autoconf exception",
-		"osiApproved": true,
-		"url": "licenses/GPL-3.0-with-autoconf-exception.txt"
+		"osiApproved": true
 	},
 	"GPL-3.0-with-GCC-exception": {
 		"name": "GNU General Public License v3.0 w/GCC Runtime Library exception",
-		"osiApproved": true,
-		"url": "licenses/GPL-3.0-with-GCC-exception.txt"
+		"osiApproved": true
 	},
 	"LGPL-2.1": {
 		"name": "GNU Lesser General Public License v2.1 only",
-		"osiApproved": true,
-		"url": "licenses/LGPL-2.1.txt"
+		"osiApproved": true
 	},
 	"LGPL-2.1+": {
 		"name": "GNU Lesser General Public License v2.1 or later",
-		"osiApproved": true,
-		"url": "licenses/LGPL-2.1+.txt"
+		"osiApproved": true
 	},
 	"LGPL-3.0": {
 		"name": "GNU Lesser General Public License v3.0 only",
-		"osiApproved": true,
-		"url": "licenses/LGPL-3.0.txt"
+		"osiApproved": true
 	},
 	"LGPL-3.0+": {
 		"name": "GNU Lesser General Public License v3.0 or later",
-		"osiApproved": true,
-		"url": "licenses/LGPL-3.0+.txt"
+		"osiApproved": true
 	},
 	"LGPL-2.0": {
 		"name": "GNU Library General Public License v2 only",
-		"osiApproved": true,
-		"url": "licenses/LGPL-2.0.txt"
+		"osiApproved": true
 	},
 	"LGPL-2.0+": {
 		"name": "GNU Library General Public License v2 or later",
-		"osiApproved": true,
-		"url": "licenses/LGPL-2.0+.txt"
+		"osiApproved": true
 	},
 	"gnuplot": {
 		"name": "gnuplot License",
-		"osiApproved": false,
-		"url": "licenses/gnuplot.txt"
+		"osiApproved": false
 	},
 	"gSOAP-1.3b": {
 		"name": "gSOAP Public License v1.3b",
-		"osiApproved": false,
-		"url": "licenses/gSOAP-1.3b.txt"
+		"osiApproved": false
 	},
 	"HaskellReport": {
 		"name": "Haskell Language Report License",
-		"osiApproved": false,
-		"url": "licenses/HaskellReport.txt"
+		"osiApproved": false
 	},
 	"HPND": {
 		"name": "Historic Permission Notice and Disclaimer",
-		"osiApproved": true,
-		"url": "licenses/HPND.txt"
+		"osiApproved": true
 	},
 	"IBM-pibs": {
 		"name": "IBM PowerPC Initialization and Boot Software ",
-		"osiApproved": false,
-		"url": "licenses/IBM-pibs.txt"
+		"osiApproved": false
 	},
 	"IPL-1.0": {
 		"name": "IBM Public License v1.0",
-		"osiApproved": true,
-		"url": "licenses/IPL-1.0.txt"
+		"osiApproved": true
 	},
 	"ImageMagick": {
 		"name": "ImageMagick License",
-		"osiApproved": false,
-		"url": "licenses/ImageMagick.txt"
+		"osiApproved": false
 	},
 	"iMatix": {
 		"name": "iMatix Standard Function Library Agreement",
-		"osiApproved": false,
-		"url": "licenses/iMatix.txt"
+		"osiApproved": false
 	},
 	"Imlib2": {
 		"name": "Imlib2 License",
-		"osiApproved": false,
-		"url": "licenses/Imlib2.txt"
+		"osiApproved": false
 	},
 	"IJG": {
 		"name": "Independent JPEG Group License",
-		"osiApproved": false,
-		"url": "licenses/IJG.txt"
+		"osiApproved": false
 	},
 	"Intel-ACPI": {
 		"name": "Intel ACPI Software License Agreement",
-		"osiApproved": false,
-		"url": "licenses/Intel-ACPI.txt"
+		"osiApproved": false
 	},
 	"Intel": {
 		"name": "Intel Open Source License",
-		"osiApproved": true,
-		"url": "licenses/Intel.txt"
+		"osiApproved": true
 	},
 	"IPA": {
 		"name": "IPA Font License",
-		"osiApproved": true,
-		"url": "licenses/IPA.txt"
+		"osiApproved": true
 	},
 	"ISC": {
 		"name": "ISC License",
-		"osiApproved": true,
-		"url": "licenses/ISC.txt"
+		"osiApproved": true
 	},
 	"JasPer-2.0": {
 		"name": "JasPer License",
-		"osiApproved": false,
-		"url": "licenses/JasPer-2.0.txt"
+		"osiApproved": false
 	},
 	"JSON": {
 		"name": "JSON License",
-		"osiApproved": false,
-		"url": "licenses/JSON.txt"
+		"osiApproved": false
 	},
 	"LPPL-1.3a": {
 		"name": "LaTeX Project Public License 1.3a ",
-		"osiApproved": false,
-		"url": "licenses/LPPL-1.3a.txt"
+		"osiApproved": false
 	},
 	"LPPL-1.0": {
 		"name": "LaTeX Project Public License v1.0",
-		"osiApproved": false,
-		"url": "licenses/LPPL-1.0.txt"
+		"osiApproved": false
 	},
 	"LPPL-1.1": {
 		"name": "LaTeX Project Public License v1.1",
-		"osiApproved": false,
-		"url": "licenses/LPPL-1.1.txt"
+		"osiApproved": false
 	},
 	"LPPL-1.2": {
 		"name": "LaTeX Project Public License v1.2",
-		"osiApproved": false,
-		"url": "licenses/LPPL-1.2.txt"
+		"osiApproved": false
 	},
 	"LPPL-1.3c": {
 		"name": "LaTeX Project Public License v1.3c",
-		"osiApproved": true,
-		"url": "licenses/LPPL-1.3c.txt"
+		"osiApproved": true
 	},
 	"Latex2e": {
 		"name": "Latex2e License",
-		"osiApproved": false,
-		"url": "licenses/Latex2e.txt"
+		"osiApproved": false
 	},
 	"BSD-3-Clause-LBNL": {
 		"name": "Lawrence Berkeley National Labs BSD variant license",
-		"osiApproved": false,
-		"url": "licenses/BSD-3-Clause-LBNL.txt"
+		"osiApproved": false
 	},
 	"Leptonica": {
 		"name": "Leptonica License",
-		"osiApproved": false,
-		"url": "licenses/Leptonica.txt"
+		"osiApproved": false
 	},
 	"Libpng": {
 		"name": "libpng License",
-		"osiApproved": false,
-		"url": "licenses/Libpng.txt"
+		"osiApproved": false
 	},
 	"libtiff": {
 		"name": "libtiff License",
-		"osiApproved": false,
-		"url": "licenses/libtiff.txt"
+		"osiApproved": false
 	},
 	"LPL-1.02": {
 		"name": "Lucent Public License v1.02",
-		"osiApproved": true,
-		"url": "licenses/LPL-1.02.txt"
+		"osiApproved": true
 	},
 	"LPL-1.0": {
 		"name": "Lucent Public License Version 1.0",
-		"osiApproved": true,
-		"url": "licenses/LPL-1.0.txt"
+		"osiApproved": true
 	},
 	"MakeIndex": {
 		"name": "MakeIndex License",
-		"osiApproved": false,
-		"url": "licenses/MakeIndex.txt"
+		"osiApproved": false
 	},
 	"MTLL": {
 		"name": "Matrix Template Library License",
-		"osiApproved": false,
-		"url": "licenses/MTLL.txt"
+		"osiApproved": false
 	},
 	"MS-PL": {
 		"name": "Microsoft Public License",
-		"osiApproved": true,
-		"url": "licenses/MS-PL.txt"
+		"osiApproved": true
 	},
 	"MS-RL": {
 		"name": "Microsoft Reciprocal License",
-		"osiApproved": true,
-		"url": "licenses/MS-RL.txt"
+		"osiApproved": true
 	},
 	"MirOS": {
 		"name": "MirOS Licence",
-		"osiApproved": true,
-		"url": "licenses/MirOS.txt"
+		"osiApproved": true
 	},
 	"MITNFA": {
 		"name": "MIT +no-false-attribs license",
-		"osiApproved": false,
-		"url": "licenses/MITNFA.txt"
+		"osiApproved": false
 	},
 	"MIT": {
 		"name": "MIT License",
-		"osiApproved": true,
-		"url": "licenses/MIT.txt"
+		"osiApproved": true
 	},
 	"Motosoto": {
 		"name": "Motosoto License",
-		"osiApproved": true,
-		"url": "licenses/Motosoto.txt"
+		"osiApproved": true
 	},
 	"MPL-1.0": {
 		"name": "Mozilla Public License 1.0",
-		"osiApproved": true,
-		"url": "licenses/MPL-1.0.txt"
+		"osiApproved": true
 	},
 	"MPL-1.1": {
 		"name": "Mozilla Public License 1.1 ",
-		"osiApproved": true,
-		"url": "licenses/MPL-1.1.txt"
+		"osiApproved": true
 	},
 	"MPL-2.0": {
 		"name": "Mozilla Public License 2.0",
-		"osiApproved": true,
-		"url": "licenses/MPL-2.0.txt"
+		"osiApproved": true
 	},
 	"MPL-2.0-no-copyleft-exception": {
 		"name": "Mozilla Public License 2.0 (no copyleft exception)",
-		"osiApproved": true,
-		"url": "licenses/MPL-2.0-no-copyleft-exception.txt"
+		"osiApproved": true
 	},
 	"mpich2": {
 		"name": "mpich2 License",
-		"osiApproved": false,
-		"url": "licenses/mpich2.txt"
+		"osiApproved": false
 	},
 	"Multics": {
 		"name": "Multics License",
-		"osiApproved": true,
-		"url": "licenses/Multics.txt"
+		"osiApproved": true
 	},
 	"Mup": {
 		"name": "Mup License",
-		"osiApproved": false,
-		"url": "licenses/Mup.txt"
+		"osiApproved": false
 	},
 	"NASA-1.3": {
 		"name": "NASA Open Source Agreement 1.3",
-		"osiApproved": true,
-		"url": "licenses/NASA-1.3.txt"
+		"osiApproved": true
 	},
 	"Naumen": {
 		"name": "Naumen Public License",
-		"osiApproved": true,
-		"url": "licenses/Naumen.txt"
+		"osiApproved": true
 	},
 	"NBPL-1.0": {
 		"name": "Net Boolean Public License v1 ",
-		"osiApproved": false,
-		"url": "licenses/NBPL-1.0.txt"
+		"osiApproved": false
 	},
 	"NetCDF": {
 		"name": "NetCDF license",
-		"osiApproved": false,
-		"url": "licenses/NetCDF.txt"
+		"osiApproved": false
 	},
 	"NGPL": {
 		"name": "Nethack General Public License",
-		"osiApproved": true,
-		"url": "licenses/NGPL.txt"
+		"osiApproved": true
 	},
 	"NOSL": {
 		"name": "Netizen Open Source License",
-		"osiApproved": false,
-		"url": "licenses/NOSL.txt"
+		"osiApproved": false
 	},
 	"NPL-1.0": {
 		"name": "Netscape Public License v1.0",
-		"osiApproved": false,
-		"url": "licenses/NPL-1.0.txt"
+		"osiApproved": false
 	},
 	"NPL-1.1": {
 		"name": "Netscape Public License v1.1",
-		"osiApproved": false,
-		"url": "licenses/NPL-1.1.txt"
+		"osiApproved": false
 	},
 	"Newsletr": {
 		"name": "Newsletr License",
-		"osiApproved": false,
-		"url": "licenses/Newsletr.txt"
+		"osiApproved": false
 	},
 	"NLPL": {
 		"name": "No Limit Public License",
-		"osiApproved": false,
-		"url": "licenses/NLPL.txt"
+		"osiApproved": false
 	},
 	"Nokia": {
 		"name": "Nokia Open Source License",
-		"osiApproved": true,
-		"url": "licenses/Nokia.txt"
+		"osiApproved": true
 	},
 	"NPOSL-3.0": {
 		"name": "Non-Profit Open Software License 3.0",
-		"osiApproved": true,
-		"url": "licenses/NPOSL-3.0.txt"
+		"osiApproved": true
 	},
 	"Noweb": {
 		"name": "Noweb License",
-		"osiApproved": false,
-		"url": "licenses/Noweb.txt"
+		"osiApproved": false
 	},
 	"NRL": {
 		"name": "NRL License",
-		"osiApproved": false,
-		"url": "licenses/NRL.txt"
+		"osiApproved": false
 	},
 	"NTP": {
 		"name": "NTP License",
-		"osiApproved": true,
-		"url": "licenses/NTP.txt"
+		"osiApproved": true
 	},
 	"Nunit": {
 		"name": "Nunit License",
-		"osiApproved": false,
-		"url": "licenses/Nunit.txt"
+		"osiApproved": false
 	},
 	"OCLC-2.0": {
 		"name": "OCLC Research Public License 2.0",
-		"osiApproved": true,
-		"url": "licenses/OCLC-2.0.txt"
+		"osiApproved": true
 	},
 	"ODbL-1.0": {
 		"name": "ODC Open Database License v1.0",
-		"osiApproved": false,
-		"url": "licenses/ODbL-1.0.txt"
+		"osiApproved": false
 	},
 	"PDDL-1.0": {
 		"name": "ODC Public Domain Dedication & License 1.0",
-		"osiApproved": false,
-		"url": "licenses/PDDL-1.0.txt"
+		"osiApproved": false
 	},
 	"OGTSL": {
 		"name": "Open Group Test Suite License",
-		"osiApproved": true,
-		"url": "licenses/OGTSL.txt"
+		"osiApproved": true
 	},
 	"OLDAP-2.2.2": {
 		"name": "Open LDAP Public License  2.2.2",
-		"osiApproved": false,
-		"url": "licenses/OLDAP-2.2.2.txt"
+		"osiApproved": false
 	},
 	"OLDAP-1.1": {
 		"name": "Open LDAP Public License v1.1",
-		"osiApproved": false,
-		"url": "licenses/OLDAP-1.1.txt"
+		"osiApproved": false
 	},
 	"OLDAP-1.2": {
 		"name": "Open LDAP Public License v1.2 ",
-		"osiApproved": false,
-		"url": "licenses/OLDAP-1.2.txt"
+		"osiApproved": false
 	},
 	"OLDAP-1.3": {
 		"name": "Open LDAP Public License v1.3",
-		"osiApproved": false,
-		"url": "licenses/OLDAP-1.3.txt"
+		"osiApproved": false
 	},
 	"OLDAP-1.4": {
 		"name": "Open LDAP Public License v1.4",
-		"osiApproved": false,
-		"url": "licenses/OLDAP-1.4.txt"
+		"osiApproved": false
 	},
 	"OLDAP-2.0": {
 		"name": "Open LDAP Public License v2.0 (or possibly 2.0A and 2.0B)",
-		"osiApproved": false,
-		"url": "licenses/OLDAP-2.0.txt"
+		"osiApproved": false
 	},
 	"OLDAP-2.0.1": {
 		"name": "Open LDAP Public License v2.0.1",
-		"osiApproved": false,
-		"url": "licenses/OLDAP-2.0.1.txt"
+		"osiApproved": false
 	},
 	"OLDAP-2.1": {
 		"name": "Open LDAP Public License v2.1",
-		"osiApproved": false,
-		"url": "licenses/OLDAP-2.1.txt"
+		"osiApproved": false
 	},
 	"OLDAP-2.2": {
 		"name": "Open LDAP Public License v2.2",
-		"osiApproved": false,
-		"url": "licenses/OLDAP-2.2.txt"
+		"osiApproved": false
 	},
 	"OLDAP-2.2.1": {
 		"name": "Open LDAP Public License v2.2.1",
-		"osiApproved": false,
-		"url": "licenses/OLDAP-2.2.1.txt"
+		"osiApproved": false
 	},
 	"OLDAP-2.3": {
 		"name": "Open LDAP Public License v2.3",
-		"osiApproved": false,
-		"url": "licenses/OLDAP-2.3.txt"
+		"osiApproved": false
 	},
 	"OLDAP-2.4": {
 		"name": "Open LDAP Public License v2.4",
-		"osiApproved": false,
-		"url": "licenses/OLDAP-2.4.txt"
+		"osiApproved": false
 	},
 	"OLDAP-2.5": {
 		"name": "Open LDAP Public License v2.5",
-		"osiApproved": false,
-		"url": "licenses/OLDAP-2.5.txt"
+		"osiApproved": false
 	},
 	"OLDAP-2.6": {
 		"name": "Open LDAP Public License v2.6",
-		"osiApproved": false,
-		"url": "licenses/OLDAP-2.6.txt"
+		"osiApproved": false
 	},
 	"OLDAP-2.7": {
 		"name": "Open LDAP Public License v2.7",
-		"osiApproved": false,
-		"url": "licenses/OLDAP-2.7.txt"
+		"osiApproved": false
 	},
 	"OML": {
 		"name": "Open Market License",
-		"osiApproved": false,
-		"url": "licenses/OML.txt"
+		"osiApproved": false
 	},
 	"OPL-1.0": {
 		"name": "Open Public License v1.0",
-		"osiApproved": false,
-		"url": "licenses/OPL-1.0.txt"
+		"osiApproved": false
 	},
 	"OSL-1.0": {
 		"name": "Open Software License 1.0",
-		"osiApproved": true,
-		"url": "licenses/OSL-1.0.txt"
+		"osiApproved": true
 	},
 	"OSL-1.1": {
 		"name": "Open Software License 1.1",
-		"osiApproved": false,
-		"url": "licenses/OSL-1.1.txt"
+		"osiApproved": false
 	},
 	"OSL-2.0": {
 		"name": "Open Software License 2.0",
-		"osiApproved": true,
-		"url": "licenses/OSL-2.0.txt"
+		"osiApproved": true
 	},
 	"OSL-2.1": {
 		"name": "Open Software License 2.1",
-		"osiApproved": true,
-		"url": "licenses/OSL-2.1.txt"
+		"osiApproved": true
 	},
 	"OSL-3.0": {
 		"name": "Open Software License 3.0",
-		"osiApproved": true,
-		"url": "licenses/OSL-3.0.txt"
+		"osiApproved": true
 	},
 	"OLDAP-2.8": {
 		"name": "OpenLDAP Public License v2.8",
-		"osiApproved": false,
-		"url": "licenses/OLDAP-2.8.txt"
+		"osiApproved": false
 	},
 	"OpenSSL": {
 		"name": "OpenSSL License",
-		"osiApproved": false,
-		"url": "licenses/OpenSSL.txt"
+		"osiApproved": false
 	},
 	"PHP-3.0": {
 		"name": "PHP License v3.0",
-		"osiApproved": true,
-		"url": "licenses/PHP-3.0.txt"
+		"osiApproved": true
 	},
 	"PHP-3.01": {
 		"name": "PHP License v3.01",
-		"osiApproved": false,
-		"url": "licenses/PHP-3.01.txt"
+		"osiApproved": false
 	},
 	"Plexus": {
 		"name": "Plexus Classworlds License",
-		"osiApproved": false,
-		"url": "licenses/Plexus.txt"
+		"osiApproved": false
 	},
 	"PostgreSQL": {
 		"name": "PostgreSQL License",
-		"osiApproved": true,
-		"url": "licenses/PostgreSQL.txt"
+		"osiApproved": true
 	},
 	"psfrag": {
 		"name": "psfrag License",
-		"osiApproved": false,
-		"url": "licenses/psfrag.txt"
+		"osiApproved": false
 	},
 	"psutils": {
 		"name": "psutils License",
-		"osiApproved": false,
-		"url": "licenses/psutils.txt"
+		"osiApproved": false
 	},
 	"Python-2.0": {
 		"name": "Python License 2.0",
-		"osiApproved": true,
-		"url": "licenses/Python-2.0.txt"
+		"osiApproved": true
 	},
 	"QPL-1.0": {
 		"name": "Q Public License 1.0",
-		"osiApproved": true,
-		"url": "licenses/QPL-1.0.txt"
+		"osiApproved": true
 	},
 	"Qhull": {
 		"name": "Qhull License",
-		"osiApproved": false,
-		"url": "licenses/Qhull.txt"
+		"osiApproved": false
 	},
 	"Rdisc": {
 		"name": "Rdisc License",
-		"osiApproved": false,
-		"url": "licenses/Rdisc.txt"
+		"osiApproved": false
 	},
 	"RPSL-1.0": {
 		"name": "RealNetworks Public Source License v1.0",
-		"osiApproved": true,
-		"url": "licenses/RPSL-1.0.txt"
+		"osiApproved": true
 	},
 	"RPL-1.1": {
 		"name": "Reciprocal Public License 1.1",
-		"osiApproved": true,
-		"url": "licenses/RPL-1.1.txt"
+		"osiApproved": true
 	},
 	"RPL-1.5": {
 		"name": "Reciprocal Public License 1.5 ",
-		"osiApproved": true,
-		"url": "licenses/RPL-1.5.txt"
+		"osiApproved": true
 	},
 	"RHeCos-1.1": {
 		"name": "Red Hat eCos Public License v1.1",
-		"osiApproved": false,
-		"url": "licenses/RHeCos-1.1.txt"
+		"osiApproved": false
 	},
 	"RSCPL": {
 		"name": "Ricoh Source Code Public License",
-		"osiApproved": true,
-		"url": "licenses/RSCPL.txt"
+		"osiApproved": true
 	},
 	"Ruby": {
 		"name": "Ruby License",
-		"osiApproved": false,
-		"url": "licenses/Ruby.txt"
+		"osiApproved": false
 	},
 	"SAX-PD": {
 		"name": "Sax Public Domain Notice",
-		"osiApproved": false,
-		"url": "licenses/SAX-PD.txt"
+		"osiApproved": false
 	},
 	"Saxpath": {
 		"name": "Saxpath License",
-		"osiApproved": false,
-		"url": "licenses/Saxpath.txt"
+		"osiApproved": false
 	},
 	"SCEA": {
 		"name": "SCEA Shared Source License",
-		"osiApproved": false,
-		"url": "licenses/SCEA.txt"
+		"osiApproved": false
 	},
 	"SWL": {
 		"name": "Scheme Widget Library (SWL) Software License Agreement",
-		"osiApproved": false,
-		"url": "licenses/SWL.txt"
+		"osiApproved": false
 	},
 	"SGI-B-1.0": {
 		"name": "SGI Free Software License B v1.0",
-		"osiApproved": false,
-		"url": "licenses/SGI-B-1.0.txt"
+		"osiApproved": false
 	},
 	"SGI-B-1.1": {
 		"name": "SGI Free Software License B v1.1",
-		"osiApproved": false,
-		"url": "licenses/SGI-B-1.1.txt"
+		"osiApproved": false
 	},
 	"SGI-B-2.0": {
 		"name": "SGI Free Software License B v2.0",
-		"osiApproved": false,
-		"url": "licenses/SGI-B-2.0.txt"
+		"osiApproved": false
 	},
 	"OFL-1.0": {
 		"name": "SIL Open Font License 1.0",
-		"osiApproved": false,
-		"url": "licenses/OFL-1.0.txt"
+		"osiApproved": false
 	},
 	"OFL-1.1": {
 		"name": "SIL Open Font License 1.1",
-		"osiApproved": true,
-		"url": "licenses/OFL-1.1.txt"
+		"osiApproved": true
 	},
 	"SimPL-2.0": {
 		"name": "Simple Public License 2.0",
-		"osiApproved": true,
-		"url": "licenses/SimPL-2.0.txt"
+		"osiApproved": true
 	},
 	"Sleepycat": {
 		"name": "Sleepycat License",
-		"osiApproved": true,
-		"url": "licenses/Sleepycat.txt"
+		"osiApproved": true
 	},
 	"SNIA": {
 		"name": "SNIA Public License 1.1",
-		"osiApproved": false,
-		"url": "licenses/SNIA.txt"
+		"osiApproved": false
 	},
 	"SMLNJ": {
 		"name": "Standard ML of New Jersey License",
-		"osiApproved": false,
-		"url": "licenses/SMLNJ.txt"
+		"osiApproved": false
 	},
 	"StandardML-NJ": {
 		"name": "Standard ML of New Jersey License",
-		"osiApproved": false,
-		"url": "licenses/StandardML-NJ.txt"
+		"osiApproved": false
 	},
 	"SugarCRM-1.1.3": {
 		"name": "SugarCRM Public License v1.1.3",
-		"osiApproved": false,
-		"url": "licenses/SugarCRM-1.1.3.txt"
+		"osiApproved": false
 	},
 	"SISSL": {
 		"name": "Sun Industry Standards Source License v1.1",
-		"osiApproved": true,
-		"url": "licenses/SISSL.txt"
+		"osiApproved": true
 	},
 	"SISSL-1.2": {
 		"name": "Sun Industry Standards Source License v1.2",
-		"osiApproved": false,
-		"url": "licenses/SISSL-1.2.txt"
+		"osiApproved": false
 	},
 	"SPL-1.0": {
 		"name": "Sun Public License v1.0",
-		"osiApproved": true,
-		"url": "licenses/SPL-1.0.txt"
+		"osiApproved": true
 	},
 	"Watcom-1.0": {
 		"name": "Sybase Open Watcom Public License 1.0",
-		"osiApproved": true,
-		"url": "licenses/Watcom-1.0.txt"
+		"osiApproved": true
 	},
 	"TCL": {
 		"name": "TCL/TK License",
-		"osiApproved": false,
-		"url": "licenses/TCL.txt"
+		"osiApproved": false
 	},
 	"Unlicense": {
 		"name": "The Unlicense",
-		"osiApproved": false,
-		"url": "licenses/Unlicense.txt"
+		"osiApproved": false
 	},
 	"TMate": {
 		"name": "TMate Open Source License",
-		"osiApproved": false,
-		"url": "licenses/TMate.txt"
+		"osiApproved": false
 	},
 	"TORQUE-1.1": {
 		"name": "TORQUE v2.5+ Software License v1.1",
-		"osiApproved": false,
-		"url": "licenses/TORQUE-1.1.txt"
+		"osiApproved": false
 	},
 	"TOSL": {
 		"name": "Trusster Open Source License",
-		"osiApproved": false,
-		"url": "licenses/TOSL.txt"
+		"osiApproved": false
 	},
 	"Unicode-TOU": {
 		"name": "Unicode Terms of Use",
-		"osiApproved": false,
-		"url": "licenses/Unicode-TOU.txt"
+		"osiApproved": false
 	},
 	"NCSA": {
 		"name": "University of Illinois/NCSA Open Source License",
-		"osiApproved": true,
-		"url": "licenses/NCSA.txt"
+		"osiApproved": true
 	},
 	"Vim": {
 		"name": "Vim License",
-		"osiApproved": false,
-		"url": "licenses/Vim.txt"
+		"osiApproved": false
 	},
 	"VOSTROM": {
 		"name": "VOSTROM Public License for Open Source",
-		"osiApproved": false,
-		"url": "licenses/VOSTROM.txt"
+		"osiApproved": false
 	},
 	"VSL-1.0": {
 		"name": "Vovida Software License v1.0",
-		"osiApproved": true,
-		"url": "licenses/VSL-1.0.txt"
+		"osiApproved": true
 	},
 	"W3C": {
 		"name": "W3C Software Notice and License",
-		"osiApproved": true,
-		"url": "licenses/W3C.txt"
+		"osiApproved": true
 	},
 	"Wsuipa": {
 		"name": "Wsuipa License",
-		"osiApproved": false,
-		"url": "licenses/Wsuipa.txt"
+		"osiApproved": false
 	},
 	"WXwindows": {
 		"name": "wxWindows Library License",
-		"osiApproved": true,
-		"url": "licenses/WXwindows.txt"
+		"osiApproved": true
 	},
 	"Xnet": {
 		"name": "X.Net License",
-		"osiApproved": true,
-		"url": "licenses/Xnet.txt"
+		"osiApproved": true
 	},
 	"X11": {
 		"name": "X11 License",
-		"osiApproved": false,
-		"url": "licenses/X11.txt"
+		"osiApproved": false
 	},
 	"Xerox": {
 		"name": "Xerox License",
-		"osiApproved": false,
-		"url": "licenses/Xerox.txt"
+		"osiApproved": false
 	},
 	"XFree86-1.1": {
 		"name": "XFree86 License 1.1",
-		"osiApproved": false,
-		"url": "licenses/XFree86-1.1.txt"
+		"osiApproved": false
 	},
 	"xinetd": {
 		"name": "xinetd License",
-		"osiApproved": false,
-		"url": "licenses/xinetd.txt"
+		"osiApproved": false
 	},
 	"xpp": {
 		"name": "XPP License",
-		"osiApproved": false,
-		"url": "licenses/xpp.txt"
+		"osiApproved": false
 	},
 	"XSkat": {
 		"name": "XSkat License",
-		"osiApproved": false,
-		"url": "licenses/XSkat.txt"
+		"osiApproved": false
 	},
 	"YPL-1.0": {
 		"name": "Yahoo! Public License v1.0",
-		"osiApproved": false,
-		"url": "licenses/YPL-1.0.txt"
+		"osiApproved": false
 	},
 	"YPL-1.1": {
 		"name": "Yahoo! Public License v1.1",
-		"osiApproved": false,
-		"url": "licenses/YPL-1.1.txt"
+		"osiApproved": false
 	},
 	"Zed": {
 		"name": "Zed License",
-		"osiApproved": false,
-		"url": "licenses/Zed.txt"
+		"osiApproved": false
 	},
 	"Zend-2.0": {
 		"name": "Zend License v2.0",
-		"osiApproved": false,
-		"url": "licenses/Zend-2.0.txt"
+		"osiApproved": false
 	},
 	"Zimbra-1.3": {
 		"name": "Zimbra Public License v1.3",
-		"osiApproved": false,
-		"url": "licenses/Zimbra-1.3.txt"
+		"osiApproved": false
 	},
 	"Zlib": {
 		"name": "zlib License",
-		"osiApproved": true,
-		"url": "licenses/Zlib.txt"
+		"osiApproved": true
 	},
 	"zlib-acknowledgement": {
 		"name": "zlib/libpng License with Acknowledgement",
-		"osiApproved": false,
-		"url": "licenses/zlib-acknowledgement.txt"
+		"osiApproved": false
 	},
 	"ZPL-1.1": {
 		"name": "Zope Public License 1.1",
-		"osiApproved": false,
-		"url": "licenses/ZPL-1.1.txt"
+		"osiApproved": false
 	},
 	"ZPL-2.0": {
 		"name": "Zope Public License 2.0",
-		"osiApproved": true,
-		"url": "licenses/ZPL-2.0.txt"
+		"osiApproved": true
 	},
 	"ZPL-2.1": {
 		"name": "Zope Public License 2.1",
-		"osiApproved": false,
-		"url": "licenses/ZPL-2.1.txt"
+		"osiApproved": false
 	}
 }

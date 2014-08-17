@@ -25,27 +25,21 @@ var processXls = function () {
 		for (var key in licenses) {
 			var row = key.match(/^A(\d+)$/);
 			if (row && row[1] > 1) {
-
 				var name = licenses[row[0]][colValue];
 				var identifier = licenses['B' + row[1]][colValue];
 				var approved = licenses['E' + row[1]] ? licenses['E' + row[1]][colValue] === 'YES' : false;
-				var url = licenses['G' + row[1]][colValue];
-				url = url.match(/\.txt$/) ? url : url + '.txt'; //there is issue in spreadsheet where some urls dont end with .txt , but file name contains it
 
 				licensesJson[identifier] = {
 					name: name,
-					osiApproved: approved,
-					url: path.join(folder, url)
+					osiApproved: approved
 				};
-
 			}
 		}
 
 		fs.writeFileSync('spdx.json', JSON.stringify(licensesJson, null, '\t'));
 
 		Object.keys(licensesJson).forEach(function (item) {
-			licensesJson[item].license = fs.readFileSync(licensesJson[item].url).toString();
-			delete licensesJson[item].url;
+			licensesJson[item].license = fs.readFileSync(path.join(folder, item + '.txt')).toString();
 		});
 
 		fs.writeFileSync('spdx-full.json', JSON.stringify(licensesJson, null, '\t'));
