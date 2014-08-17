@@ -30,6 +30,7 @@
     "software"
   ],
   "devDependencies": {
-    "ava": "0.0.3"
+    "ava": "0.0.3",
+    "download": "^0.1.18"
   }
 }
