@@ -3,12 +3,12 @@ var fs = require('fs');
 var path = require('path');
 var zlib = require('zlib');
 var tar = require('tar');
-var request = require('request');
+var got = require('got');
 var cv2json = require('convert-json');
+var globby = require('globby');
 
 // config
 var url = 'http://git.spdx.org/?p=license-list.git;a=snapshot;h=HEAD;sf=tgz';
-var xlsName = 'licenses/spdx_licenselist_v1.20.xls';
 var folder = 'licenses';
 var ignored = [
 	'README.txt',
@@ -19,7 +19,7 @@ var licensesJson = {};
 
 // process the excel sheet and generate json files from it
 function processXls() {
-	cv2json.xls(xlsName, function (err, result) {
+	cv2json.xls(globby.sync('licenses/spdx_licenselist_*.xls')[0], function (err, result) {
 		if (err) {
 			throw err;
 		}
@@ -47,7 +47,7 @@ function processXls() {
 
 		fs.writeFileSync('spdx-full.json', JSON.stringify(licensesJson, null, '\t'));
 
-		//clean the licenses folder
+		// clean the `licenses` folder
 		fs.readdir(folder, function (err, files) {
 			if (err) {
 				throw err;
@@ -62,8 +62,10 @@ function processXls() {
 	});
 }
 
-request(url)
+got(url)
 	.pipe(zlib.createGunzip())
 	.pipe(tar.Extract({ path: folder, strip: 1}))
-	.on('error', function (err) { throw err; })
+	.on('error', function (err) {
+		throw err;
+	})
 	.on('end', processXls);
