@@ -227,6 +227,10 @@
 		"name": "CMU License",
 		"osiApproved": false
 	},
+	"CNRI-Jython": {
+		"name": "CNRI Jython License",
+		"osiApproved": false
+	},
 	"CNRI-Python": {
 		"name": "CNRI Python License",
 		"osiApproved": true
@@ -431,10 +435,6 @@
 		"name": "Eclipse Public License 1.0",
 		"osiApproved": true
 	},
-	"eCos-2.0": {
-		"name": "eCos license version 2.0",
-		"osiApproved": false
-	},
 	"ECL-1.0": {
 		"name": "Educational Community License v1.0",
 		"osiApproved": true
@@ -499,6 +499,10 @@
 		"name": "Frameworx Open License 1.0",
 		"osiApproved": true
 	},
+	"FreeImage": {
+		"name": "FreeImage Public License v1.0",
+		"osiApproved": false
+	},
 	"FTL": {
 		"name": "Freetype Project License",
 		"osiApproved": false
@@ -543,76 +547,24 @@
 		"name": "GNU General Public License v1.0 only",
 		"osiApproved": false
 	},
-	"GPL-1.0+": {
-		"name": "GNU General Public License v1.0 or later",
-		"osiApproved": false
-	},
 	"GPL-2.0": {
 		"name": "GNU General Public License v2.0 only",
-		"osiApproved": true
-	},
-	"GPL-2.0+": {
-		"name": "GNU General Public License v2.0 or later",
-		"osiApproved": true
-	},
-	"GPL-2.0-with-autoconf-exception": {
-		"name": "GNU General Public License v2.0 w/Autoconf exception",
-		"osiApproved": true
-	},
-	"GPL-2.0-with-bison-exception": {
-		"name": "GNU General Public License v2.0 w/Bison exception",
-		"osiApproved": true
-	},
-	"GPL-2.0-with-classpath-exception": {
-		"name": "GNU General Public License v2.0 w/Classpath exception",
-		"osiApproved": true
-	},
-	"GPL-2.0-with-font-exception": {
-		"name": "GNU General Public License v2.0 w/Font exception",
-		"osiApproved": true
-	},
-	"GPL-2.0-with-GCC-exception": {
-		"name": "GNU General Public License v2.0 w/GCC Runtime Library exception",
 		"osiApproved": true
 	},
 	"GPL-3.0": {
 		"name": "GNU General Public License v3.0 only",
 		"osiApproved": true
 	},
-	"GPL-3.0+": {
-		"name": "GNU General Public License v3.0 or later",
-		"osiApproved": true
-	},
-	"GPL-3.0-with-autoconf-exception": {
-		"name": "GNU General Public License v3.0 w/Autoconf exception",
-		"osiApproved": true
-	},
-	"GPL-3.0-with-GCC-exception": {
-		"name": "GNU General Public License v3.0 w/GCC Runtime Library exception",
-		"osiApproved": true
-	},
 	"LGPL-2.1": {
 		"name": "GNU Lesser General Public License v2.1 only",
-		"osiApproved": true
-	},
-	"LGPL-2.1+": {
-		"name": "GNU Lesser General Public License v2.1 or later",
 		"osiApproved": true
 	},
 	"LGPL-3.0": {
 		"name": "GNU Lesser General Public License v3.0 only",
 		"osiApproved": true
 	},
-	"LGPL-3.0+": {
-		"name": "GNU Lesser General Public License v3.0 or later",
-		"osiApproved": true
-	},
 	"LGPL-2.0": {
 		"name": "GNU Library General Public License v2 only",
-		"osiApproved": true
-	},
-	"LGPL-2.0+": {
-		"name": "GNU Library General Public License v2 or later",
 		"osiApproved": true
 	},
 	"gnuplot": {
@@ -638,6 +590,10 @@
 	"IPL-1.0": {
 		"name": "IBM Public License v1.0",
 		"osiApproved": true
+	},
+	"ICU": {
+		"name": "ICU License",
+		"osiApproved": false
 	},
 	"ImageMagick": {
 		"name": "ImageMagick License",
@@ -927,6 +883,10 @@
 		"name": "Open LDAP Public License v2.7",
 		"osiApproved": false
 	},
+	"OLDAP-2.8": {
+		"name": "Open LDAP Public License v2.8",
+		"osiApproved": false
+	},
 	"OML": {
 		"name": "Open Market License",
 		"osiApproved": false
@@ -954,10 +914,6 @@
 	"OSL-3.0": {
 		"name": "Open Software License 3.0",
 		"osiApproved": true
-	},
-	"OLDAP-2.8": {
-		"name": "OpenLDAP Public License v2.8",
-		"osiApproved": false
 	},
 	"OpenSSL": {
 		"name": "OpenSSL License",
@@ -1023,6 +979,10 @@
 		"name": "Ricoh Source Code Public License",
 		"osiApproved": true
 	},
+	"RSA-MD": {
+		"name": "RSA Message-Digest License",
+		"osiApproved": false
+	},
 	"Ruby": {
 		"name": "Ruby License",
 		"osiApproved": false
@@ -1079,10 +1039,6 @@
 		"name": "Standard ML of New Jersey License",
 		"osiApproved": false
 	},
-	"StandardML-NJ": {
-		"name": "Standard ML of New Jersey License",
-		"osiApproved": false
-	},
 	"SugarCRM-1.1.3": {
 		"name": "SugarCRM Public License v1.1.3",
 		"osiApproved": false
@@ -1127,6 +1083,10 @@
 		"name": "Unicode Terms of Use",
 		"osiApproved": false
 	},
+	"UPL-1.0": {
+		"name": "Universal Permissive License v1.0",
+		"osiApproved": true
+	},
 	"NCSA": {
 		"name": "University of Illinois/NCSA Open Source License",
 		"osiApproved": true
@@ -1143,17 +1103,17 @@
 		"name": "Vovida Software License v1.0",
 		"osiApproved": true
 	},
+	"W3C-19980720": {
+		"name": "W3C Software Notice and License (1998-07-20)",
+		"osiApproved": false
+	},
 	"W3C": {
-		"name": "W3C Software Notice and License",
+		"name": "W3C Software Notice and License (2002-12-31)",
 		"osiApproved": true
 	},
 	"Wsuipa": {
 		"name": "Wsuipa License",
 		"osiApproved": false
-	},
-	"WXwindows": {
-		"name": "wxWindows Library License",
-		"osiApproved": true
 	},
 	"Xnet": {
 		"name": "X.Net License",
@@ -1201,6 +1161,10 @@
 	},
 	"Zimbra-1.3": {
 		"name": "Zimbra Public License v1.3",
+		"osiApproved": false
+	},
+	"Zimbra-1.4": {
+		"name": "Zimbra Public License v1.4",
 		"osiApproved": false
 	},
 	"Zlib": {

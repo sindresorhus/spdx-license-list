@@ -1,6 +1,6 @@
 Creative Commons Attribution-ShareAlike 4.0 International
 
-Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
+<<beginOptional;name=ccOptionalIntro>> Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
 
 Using Creative Commons Public Licenses
 
@@ -10,7 +10,7 @@ Considerations for licensors: Our public licenses are intended for use by those 
 
 Considerations for the public: By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions. If the licensor’s permission is not necessary for any reason–for example, because of any applicable exception or limitation to copyright–then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. 
 
-Although not required by our licenses, you are encouraged to respect those requests where reasonable. More considerations for the public.
+Although not required by our licenses, you are encouraged to respect those requests where reasonable. More considerations for the public. <<endOptional>>
 
 Creative Commons Attribution-ShareAlike 4.0 International Public License
 

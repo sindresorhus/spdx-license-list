@@ -6,6 +6,7 @@ var tar = require('tar');
 var got = require('got');
 var cv2json = require('convert-json');
 var globby = require('globby');
+var del = require('del');
 
 // config
 var url = 'http://git.spdx.org/?p=license-list.git;a=snapshot;h=HEAD;sf=tgz';
@@ -54,13 +55,15 @@ function processXls() {
 			}
 
 			files.forEach(function (file) {
-				if (!file.match(/\.txt$/)  || ignored.indexOf(file) !== -1) {
+				if (!file.match(/\.txt$/)  || ignored.indexOf(file) !== -1 || /^deprecated_/.test(file)) {
 					fs.unlink(path.join(folder, file));
 				}
 			});
 		});
 	});
 }
+
+del.sync('licenses');
 
 got(url)
 	.pipe(zlib.createGunzip())
