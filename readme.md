@@ -12,7 +12,7 @@ The lists of licenses are two JSON files and can be used wherever.
 
 ## Install
 
-```sh
+```
 $ npm install --save spdx-license-list
 ```
 
