@@ -31,10 +31,12 @@ function processXls() {
 			if (row && row[1] > 1) {
 				var name = licenses[row[0]][colValue].trim();
 				var identifier = licenses['B' + row[1]][colValue].trim();
+				var url = licenses['C' + row[1]] ? licenses['C' + row[1]][colValue] : null;
 				var approved = licenses['E' + row[1]] ? licenses['E' + row[1]][colValue] === 'YES' : false;
 
 				licensesJson[identifier] = {
 					name: name,
+					url: url,
 					osiApproved: approved
 				};
 			}
