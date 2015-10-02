@@ -20,6 +20,7 @@ BSD PROTECTION LICENSE TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION, AND MODIF
 ----------------------------------------------------------------
 
 0. Definitions. 
+
      a) "Program", below, refers to any program or work distributed under the terms of this license. 
      b) A "work based on the Program", below, refers to either the Program or any derivative work under copyright law. 
      c) "Modification", below, refers to the act of creating derivative works. 
@@ -33,12 +34,14 @@ You may copy and distribute verbatim copies of the Program as you receive it, in
 
 3. Modification and redistribution under closed license. 
 You may modify your copy or copies of the Program, and distribute the resulting derivative works, provided that you meet the following conditions: 
+
      a) The copyright notice and disclaimer on the Program must be reproduced and included in the source code, documentation, and/or other materials provided in a manner in which such notices are normally distributed. 
      b) The derivative work must be clearly identified as such, in order that it may not be confused with the original work. 
      c) The license under which the derivative work is distributed must expressly prohibit the distribution of further derivative works.
 
 4. Modification and redistribution under open license. 
 You may modify your copy or copies of the Program, and distribute the resulting derivative works, provided that you meet the following conditions: 
+
      a) The copyright notice and disclaimer on the Program must be reproduced and included in the source code, documentation, and/or other materials provided in a manner in which such notices are normally distributed. 
      b) You must clearly indicate the nature and date of any changes made to the Program. The full details need not necessarily be included in the individual modified files, provided that each modified file is clearly marked as such and instructions are included on where the full details of the modifications may be found. 
      c) You must cause any work that you distribute or publish, that in whole or in part contains or is derived from the Program or any part thereof, to be licensed as a whole at no charge to all third parties under the terms of this License.
