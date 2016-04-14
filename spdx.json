@@ -31,7 +31,7 @@
 	},
 	"AFL-3.0": {
 		"name": "Academic Free License v3.0",
-		"url": "http://www.rosenlaw.com/AFL3.0.htm\nhttp://www.opensource.org/licenses/afl-3.0",
+		"url": "http://www.rosenlaw.com/AFL3.0.htm",
 		"osiApproved": true
 	},
 	"AMPAS": {
@@ -96,12 +96,12 @@
 	},
 	"Apache-1.1": {
 		"name": "Apache License 1.1",
-		"url": "http://apache.org/licenses/LICENSE-1.1\nhttp://opensource.org/licenses/Apache-1.1",
+		"url": "http://apache.org/licenses/LICENSE-1.1",
 		"osiApproved": true
 	},
 	"Apache-2.0": {
 		"name": "Apache License 2.0",
-		"url": "http://www.apache.org/licenses/LICENSE-2.0\nhttp://www.opensource.org/licenses/Apache-2.0",
+		"url": "http://www.apache.org/licenses/LICENSE-2.0",
 		"osiApproved": true
 	},
 	"AML": {
@@ -146,7 +146,7 @@
 	},
 	"Artistic-2.0": {
 		"name": "Artistic License 2.0",
-		"url": "http://www.perlfoundation.org/artistic_license_2_0  \nhttp://www.opensource.org/licenses/artistic-license-2.0",
+		"url": "http://www.perlfoundation.org/artistic_license_2_0",
 		"osiApproved": true
 	},
 	"AAL": {
@@ -181,7 +181,7 @@
 	},
 	"BSL-1.0": {
 		"name": "Boost Software License 1.0",
-		"url": "http://www.boost.org/LICENSE_1_0.txt\nhttp://www.opensource.org/licenses/BSL-1.0",
+		"url": "http://www.boost.org/LICENSE_1_0.txt",
 		"osiApproved": true
 	},
 	"Borceux": {
@@ -231,8 +231,8 @@
 	},
 	"0BSD": {
 		"name": "BSD Zero Clause License",
-		"url": "http://landley.net/toybox/license.html ",
-		"osiApproved": false
+		"url": "http://landley.net/toybox/license.html",
+		"osiApproved": true
 	},
 	"BSD-4-Clause-UC": {
 		"name": "BSD-4-Clause (University of California-Specific)",
@@ -271,7 +271,7 @@
 	},
 	"CECILL-2.1": {
 		"name": "CeCILL Free Software License Agreement v2.1",
-		"url": "http://www.cecill.info/licences/Licence_CeCILL_V2.1-fr.html\nhttp://opensource.org/licenses/CECILL-2.1",
+		"url": "http://www.cecill.info/licences/Licence_CeCILL_V2.1-fr.html",
 		"osiApproved": true
 	},
 	"CECILL-B": {
@@ -519,9 +519,14 @@
 		"url": "https://fedoraproject.org/wiki/Licensing/Cube",
 		"osiApproved": false
 	},
+	"curl": {
+		"name": "curl License",
+		"url": "https://github.com/bagder/curl/blob/master/COPYING",
+		"osiApproved": false
+	},
 	"D-FSL-1.0": {
 		"name": "Deutsche Freie Software Lizenz",
-		"url": "http://www.dipp.nrw.de/d-fsl/lizenzen/\nhttp://www.dipp.nrw.de/d-fsl/index_html/lizenzen/de/D-FSL-1_0_de.txt",
+		"url": "http://www.dipp.nrw.de/d-fsl/lizenzen/",
 		"osiApproved": false
 	},
 	"diffmark": {
@@ -556,7 +561,7 @@
 	},
 	"EPL-1.0": {
 		"name": "Eclipse Public License 1.0",
-		"url": "http://www.eclipse.org/legal/epl-v10.html\nhttp://www.opensource.org/licenses/EPL-1.0",
+		"url": "http://www.eclipse.org/legal/epl-v10.html",
 		"osiApproved": true
 	},
 	"ECL-1.0": {
@@ -571,17 +576,17 @@
 	},
 	"eGenix": {
 		"name": "eGenix.com Public License 1.1.0",
-		"url": "http://www.egenix.com/products/eGenix.com-Public-License-1.1.0.pdf\nhttps://fedoraproject.org/wiki/Licensing/eGenix.com_Public_License_1.1.0",
+		"url": "http://www.egenix.com/products/eGenix.com-Public-License-1.1.0.pdf",
 		"osiApproved": false
 	},
 	"EFL-1.0": {
 		"name": "Eiffel Forum License v1.0",
-		"url": "http://www.eiffel-nice.org/license/forum.txt\nhttp://opensource.org/licenses/EFL-1.0",
+		"url": "http://www.eiffel-nice.org/license/forum.txt",
 		"osiApproved": true
 	},
 	"EFL-2.0": {
 		"name": "Eiffel Forum License v2.0",
-		"url": "http://www.eiffel-nice.org/license/eiffel-forum-license-2.html\nhttp://opensource.org/licenses/EFL-2.0",
+		"url": "http://www.eiffel-nice.org/license/eiffel-forum-license-2.html",
 		"osiApproved": true
 	},
 	"MIT-advertising": {
@@ -606,17 +611,17 @@
 	},
 	"EUDatagrid": {
 		"name": "EU DataGrid Software License",
-		"url": "http://eu-datagrid.web.cern.ch/eu-datagrid/license.html\nhttp://www.opensource.org/licenses/EUDatagrid",
+		"url": "http://eu-datagrid.web.cern.ch/eu-datagrid/license.html",
 		"osiApproved": true
 	},
 	"EUPL-1.0": {
 		"name": "European Union Public License 1.0",
-		"url": "http://ec.europa.eu/idabc/en/document/7330.html\nhttp://ec.europa.eu/idabc/servlets/Doc027f.pdf?id=31096",
+		"url": "http://ec.europa.eu/idabc/en/document/7330.html",
 		"osiApproved": false
 	},
 	"EUPL-1.1": {
 		"name": "European Union Public License 1.1",
-		"url": "https://joinup.ec.europa.eu/software/page/eupl/licence-eupl\nhttps://joinup.ec.europa.eu/system/files/EN/EUPL%20v.1.1%20-%20Licence.pdf\nhttp://www.opensource.org/licenses/EUPL-1.1",
+		"url": "https://joinup.ec.europa.eu/software/page/eupl/licence-eupl",
 		"osiApproved": true
 	},
 	"Eurosym": {
@@ -649,6 +654,11 @@
 		"url": "http://freetype.fis.uniroma2.it/FTL.TXT",
 		"osiApproved": false
 	},
+	"FSFAP": {
+		"name": "FSF All Permissive License",
+		"url": "http://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html",
+		"osiApproved": false
+	},
 	"FSFUL": {
 		"name": "FSF Unlimited License",
 		"url": "https://fedoraproject.org/wiki/Licensing/FSF_Unlimited_License",
@@ -676,7 +686,7 @@
 	},
 	"AGPL-3.0": {
 		"name": "GNU Affero General Public License v3.0",
-		"url": "http://www.gnu.org/licenses/agpl.txt\nhttp://www.opensource.org/licenses/AGPL-3.0",
+		"url": "http://www.gnu.org/licenses/agpl.txt",
 		"osiApproved": true
 	},
 	"GFDL-1.1": {
@@ -701,22 +711,22 @@
 	},
 	"GPL-2.0": {
 		"name": "GNU General Public License v2.0 only",
-		"url": "http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html\nhttp://www.opensource.org/licenses/GPL-2.0",
+		"url": "http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
 		"osiApproved": true
 	},
 	"GPL-3.0": {
 		"name": "GNU General Public License v3.0 only",
-		"url": "http://www.gnu.org/licenses/gpl-3.0-standalone.html\nhttp://www.opensource.org/licenses/GPL-3.0",
+		"url": "http://www.gnu.org/licenses/gpl-3.0-standalone.html",
 		"osiApproved": true
 	},
 	"LGPL-2.1": {
 		"name": "GNU Lesser General Public License v2.1 only",
-		"url": "http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html\nhttp://www.opensource.org/licenses/LGPL-2.1",
+		"url": "http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
 		"osiApproved": true
 	},
 	"LGPL-3.0": {
 		"name": "GNU Lesser General Public License v3.0 only",
-		"url": "http://www.gnu.org/licenses/lgpl-3.0-standalone.html\nhttp://www.opensource.org/licenses/LGPL-3.0",
+		"url": "http://www.gnu.org/licenses/lgpl-3.0-standalone.html",
 		"osiApproved": true
 	},
 	"LGPL-2.0": {
@@ -779,6 +789,11 @@
 		"url": "http://dev.w3.org/cvsweb/Amaya/libjpeg/Attic/README?rev=1.2",
 		"osiApproved": false
 	},
+	"Info-ZIP": {
+		"name": "Info-ZIP License",
+		"url": "http://www.info-zip.org/license.html",
+		"osiApproved": false
+	},
 	"Intel-ACPI": {
 		"name": "Intel ACPI Software License Agreement",
 		"url": "https://fedoraproject.org/wiki/Licensing/Intel_ACPI_Software_License_Agreement",
@@ -801,7 +816,7 @@
 	},
 	"ISC": {
 		"name": "ISC License",
-		"url": "http://www.isc.org/software/license\nhttp://www.opensource.org/licenses/ISC",
+		"url": "http://www.isc.org/software/license",
 		"osiApproved": true
 	},
 	"JasPer-2.0": {
@@ -812,11 +827,6 @@
 	"JSON": {
 		"name": "JSON License",
 		"url": "http://www.json.org/license.html",
-		"osiApproved": false
-	},
-	"LPPL-1.3a": {
-		"name": "LaTeX Project Public License 1.3a",
-		"url": "http://www.latex-project.org/lppl/lppl-1-3a.txt",
 		"osiApproved": false
 	},
 	"LPPL-1.0": {
@@ -834,9 +844,14 @@
 		"url": "http://www.latex-project.org/lppl/lppl-1-2.txt",
 		"osiApproved": false
 	},
+	"LPPL-1.3a": {
+		"name": "LaTeX Project Public License v1.3a",
+		"url": "http://www.latex-project.org/lppl/lppl-1-3a.txt",
+		"osiApproved": false
+	},
 	"LPPL-1.3c": {
 		"name": "LaTeX Project Public License v1.3c",
-		"url": "http://www.latex-project.org/lppl/lppl-1-3c.txt\nhttp://www.opensource.org/licenses/LPPL-1.3c",
+		"url": "http://www.latex-project.org/lppl/lppl-1-3c.txt",
 		"osiApproved": true
 	},
 	"Latex2e": {
@@ -869,9 +884,34 @@
 		"url": "https://fedoraproject.org/wiki/Licensing/libtiff",
 		"osiApproved": false
 	},
+	"LAL-1.2": {
+		"name": "Licence Art Libre 1.2",
+		"url": "http://artlibre.org/licence/lal/licence-art-libre-12/",
+		"osiApproved": false
+	},
+	"LAL-1.3": {
+		"name": "Licence Art Libre 1.3",
+		"url": "http://artlibre.org/",
+		"osiApproved": false
+	},
+	"LiLiQ-P-1.1": {
+		"name": "Licence Libre du Québec – Permissive version 1.1",
+		"url": "http://opensource.org/licenses/LiLiQ-P-1.1",
+		"osiApproved": true
+	},
+	"LiLiQ-Rplus-1.1": {
+		"name": "Licence Libre du Québec – Réciprocité forte version 1.1",
+		"url": "http://opensource.org/licenses/LiLiQ-Rplus-1.1",
+		"osiApproved": true
+	},
+	"LiLiQ-R-1.1": {
+		"name": "Licence Libre du Québec – Réciprocité version 1.1",
+		"url": "http://opensource.org/licenses/LiLiQ-R-1.1",
+		"osiApproved": true
+	},
 	"LPL-1.02": {
 		"name": "Lucent Public License v1.02",
-		"url": "http://plan9.bell-labs.com/plan9/license.html\nhttp://www.opensource.org/licenses/LPL-1.02",
+		"url": "http://plan9.bell-labs.com/plan9/license.html",
 		"osiApproved": true
 	},
 	"LPL-1.0": {
@@ -891,12 +931,12 @@
 	},
 	"MS-PL": {
 		"name": "Microsoft Public License",
-		"url": "http://www.microsoft.com/opensource/licenses.mspx\nhttp://www.opensource.org/licenses/MS-PL",
+		"url": "http://www.microsoft.com/opensource/licenses.mspx",
 		"osiApproved": true
 	},
 	"MS-RL": {
 		"name": "Microsoft Reciprocal License",
-		"url": "http://www.microsoft.com/opensource/licenses.mspx\nhttp://www.opensource.org/licenses/MS-RL",
+		"url": "http://www.microsoft.com/opensource/licenses.mspx",
 		"osiApproved": true
 	},
 	"MirOS": {
@@ -921,22 +961,22 @@
 	},
 	"MPL-1.0": {
 		"name": "Mozilla Public License 1.0",
-		"url": "http://www.mozilla.org/MPL/MPL-1.0.html\nhttp://opensource.org/licenses/MPL-1.0",
+		"url": "http://www.mozilla.org/MPL/MPL-1.0.html",
 		"osiApproved": true
 	},
 	"MPL-1.1": {
 		"name": "Mozilla Public License 1.1",
-		"url": "http://www.mozilla.org/MPL/MPL-1.1.html\nhttp://www.opensource.org/licenses/MPL-1.1",
+		"url": "http://www.mozilla.org/MPL/MPL-1.1.html",
 		"osiApproved": true
 	},
 	"MPL-2.0": {
 		"name": "Mozilla Public License 2.0",
-		"url": "http://www.mozilla.org/MPL/2.0/\nhttp://opensource.org/licenses/MPL-2.0",
+		"url": "http://www.mozilla.org/MPL/2.0/",
 		"osiApproved": true
 	},
 	"MPL-2.0-no-copyleft-exception": {
 		"name": "Mozilla Public License 2.0 (no copyleft exception)",
-		"url": "http://www.mozilla.org/MPL/2.0/\nhttp://opensource.org/licenses/MPL-2.0",
+		"url": "http://www.mozilla.org/MPL/2.0/",
 		"osiApproved": true
 	},
 	"mpich2": {
@@ -956,7 +996,7 @@
 	},
 	"NASA-1.3": {
 		"name": "NASA Open Source Agreement 1.3",
-		"url": "http://ti.arc.nasa.gov/opensource/nosa/\nhttp://www.opensource.org/licenses/NASA-1.3",
+		"url": "http://ti.arc.nasa.gov/opensource/nosa/",
 		"osiApproved": true
 	},
 	"Naumen": {
@@ -1014,6 +1054,11 @@
 		"url": "http://www.opensource.org/licenses/NOSL3.0",
 		"osiApproved": true
 	},
+	"NLOD-1.0": {
+		"name": "Norwegian Licence for Open Government Data",
+		"url": "http://data.norge.no/nlod/en/1.0",
+		"osiApproved": false
+	},
 	"Noweb": {
 		"name": "Noweb License",
 		"url": "https://fedoraproject.org/wiki/Licensing/Noweb",
@@ -1036,7 +1081,7 @@
 	},
 	"OCLC-2.0": {
 		"name": "OCLC Research Public License 2.0",
-		"url": "http://www.oclc.org/research/activities/software/license/v2final.htm\nhttp://www.opensource.org/licenses/OCLC-2.0",
+		"url": "http://www.oclc.org/research/activities/software/license/v2final.htm",
 		"osiApproved": true
 	},
 	"ODbL-1.0": {
@@ -1049,9 +1094,14 @@
 		"url": "http://opendatacommons.org/licenses/pddl/1.0/",
 		"osiApproved": false
 	},
+	"OCCT-PL": {
+		"name": "Open CASCADE Technology Public License",
+		"url": "http://www.opencascade.com/content/occt-public-license",
+		"osiApproved": false
+	},
 	"OGTSL": {
 		"name": "Open Group Test Suite License",
-		"url": "http://www.opengroup.org/testing/downloads/The_Open_Group_TSL.txt\nhttp://www.opensource.org/licenses/OGTSL",
+		"url": "http://www.opengroup.org/testing/downloads/The_Open_Group_TSL.txt",
 		"osiApproved": true
 	},
 	"OLDAP-2.2.2": {
@@ -1141,7 +1191,7 @@
 	},
 	"OPL-1.0": {
 		"name": "Open Public License v1.0",
-		"url": "http://old.koalateam.com/jackaroo/OPL_1_0.TXT\nhttps://fedoraproject.org/wiki/Licensing/Open_Public_License",
+		"url": "http://old.koalateam.com/jackaroo/OPL_1_0.TXT",
 		"osiApproved": false
 	},
 	"OSL-1.0": {
@@ -1161,12 +1211,12 @@
 	},
 	"OSL-2.1": {
 		"name": "Open Software License 2.1",
-		"url": "http://opensource.org/licenses/OSL-2.1\nhttp://web.archive.org/web/20050212003940/http://www.rosenlaw.com/osl21.htm",
+		"url": "http://opensource.org/licenses/OSL-2.1",
 		"osiApproved": true
 	},
 	"OSL-3.0": {
 		"name": "Open Software License 3.0",
-		"url": "http://www.rosenlaw.com/OSL3.0.htm\nhttp://www.opensource.org/licenses/OSL-3.0",
+		"url": "http://www.rosenlaw.com/OSL3.0.htm",
 		"osiApproved": true
 	},
 	"OpenSSL": {
@@ -1174,9 +1224,14 @@
 		"url": "http://www.openssl.org/source/license.html",
 		"osiApproved": false
 	},
+	"OSET-PL-2.1": {
+		"name": "OSET Public License version 2.1",
+		"url": "http://opensource.org/licenses/OPL-2.1",
+		"osiApproved": true
+	},
 	"PHP-3.0": {
 		"name": "PHP License v3.0",
-		"url": "http://www.opensource.org/licenses/PHP-3.0\nhttp://www.php.net/license/3_0.txt",
+		"url": "http://www.opensource.org/licenses/PHP-3.0",
 		"osiApproved": true
 	},
 	"PHP-3.01": {
@@ -1191,7 +1246,7 @@
 	},
 	"PostgreSQL": {
 		"name": "PostgreSQL License",
-		"url": "http://www.postgresql.org/about/licence\nhttp://www.opensource.org/licenses/PostgreSQL",
+		"url": "http://www.postgresql.org/about/licence",
 		"osiApproved": true
 	},
 	"psfrag": {
@@ -1211,7 +1266,7 @@
 	},
 	"QPL-1.0": {
 		"name": "Q Public License 1.0",
-		"url": "http://doc.qt.nokia.com/3.3/license.html\nhttp://www.opensource.org/licenses/QPL-1.0",
+		"url": "http://doc.qt.nokia.com/3.3/license.html",
 		"osiApproved": true
 	},
 	"Qhull": {
@@ -1226,7 +1281,7 @@
 	},
 	"RPSL-1.0": {
 		"name": "RealNetworks Public Source License v1.0",
-		"url": "https://helixcommunity.org/content/rpsl\nhttp://www.opensource.org/licenses/RPSL-1.0",
+		"url": "https://helixcommunity.org/content/rpsl",
 		"osiApproved": true
 	},
 	"RPL-1.1": {
@@ -1250,7 +1305,7 @@
 		"osiApproved": true
 	},
 	"RSA-MD": {
-		"name": "RSA Message-Digest License",
+		"name": "RSA Message-Digest License ",
 		"url": "http://www.faqs.org/rfcs/rfc1321.html",
 		"osiApproved": false
 	},
@@ -1277,6 +1332,11 @@
 	"SWL": {
 		"name": "Scheme Widget Library (SWL) Software License Agreement",
 		"url": "https://fedoraproject.org/wiki/Licensing/SWL",
+		"osiApproved": false
+	},
+	"SMPPL": {
+		"name": "Secure Messaging Protocol Public License",
+		"url": "https://github.com/dcblake/SMP/blob/master/Documentation/License.txt",
 		"osiApproved": false
 	},
 	"Sendmail": {
@@ -1306,7 +1366,7 @@
 	},
 	"OFL-1.1": {
 		"name": "SIL Open Font License 1.1",
-		"url": "http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web\nhttp://www.opensource.org/licenses/OFL-1.1",
+		"url": "http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web",
 		"osiApproved": true
 	},
 	"SimPL-2.0": {
@@ -1351,7 +1411,7 @@
 	},
 	"SISSL": {
 		"name": "Sun Industry Standards Source License v1.1",
-		"url": "http://www.openoffice.org/licenses/sissl_license.html\nhttp://opensource.org/licenses/SISSL",
+		"url": "http://www.openoffice.org/licenses/sissl_license.html",
 		"osiApproved": true
 	},
 	"SISSL-1.2": {
@@ -1371,7 +1431,7 @@
 	},
 	"TCL": {
 		"name": "TCL/TK License",
-		"url": "https://fedoraproject.org/wiki/Licensing/TCL",
+		"url": "http://www.tcl.tk/software/tcltk/license.html",
 		"osiApproved": false
 	},
 	"Unlicense": {
@@ -1406,7 +1466,7 @@
 	},
 	"NCSA": {
 		"name": "University of Illinois/NCSA Open Source License",
-		"url": "http://otm.illinois.edu/uiuc_openSource\nhttp://www.opensource.org/licenses/NCSA",
+		"url": "http://otm.illinois.edu/uiuc_openSource",
 		"osiApproved": true
 	},
 	"Vim": {
@@ -1431,7 +1491,7 @@
 	},
 	"W3C": {
 		"name": "W3C Software Notice and License (2002-12-31)",
-		"url": "http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html\nhttp://www.opensource.org/licenses/W3C",
+		"url": "http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html",
 		"osiApproved": true
 	},
 	"Wsuipa": {
@@ -1496,7 +1556,7 @@
 	},
 	"Zimbra-1.3": {
 		"name": "Zimbra Public License v1.3",
-		"url": null,
+		"url": "",
 		"osiApproved": false
 	},
 	"Zimbra-1.4": {
@@ -1506,7 +1566,7 @@
 	},
 	"Zlib": {
 		"name": "zlib License",
-		"url": "http://www.zlib.net/zlib_license.html\nhttp://www.opensource.org/licenses/Zlib",
+		"url": "http://www.zlib.net/zlib_license.html",
 		"osiApproved": true
 	},
 	"zlib-acknowledgement": {
@@ -1521,12 +1581,92 @@
 	},
 	"ZPL-2.0": {
 		"name": "Zope Public License 2.0",
-		"url": "http://old.zope.org/Resources/License/ZPL-2.0\nhttp://opensource.org/licenses/ZPL-2.0",
+		"url": "http://old.zope.org/Resources/License/ZPL-2.0",
 		"osiApproved": true
 	},
 	"ZPL-2.1": {
 		"name": "Zope Public License 2.1",
 		"url": "http://old.zope.org/Resources/ZPL/",
 		"osiApproved": false
+	},
+	"eCos-2.0": {
+		"name": "eCos license version 2.0",
+		"url": "http://www.gnu.org/licenses/ecos-license.html",
+		"osiApproved": false
+	},
+	"GPL-1.0+": {
+		"name": "GNU General Public License v1.0 or later",
+		"url": "http://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html",
+		"osiApproved": false
+	},
+	"GPL-2.0+": {
+		"name": "GNU General Public License v2.0 or later",
+		"url": "http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
+		"osiApproved": true
+	},
+	"GPL-2.0-with-autoconf-exception": {
+		"name": "GNU General Public License v2.0 w/Autoconf exception",
+		"url": "http://ac-archive.sourceforge.net/doc/copyright.html",
+		"osiApproved": true
+	},
+	"GPL-2.0-with-bison-exception": {
+		"name": "GNU General Public License v2.0 w/Bison exception",
+		"url": "none",
+		"osiApproved": true
+	},
+	"GPL-2.0-with-classpath-exception": {
+		"name": "GNU General Public License v2.0 w/Classpath exception",
+		"url": "http://www.gnu.org/software/classpath/license.html",
+		"osiApproved": true
+	},
+	"GPL-2.0-with-font-exception": {
+		"name": "GNU General Public License v2.0 w/Font exception",
+		"url": "http://www.gnu.org/licenses/gpl-faq.html#FontException",
+		"osiApproved": true
+	},
+	"GPL-2.0-with-GCC-exception": {
+		"name": "GNU General Public License v2.0 w/GCC Runtime Library exception",
+		"url": "none",
+		"osiApproved": true
+	},
+	"GPL-3.0+": {
+		"name": "GNU General Public License v3.0 or later",
+		"url": "http://www.gnu.org/licenses/gpl-3.0-standalone.html",
+		"osiApproved": true
+	},
+	"GPL-3.0-with-autoconf-exception": {
+		"name": "GNU General Public License v3.0 w/Autoconf exception",
+		"url": "http://www.gnu.org/licenses/autoconf-exception-3.0.html",
+		"osiApproved": true
+	},
+	"GPL-3.0-with-GCC-exception": {
+		"name": "GNU General Public License v3.0 w/GCC Runtime Library exception",
+		"url": "http://www.gnu.org/licenses/gcc-exception-3.1.html",
+		"osiApproved": true
+	},
+	"LGPL-2.1+": {
+		"name": "GNU Lesser General Public License v2.1 or later",
+		"url": "http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
+		"osiApproved": true
+	},
+	"LGPL-3.0+": {
+		"name": "GNU Lesser General Public License v3.0 or later",
+		"url": "http://www.gnu.org/licenses/lgpl-3.0-standalone.html",
+		"osiApproved": true
+	},
+	"LGPL-2.0+": {
+		"name": "GNU Library General Public License v2 or later",
+		"url": "http://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html",
+		"osiApproved": true
+	},
+	"StandardML-NJ": {
+		"name": "Standard ML of New Jersey License",
+		"url": "https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#Standard_ML_of_New_Jersey_Variant",
+		"osiApproved": false
+	},
+	"WXwindows": {
+		"name": "wxWindows Library License",
+		"url": "http://www.opensource.org/licenses/WXwindows",
+		"osiApproved": true
 	}
 }
