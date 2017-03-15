@@ -2,7 +2,7 @@
   "name": "spdx-license-list",
   "version": "3.0.0",
   "description": "List of SPDX licenses",
-  "license": "MIT",
+  "license": "CC0-1.0",
   "repository": "sindresorhus/spdx-license-list",
   "author": {
     "name": "Sindre Sorhus",

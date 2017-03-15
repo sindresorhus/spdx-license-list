@@ -75,4 +75,4 @@ The licenses are indexed by their identifier and contains a `name` property with
 
 ## License
 
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+CC0-1.0
