@@ -10,16 +10,19 @@
     "url": "sindresorhus.com"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=4"
   },
   "scripts": {
-    "test": "node test.js",
-    "generate": "node generate.js"
+    "test": "xo && ava",
+    "make": "node make.js"
   },
   "files": [
     "index.js",
+    "full.js",
+    "simple.js",
     "spdx.json",
     "spdx-full.json",
+    "spdx-simple.json",
     "licenses"
   ],
   "keywords": [
@@ -33,9 +36,11 @@
     "software"
   ],
   "devDependencies": {
-    "ava": "0.0.4",
+    "ava": "*",
     "convert-json": "^0.5.0",
     "d3-queue": "^2.0.3",
-    "got": "^6.3.0"
+    "got": "^6.3.0",
+    "ora": "^1.1.0",
+    "xo": "*"
   }
 }

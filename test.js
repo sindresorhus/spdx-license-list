@@ -1,9 +1,10 @@
-'use strict';
-var test = require('ava');
-var spdxLicenseList = require('./');
+import test from 'ava';
+import m from '.';
 
-test(function (t) {
-	t.assert(spdxLicenseList.MIT.name === 'MIT License');
-	t.assert(spdxLicenseList.MIT.url  === 'http://www.opensource.org/licenses/MIT');
-	t.assert(require('./spdx-full.json').MIT.license.length > 0);
+test(t => {
+	t.is(m.MIT.name, 'MIT License');
+	t.is(m.MIT.url, 'http://www.opensource.org/licenses/MIT');
+	t.true(require('./full').MIT.license.length > 0);
+	t.true(require('./simple').indexOf('MIT') !== -1);
+	t.is(require(`./licenses/MIT`).licenseId, 'MIT');
 });
