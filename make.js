@@ -1,34 +1,20 @@
 'use strict';
+require('hard-rejection/register');
 const fs = require('fs');
-const d3 = require('d3-queue');
 const Ora = require('ora');
 const got = require('got');
+const pMap = require('p-map');
 
 const URL = 'https://spdx.org/licenses/licenses.json';
 const MAX_CONCURRENT_CONNECTIONS = 10;
-
-const licensesJson = Object.create(null);
 const spinner = new Ora();
-let counter = 0;
-
-function downloadLicense(license, callback) {
-	got(license.detailsUrl, {json: true})
-		.then(response => {
-			const details = response.body;
-			licensesJson[license.licenseId].license = details.licenseText.replace(/\r\n/g, '\n').trim();
-			spinner.text = `Downloaded ${++counter} of ${Object.keys(licensesJson).length} licenses`;
-			callback(null);
-		})
-		.catch(err => {
-			callback(`Error getting URL ${license.detailsUrl}. Response is:\n${err.response.body}`);
-		});
-}
 
 spinner.start();
 
 got(URL, {json: true})
-	.then(response => {
-		const spdx = response.body;
+	.then(res => {
+		const spdx = res.body;
+		const licensesJson = Object.create(null);
 
 		for (const license of spdx.licenses) {
 			licensesJson[license.licenseId] = {
@@ -38,28 +24,26 @@ got(URL, {json: true})
 			};
 		}
 
-		// Hash of hashes that maps license names to license properties
 		fs.writeFileSync('spdx.json', JSON.stringify(licensesJson, null, '\t'));
-
-		// Simple array of license names
 		fs.writeFileSync('spdx-simple.json', JSON.stringify(Object.keys(licensesJson), null, '\t'));
 
-		const q = d3.queue(MAX_CONCURRENT_CONNECTIONS);
+		let counter = 0;
 
-		for (const license of spdx.licenses) {
-			q.defer(downloadLicense, license);
-		}
+		const mapper = license => {
+			return got(license.detailsUrl, {json: true})
+				.then(res => {
+					licensesJson[license.licenseId].licenseText = res.body.licenseText.replace(/\r\n/g, '\n').trim();
+					spinner.text = `Downloaded ${++counter} of ${Object.keys(licensesJson).length} licenses`;
+				})
+				.catch(err => {
+					throw new Error(`Error getting URL ${license.detailsUrl}. Response is:\n${err.response.body}`);
+				});
+		};
 
-		q.awaitAll(err => {
-			if (err) {
-				console.error(err);
-				return;
-			}
-
-			// Hash of hashes that maps license names to license properties
-			// including the full license text.
+		return pMap(spdx.licenses, mapper, {
+			concurrency: MAX_CONCURRENT_CONNECTIONS
+		}).then(() => {
 			fs.writeFileSync('spdx-full.json', JSON.stringify(licensesJson, null, '\t'));
-
 			spinner.succeed('Done');
 		});
 	})
@@ -71,5 +55,5 @@ got(URL, {json: true})
 			pathname: err.path
 		});
 
-		console.error(`Error getting URL ${url}. Response is:\n${err.response.body}`);
+		throw new Error(`Error getting URL ${url}. Response is:\n${err.response.body}`);
 	});

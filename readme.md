@@ -49,7 +49,7 @@ console.log(spdxLicenseList.MIT);
 	name: 'MIT License',
 	url: 'http://www.opensource.org/licenses/MIT',
 	osiApproved: true,
-	license: '...'
+	licenseText: '…'
 }
 */
 ```
