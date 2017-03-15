@@ -1,5 +1,5 @@
 'use strict';
-require('hard-rejection/register');
+require('hard-rejection/register'); // eslint-disable-line import/no-unassigned-import
 const fs = require('fs');
 const Ora = require('ora');
 const got = require('got');

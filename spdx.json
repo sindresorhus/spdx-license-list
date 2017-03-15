@@ -214,6 +214,21 @@
 		"url": "http://labs.metacarta.com/license-explanation.html#license",
 		"osiApproved": false
 	},
+	"BSD-3-Clause-No-Nuclear-License": {
+		"name": "BSD 3-Clause No Nuclear License",
+		"url": "http://download.oracle.com/otn-pub/java/licenses/bsd.txt?AuthParam=1467140197_43d516ce1776bd08a58235a7785be1cc",
+		"osiApproved": false
+	},
+	"BSD-3-Clause-No-Nuclear-License-2014": {
+		"name": "BSD 3-Clause No Nuclear License 2014",
+		"url": "https://java.net/projects/javaeetutorial/pages/BerkeleyLicense",
+		"osiApproved": false
+	},
+	"BSD-3-Clause-No-Nuclear-Warranty": {
+		"name": "BSD 3-Clause No Nuclear Warranty",
+		"url": "https://jogamp.org/git/?p=gluegen.git;a=blob_plain;f=LICENSE.txt",
+		"osiApproved": false
+	},
 	"BSD-4-Clause": {
 		"name": "BSD 4-clause \"Original\" or \"Old\" License",
 		"url": "http://directory.fsf.org/wiki/License:BSD_4Clause",
@@ -222,6 +237,11 @@
 	"BSD-Protection": {
 		"name": "BSD Protection License",
 		"url": "https://fedoraproject.org/wiki/Licensing/BSD_Protection_License",
+		"osiApproved": false
+	},
+	"BSD-Source-Code": {
+		"name": "BSD Source Code Attribution",
+		"url": "https://github.com/robbiehanson/CocoaHTTPServer/blob/master/LICENSE.txt",
 		"osiApproved": false
 	},
 	"BSD-3-Clause-Attribution": {
@@ -1009,6 +1029,11 @@
 		"url": "http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=37b4b3f6cc4bf34e1d3dec61e69914b9819d8894",
 		"osiApproved": false
 	},
+	"Net-SNMP": {
+		"name": "Net-SNMP License",
+		"url": "http://net-snmp.sourceforge.net/about/license.html",
+		"osiApproved": false
+	},
 	"NetCDF": {
 		"name": "NetCDF license",
 		"url": "http://www.unidata.ucar.edu/software/netcdf/copyright.html",
@@ -1434,6 +1459,11 @@
 		"url": "http://www.tcl.tk/software/tcltk/license.html",
 		"osiApproved": false
 	},
+	"TCP-wrappers": {
+		"name": "TCP Wrappers License",
+		"url": "http://rc.quest.com/topics/openssh/license.php#tcpwrappers",
+		"osiApproved": false
+	},
 	"Unlicense": {
 		"name": "The Unlicense",
 		"url": "http://unlicense.org/",
@@ -1452,6 +1482,16 @@
 	"TOSL": {
 		"name": "Trusster Open Source License",
 		"url": "https://fedoraproject.org/wiki/Licensing/TOSL",
+		"osiApproved": false
+	},
+	"Unicode-DFS-2015": {
+		"name": "Unicode License Agreement - Data Files and Software (2015)",
+		"url": "https://web.archive.org/web/20151224134844/http://unicode.org/copyright.html",
+		"osiApproved": false
+	},
+	"Unicode-DFS-2016": {
+		"name": "Unicode License Agreement - Data Files and Software (2016)",
+		"url": "http://www.unicode.org/copyright.html",
 		"osiApproved": false
 	},
 	"Unicode-TOU": {
@@ -1483,6 +1523,11 @@
 		"name": "Vovida Software License v1.0",
 		"url": "http://www.opensource.org/licenses/VSL-1.0",
 		"osiApproved": true
+	},
+	"W3C-20150513": {
+		"name": "W3C Software Notice and Document License (2015-05-13)",
+		"url": "https://www.w3.org/Consortium/Legal/2015/copyright-software-and-document",
+		"osiApproved": false
 	},
 	"W3C-19980720": {
 		"name": "W3C Software Notice and License (1998-07-20)",
