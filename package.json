@@ -33,7 +33,11 @@
     "bsd",
     "list",
     "open source",
-    "software"
+    "software",
+    "id",
+    "ids",
+    "identifiers",
+    "set"
   ],
   "devDependencies": {
     "ava": "*",

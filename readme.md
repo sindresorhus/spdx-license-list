@@ -54,13 +54,13 @@ console.log(spdxLicenseList.MIT);
 */
 ```
 
-Or just the license IDs:
+Or just the license IDs as a `Set`:
 
 ```js
 const spdxLicenseList = require('spdx-license-list/simple');
 
 console.log(spdxLicenseList);
-//=> ['Glide', 'Abstyles', …]
+//=> Set {'Glide', 'Abstyles', …}
 ```
 
 
