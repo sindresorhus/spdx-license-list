@@ -8,7 +8,7 @@ The lists of licenses are just JSON files and can be used wherever.
 - [spdx-full.json](spdx-full.json) includes the license text too
 - [spdx-simple.json](spdx-simple.json) only contains the license IDs
 
-*Using SPDX License List version 2.6 (2017-01-06)*
+*Using SPDX License List version 3.0 ([2017-12-28](https://spdx.org/news/news/2018/01/license-list-30-released))*
 
 
 ## Install
