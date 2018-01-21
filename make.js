@@ -11,51 +11,40 @@ const spinner = new Ora();
 
 spinner.start();
 
-got(URL, {json: true})
-	.then(res => {
-		const spdx = res.body;
-		const licensesJson = Object.create(null);
+(async () => {
+	const res = await got(URL, {json: true});
 
-		for (const license of spdx.licenses) {
-			licensesJson[license.licenseId] = {
-				name: license.name,
-				url: (Array.isArray(license.seeAlso) ?
-					license.seeAlso[0] : // Only get the first of possibly multiple URLs
-					'https://spdx.org/licenses/' + license.licenseId + '.html'), // Handle missing seeAlso
-				osiApproved: license.isOsiApproved
-			};
-		}
+	const spdx = res.body;
+	const licensesJson = Object.create(null);
 
-		fs.writeFileSync('spdx.json', JSON.stringify(licensesJson, null, '\t'));
-		fs.writeFileSync('spdx-simple.json', JSON.stringify(Object.keys(licensesJson), null, '\t'));
-
-		let counter = 0;
-
-		const mapper = license => {
-			return got(license.detailsUrl, {json: true})
-				.then(res => {
-					licensesJson[license.licenseId].licenseText = res.body.licenseText.replace(/\r\n/g, '\n').trim();
-					spinner.text = `Downloaded ${++counter} of ${Object.keys(licensesJson).length} licenses`;
-				})
-				.catch(err => {
-					throw new Error(`Error getting URL ${license.detailsUrl}. Response is:\n${err.response.body}`);
-				});
+	for (const license of spdx.licenses) {
+		licensesJson[license.licenseId] = {
+			name: license.name,
+			url: (Array.isArray(license.seeAlso) ?
+				license.seeAlso[0] : // Only get the first of possibly multiple URLs
+				`https://spdx.org/licenses/${license.licenseId}.html`), // Handle missing seeAlso
+			osiApproved: license.isOsiApproved
 		};
+	}
 
-		return pMap(spdx.licenses, mapper, {
-			concurrency: MAX_CONCURRENT_CONNECTIONS
-		}).then(() => {
-			fs.writeFileSync('spdx-full.json', JSON.stringify(licensesJson, null, '\t'));
-			spinner.succeed('Done');
-		});
-	})
-	.catch(err => {
-		// TODO: Remove this when https://github.com/sindresorhus/got/issues/282 is fixed
-		const url = require('url').format({
-			protocol: 'https:',
-			hostname: err.hostname,
-			pathname: err.path
-		});
+	fs.writeFileSync('spdx.json', JSON.stringify(licensesJson, null, '\t'));
+	fs.writeFileSync('spdx-simple.json', JSON.stringify(Object.keys(licensesJson), null, '\t'));
 
-		throw new Error(`Error getting URL ${url}. Response is:\n${err.response.body}`);
-	});
+	let counter = 0;
+
+	const mapper = async license => {
+		try {
+			const res = await got(license.detailsUrl, {json: true});
+			licensesJson[license.licenseId].licenseText = res.body.licenseText.replace(/\r\n/g, '\n').trim();
+			spinner.text = `Downloaded ${++counter} of ${Object.keys(licensesJson).length} licenses`;
+		} catch (err) {
+			throw new Error(`Error getting URL ${license.detailsUrl}. Response is:\n${err.response.body}`);
+		}
+	};
+
+	await pMap(spdx.licenses, mapper, {concurrency: MAX_CONCURRENT_CONNECTIONS});
+	fs.writeFileSync('spdx-full.json', JSON.stringify(licensesJson, null, '\t'));
+	spinner.succeed('Done');
+})().catch(err => {
+	throw new Error(`Error getting URL ${err.url}. Response is:\n${err.response.body}`);
+});

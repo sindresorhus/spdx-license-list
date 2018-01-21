@@ -1,50 +1,50 @@
 {
-  "name": "spdx-license-list",
-  "version": "3.0.1",
-  "description": "List of SPDX licenses",
-  "license": "CC0-1.0",
-  "repository": "sindresorhus/spdx-license-list",
-  "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com"
-  },
-  "engines": {
-    "node": ">=4"
-  },
-  "scripts": {
-    "test": "xo && ava",
-    "make": "node make.js"
-  },
-  "files": [
-    "index.js",
-    "full.js",
-    "simple.js",
-    "spdx.json",
-    "spdx-full.json",
-    "spdx-simple.json",
-    "licenses"
-  ],
-  "keywords": [
-    "spdx",
-    "license",
-    "licenses",
-    "mit",
-    "bsd",
-    "list",
-    "open source",
-    "software",
-    "id",
-    "ids",
-    "identifiers",
-    "set"
-  ],
-  "devDependencies": {
-    "ava": "*",
-    "got": "^6.3.0",
-    "hard-rejection": "^1.0.0",
-    "ora": "^1.1.0",
-    "p-map": "^1.1.1",
-    "xo": "*"
-  }
+	"name": "spdx-license-list",
+	"version": "3.0.1",
+	"description": "List of SPDX licenses",
+	"license": "CC0-1.0",
+	"repository": "sindresorhus/spdx-license-list",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+		"test": "xo && ava",
+		"make": "node make.js"
+	},
+	"files": [
+		"index.js",
+		"full.js",
+		"simple.js",
+		"spdx.json",
+		"spdx-full.json",
+		"spdx-simple.json",
+		"licenses"
+	],
+	"keywords": [
+		"spdx",
+		"license",
+		"licenses",
+		"mit",
+		"bsd",
+		"list",
+		"open source",
+		"software",
+		"id",
+		"ids",
+		"identifiers",
+		"set"
+	],
+	"devDependencies": {
+		"ava": "*",
+		"got": "^8.0.3",
+		"hard-rejection": "^1.0.0",
+		"ora": "^1.1.0",
+		"p-map": "^1.1.1",
+		"xo": "*"
+	}
 }
