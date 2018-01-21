@@ -19,7 +19,9 @@ got(URL, {json: true})
 		for (const license of spdx.licenses) {
 			licensesJson[license.licenseId] = {
 				name: license.name,
-				url: license.seeAlso[0], // Only get the first of possibly multiple URLs
+				url: (Array.isArray(license.seeAlso) ?
+					license.seeAlso[0] : // Only get the first of possibly multiple URLs
+					'https://spdx.org/licenses/' + license.licenseId + '.html'), // Handle missing seeAlso
 				osiApproved: license.isOsiApproved
 			};
 		}
