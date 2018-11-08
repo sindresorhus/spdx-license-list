@@ -1,6 +1,6 @@
 {
 	"name": "spdx-license-list",
-	"version": "4.1.0",
+	"version": "5.0.0",
 	"description": "List of SPDX licenses",
 	"license": "CC0-1.0",
 	"repository": "sindresorhus/spdx-license-list",
