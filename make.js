@@ -1,5 +1,6 @@
 'use strict';
 require('hard-rejection/register'); // eslint-disable-line import/no-unassigned-import
+const path = require('path');
 const fs = require('fs');
 const Ora = require('ora');
 const got = require('got');
@@ -12,9 +13,9 @@ const spinner = new Ora();
 spinner.start();
 
 (async () => {
-	const res = await got(URL, {json: true});
+	const response = await got(URL, {json: true});
 
-	const spdx = res.body;
+	const spdx = response.body;
 	const licensesJson = Object.create(null);
 
 	for (const license of spdx.licenses) {
@@ -34,17 +35,22 @@ spinner.start();
 
 	const mapper = async license => {
 		try {
-			const res = await got(license.detailsUrl, {json: true});
-			licensesJson[license.licenseId].licenseText = res.body.licenseText.replace(/\r\n/g, '\n').trim();
+			const response = await got(license.detailsUrl, {json: true});
+			licensesJson[license.licenseId].licenseText = response.body.licenseText.replace(/\r\n/g, '\n').trim();
+			fs.writeFileSync(path.join('licenses', `${license.licenseId}.json`), JSON.stringify(licensesJson[license.licenseId], null, '\t'));
 			spinner.text = `Downloaded ${++counter} of ${Object.keys(licensesJson).length} licenses`;
-		} catch (err) {
-			throw new Error(`Error getting URL ${license.detailsUrl}. Response is:\n${err.response.body}`);
+		} catch (error) {
+			throw new Error(`Error getting URL ${license.detailsUrl}. Response is:\n${error.response.body}`);
 		}
 	};
 
 	await pMap(spdx.licenses, mapper, {concurrency: MAX_CONCURRENT_CONNECTIONS});
 	fs.writeFileSync('spdx-full.json', JSON.stringify(licensesJson, null, '\t'));
 	spinner.succeed('Done');
-})().catch(err => {
-	throw new Error(`Error getting URL ${err.url}. Response is:\n${err.response.body}`);
+})().catch(error => {
+	if ('response' in error) {
+		throw new Error(`Error getting URL ${error.url}. Response is:\n${error.response.body}`);
+	} else {
+		throw error;
+	}
 });
