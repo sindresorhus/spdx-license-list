@@ -534,6 +534,11 @@
 		"url": "http://research.cs.wisc.edu/condor/license.html#condor",
 		"osiApproved": false
 	},
+	"copyleft-next-0.3.1": {
+		"name": "copyleft-next 0.3.1",
+		"url": "https://github.com/copyleft-next/copyleft-next/blob/master/Releases/copyleft-next-0.3.1",
+		"osiApproved": false
+	},
 	"CPAL-1.0": {
 		"name": "Common Public Attribution License 1.0",
 		"url": "http://www.opensource.org/licenses/CPAL-1.0",
@@ -1224,6 +1229,21 @@
 		"url": "http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web",
 		"osiApproved": true
 	},
+	"OGL-UK-1.0": {
+		"name": "Open Government Licence v1.0",
+		"url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/",
+		"osiApproved": false
+	},
+	"OGL-UK-2.0": {
+		"name": "Open Government Licence v2.0",
+		"url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/",
+		"osiApproved": false
+	},
+	"OGL-UK-3.0": {
+		"name": "Open Government Licence v3.0",
+		"url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+		"osiApproved": false
+	},
 	"OGTSL": {
 		"name": "Open Group Test Suite License",
 		"url": "http://www.opengroup.org/testing/downloads/The_Open_Group_TSL.txt",
@@ -1457,6 +1477,11 @@
 	"SCEA": {
 		"name": "SCEA Shared Source License",
 		"url": "http://research.scea.com/scea_shared_source_license.html",
+		"osiApproved": false
+	},
+	"Sendmail-8.23": {
+		"name": "Sendmail License 8.23",
+		"url": "https://www.proofpoint.com/sites/default/files/sendmail-license.pdf",
 		"osiApproved": false
 	},
 	"Sendmail": {
