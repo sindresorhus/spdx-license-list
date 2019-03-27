@@ -36,7 +36,7 @@ spinner.start();
 	const mapper = async license => {
 		try {
 			const response = await got(license.detailsUrl, {json: true});
-			licensesJson[license.licenseId].licenseText = response.body.licenseText.replace(/\r\n/g, '\n').trim();
+			licensesJson[license.licenseId].licenseText = response.body.licenseText.replace(/\r\n/g, '\n').replace(/http\ss\s:\/\//g, 'https://').trim();
 			fs.writeFileSync(path.join('licenses', `${license.licenseId}.json`), JSON.stringify(licensesJson[license.licenseId], null, '\t'));
 			spinner.text = `Downloaded ${++counter} of ${Object.keys(licensesJson).length} licenses`;
 		} catch (error) {
