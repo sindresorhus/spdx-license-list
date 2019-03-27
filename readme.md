@@ -2,7 +2,7 @@
 
 > List of [SPDX licenses](https://spdx.org/licenses/)
 
-The lists of licenses are just JSON files and can be used wherever.
+The lists of licenses are just JSON files and can be used anywhere.
 
 - [spdx.json](spdx.json) contains just license metadata
 - [spdx-full.json](spdx-full.json) includes the license text too
@@ -21,7 +21,6 @@ $ npm install spdx-license-list
 ## Usage
 
 ```js
-const fs = require('fs');
 const spdxLicenseList = require('spdx-license-list');
 
 console.log(spdxLicenseList.MIT);
@@ -32,8 +31,11 @@ console.log(spdxLicenseList.MIT);
 	osiApproved: true
 }
 */
+```
 
+```js
 const mitLicense = require('spdx-license-list/licenses/MIT');
+
 console.log(mitLicense.licenseText);
 //=> 'MIT License\r\n\r\nCopyright (c) <year> <copyright holders> …'
 ```
