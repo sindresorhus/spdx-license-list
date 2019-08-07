@@ -8,7 +8,7 @@ The lists of licenses are just JSON files and can be used anywhere.
 - [spdx-full.json](spdx-full.json) includes the license text too
 - [spdx-simple.json](spdx-simple.json) only contains the license IDs
 
-*Using SPDX License List version 3.4 (2018-12-20)*
+*Using SPDX License List version 3.6 (2019-07-10)*
 
 
 ## Install
@@ -73,8 +73,3 @@ console.log(spdxLicenseList);
 Type: `Object`
 
 The licenses are indexed by their identifier and contains a `name` property with the full name of the license, `url` with the URL to the license, and `osiApproved` boolean for whether the license is [OSI Approved](https://opensource.org/licenses).
-
-
-## License
-
-CC0-1.0

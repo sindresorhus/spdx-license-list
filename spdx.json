@@ -6,7 +6,7 @@
 	},
 	"AAL": {
 		"name": "Attribution Assurance License",
-		"url": "http://www.opensource.org/licenses/attribution",
+		"url": "https://opensource.org/licenses/attribution",
 		"osiApproved": true
 	},
 	"ADSL": {
@@ -56,17 +56,17 @@
 	},
 	"AGPL-3.0": {
 		"name": "GNU Affero General Public License v3.0",
-		"url": "http://www.gnu.org/licenses/agpl.txt",
+		"url": "https://www.gnu.org/licenses/agpl.txt",
 		"osiApproved": true
 	},
 	"AGPL-3.0-only": {
 		"name": "GNU Affero General Public License v3.0 only",
-		"url": "http://www.gnu.org/licenses/agpl.txt",
+		"url": "https://www.gnu.org/licenses/agpl.txt",
 		"osiApproved": true
 	},
 	"AGPL-3.0-or-later": {
 		"name": "GNU Affero General Public License v3.0 or later",
-		"url": "http://www.gnu.org/licenses/agpl.txt",
+		"url": "https://www.gnu.org/licenses/agpl.txt",
 		"osiApproved": true
 	},
 	"AMDPLPA": {
@@ -96,7 +96,7 @@
 	},
 	"APL-1.0": {
 		"name": "Adaptive Public License 1.0",
-		"url": "http://www.opensource.org/licenses/APL-1.0",
+		"url": "https://opensource.org/licenses/APL-1.0",
 		"osiApproved": true
 	},
 	"APSL-1.0": {
@@ -161,7 +161,7 @@
 	},
 	"Artistic-1.0": {
 		"name": "Artistic License 1.0",
-		"url": "http://opensource.org/licenses/Artistic-1.0",
+		"url": "https://opensource.org/licenses/Artistic-1.0",
 		"osiApproved": true
 	},
 	"Artistic-1.0-Perl": {
@@ -171,7 +171,7 @@
 	},
 	"Artistic-1.0-cl8": {
 		"name": "Artistic License 1.0 w/clause 8",
-		"url": "http://opensource.org/licenses/Artistic-1.0",
+		"url": "https://opensource.org/licenses/Artistic-1.0",
 		"osiApproved": true
 	},
 	"Artistic-2.0": {
@@ -186,7 +186,7 @@
 	},
 	"BSD-2-Clause": {
 		"name": "BSD 2-Clause \"Simplified\" License",
-		"url": "http://www.opensource.org/licenses/BSD-2-Clause",
+		"url": "https://opensource.org/licenses/BSD-2-Clause",
 		"osiApproved": true
 	},
 	"BSD-2-Clause-FreeBSD": {
@@ -206,7 +206,7 @@
 	},
 	"BSD-3-Clause": {
 		"name": "BSD 3-Clause \"New\" or \"Revised\" License",
-		"url": "http://www.opensource.org/licenses/BSD-3-Clause",
+		"url": "https://opensource.org/licenses/BSD-3-Clause",
 		"osiApproved": true
 	},
 	"BSD-3-Clause-Attribution": {
@@ -222,7 +222,7 @@
 	"BSD-3-Clause-LBNL": {
 		"name": "Lawrence Berkeley National Labs BSD variant license",
 		"url": "https://fedoraproject.org/wiki/Licensing/LBNLBSD",
-		"osiApproved": false
+		"osiApproved": true
 	},
 	"BSD-3-Clause-No-Nuclear-License": {
 		"name": "BSD 3-Clause No Nuclear License",
@@ -237,6 +237,11 @@
 	"BSD-3-Clause-No-Nuclear-Warranty": {
 		"name": "BSD 3-Clause No Nuclear Warranty",
 		"url": "https://jogamp.org/git/?p=gluegen.git;a=blob_plain;f=LICENSE.txt",
+		"osiApproved": false
+	},
+	"BSD-3-Clause-Open-MPI": {
+		"name": "BSD 3-Clause Open MPI variant",
+		"url": "https://www.open-mpi.org/community/license.php",
 		"osiApproved": false
 	},
 	"BSD-4-Clause": {
@@ -289,6 +294,11 @@
 		"url": "http://directory.fsf.org/wiki/License:BitTorrentOSL1.1",
 		"osiApproved": false
 	},
+	"BlueOak-1.0.0": {
+		"name": "Blue Oak Model License 1.0.0",
+		"url": "https://blueoakcouncil.org/license/1.0.0",
+		"osiApproved": false
+	},
 	"Borceux": {
 		"name": "Borceux license",
 		"url": "https://fedoraproject.org/wiki/Licensing/Borceux",
@@ -296,112 +306,112 @@
 	},
 	"CATOSL-1.1": {
 		"name": "Computer Associates Trusted Open Source License 1.1",
-		"url": "http://opensource.org/licenses/CATOSL-1.1",
+		"url": "https://opensource.org/licenses/CATOSL-1.1",
 		"osiApproved": true
 	},
 	"CC-BY-1.0": {
 		"name": "Creative Commons Attribution 1.0 Generic",
-		"url": "http://creativecommons.org/licenses/by/1.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by/1.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-2.0": {
 		"name": "Creative Commons Attribution 2.0 Generic",
-		"url": "http://creativecommons.org/licenses/by/2.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by/2.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-2.5": {
 		"name": "Creative Commons Attribution 2.5 Generic",
-		"url": "http://creativecommons.org/licenses/by/2.5/legalcode",
+		"url": "https://creativecommons.org/licenses/by/2.5/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-3.0": {
 		"name": "Creative Commons Attribution 3.0 Unported",
-		"url": "http://creativecommons.org/licenses/by/3.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by/3.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-4.0": {
 		"name": "Creative Commons Attribution 4.0 International",
-		"url": "http://creativecommons.org/licenses/by/4.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by/4.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-NC-1.0": {
 		"name": "Creative Commons Attribution Non Commercial 1.0 Generic",
-		"url": "http://creativecommons.org/licenses/by-nc/1.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by-nc/1.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-NC-2.0": {
 		"name": "Creative Commons Attribution Non Commercial 2.0 Generic",
-		"url": "http://creativecommons.org/licenses/by-nc/2.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by-nc/2.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-NC-2.5": {
 		"name": "Creative Commons Attribution Non Commercial 2.5 Generic",
-		"url": "http://creativecommons.org/licenses/by-nc/2.5/legalcode",
+		"url": "https://creativecommons.org/licenses/by-nc/2.5/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-NC-3.0": {
 		"name": "Creative Commons Attribution Non Commercial 3.0 Unported",
-		"url": "http://creativecommons.org/licenses/by-nc/3.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by-nc/3.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-NC-4.0": {
 		"name": "Creative Commons Attribution Non Commercial 4.0 International",
-		"url": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-NC-ND-1.0": {
 		"name": "Creative Commons Attribution Non Commercial No Derivatives 1.0 Generic",
-		"url": "http://creativecommons.org/licenses/by-nd-nc/1.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by-nd-nc/1.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-NC-ND-2.0": {
 		"name": "Creative Commons Attribution Non Commercial No Derivatives 2.0 Generic",
-		"url": "http://creativecommons.org/licenses/by-nc-nd/2.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-NC-ND-2.5": {
 		"name": "Creative Commons Attribution Non Commercial No Derivatives 2.5 Generic",
-		"url": "http://creativecommons.org/licenses/by-nc-nd/2.5/legalcode",
+		"url": "https://creativecommons.org/licenses/by-nc-nd/2.5/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-NC-ND-3.0": {
 		"name": "Creative Commons Attribution Non Commercial No Derivatives 3.0 Unported",
-		"url": "http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-NC-ND-4.0": {
 		"name": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International",
-		"url": "http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-NC-SA-1.0": {
 		"name": "Creative Commons Attribution Non Commercial Share Alike 1.0 Generic",
-		"url": "http://creativecommons.org/licenses/by-nc-sa/1.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by-nc-sa/1.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-NC-SA-2.0": {
 		"name": "Creative Commons Attribution Non Commercial Share Alike 2.0 Generic",
-		"url": "http://creativecommons.org/licenses/by-nc-sa/2.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by-nc-sa/2.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-NC-SA-2.5": {
 		"name": "Creative Commons Attribution Non Commercial Share Alike 2.5 Generic",
-		"url": "http://creativecommons.org/licenses/by-nc-sa/2.5/legalcode",
+		"url": "https://creativecommons.org/licenses/by-nc-sa/2.5/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-NC-SA-3.0": {
 		"name": "Creative Commons Attribution Non Commercial Share Alike 3.0 Unported",
-		"url": "http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-NC-SA-4.0": {
 		"name": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
-		"url": "http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-ND-1.0": {
 		"name": "Creative Commons Attribution No Derivatives 1.0 Generic",
-		"url": "http://creativecommons.org/licenses/by-nd/1.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by-nd/1.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-ND-2.0": {
@@ -411,52 +421,57 @@
 	},
 	"CC-BY-ND-2.5": {
 		"name": "Creative Commons Attribution No Derivatives 2.5 Generic",
-		"url": "http://creativecommons.org/licenses/by-nd/2.5/legalcode",
+		"url": "https://creativecommons.org/licenses/by-nd/2.5/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-ND-3.0": {
 		"name": "Creative Commons Attribution No Derivatives 3.0 Unported",
-		"url": "http://creativecommons.org/licenses/by-nd/3.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by-nd/3.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-ND-4.0": {
 		"name": "Creative Commons Attribution No Derivatives 4.0 International",
-		"url": "http://creativecommons.org/licenses/by-nd/4.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by-nd/4.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-SA-1.0": {
 		"name": "Creative Commons Attribution Share Alike 1.0 Generic",
-		"url": "http://creativecommons.org/licenses/by-sa/1.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by-sa/1.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-SA-2.0": {
 		"name": "Creative Commons Attribution Share Alike 2.0 Generic",
-		"url": "http://creativecommons.org/licenses/by-sa/2.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by-sa/2.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-SA-2.5": {
 		"name": "Creative Commons Attribution Share Alike 2.5 Generic",
-		"url": "http://creativecommons.org/licenses/by-sa/2.5/legalcode",
+		"url": "https://creativecommons.org/licenses/by-sa/2.5/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-SA-3.0": {
 		"name": "Creative Commons Attribution Share Alike 3.0 Unported",
-		"url": "http://creativecommons.org/licenses/by-sa/3.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by-sa/3.0/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-SA-4.0": {
 		"name": "Creative Commons Attribution Share Alike 4.0 International",
-		"url": "http://creativecommons.org/licenses/by-sa/4.0/legalcode",
+		"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+		"osiApproved": false
+	},
+	"CC-PDDC": {
+		"name": "Creative Commons Public Domain Dedication and Certification",
+		"url": "https://creativecommons.org/licenses/publicdomain/",
 		"osiApproved": false
 	},
 	"CC0-1.0": {
 		"name": "Creative Commons Zero v1.0 Universal",
-		"url": "http://creativecommons.org/publicdomain/zero/1.0/legalcode",
+		"url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
 		"osiApproved": false
 	},
 	"CDDL-1.0": {
 		"name": "Common Development and Distribution License 1.0",
-		"url": "http://www.opensource.org/licenses/cddl1",
+		"url": "https://opensource.org/licenses/cddl1",
 		"osiApproved": true
 	},
 	"CDDL-1.1": {
@@ -501,7 +516,17 @@
 	},
 	"CECILL-C": {
 		"name": "CeCILL-C Free Software License Agreement",
-		"url": "http://www.cecill.info/licences/Licence_CeCILL-C_V1-en.html\n    ",
+		"url": "http://www.cecill.info/licences/Licence_CeCILL-C_V1-en.html",
+		"osiApproved": false
+	},
+	"CERN-OHL-1.1": {
+		"name": "CERN Open Hardware License v1.1",
+		"url": "https://www.ohwr.org/project/licenses/wikis/cern-ohl-v1.1",
+		"osiApproved": false
+	},
+	"CERN-OHL-1.2": {
+		"name": "CERN Open Hardware Licence v1.2",
+		"url": "https://www.ohwr.org/project/licenses/wikis/cern-ohl-v1.2",
 		"osiApproved": false
 	},
 	"CNRI-Jython": {
@@ -511,7 +536,7 @@
 	},
 	"CNRI-Python": {
 		"name": "CNRI Python License",
-		"url": "http://www.opensource.org/licenses/CNRI-Python",
+		"url": "https://opensource.org/licenses/CNRI-Python",
 		"osiApproved": true
 	},
 	"CNRI-Python-GPL-Compatible": {
@@ -521,12 +546,12 @@
 	},
 	"CPAL-1.0": {
 		"name": "Common Public Attribution License 1.0",
-		"url": "http://www.opensource.org/licenses/CPAL-1.0",
+		"url": "https://opensource.org/licenses/CPAL-1.0",
 		"osiApproved": true
 	},
 	"CPL-1.0": {
 		"name": "Common Public License 1.0",
-		"url": "http://opensource.org/licenses/CPL-1.0",
+		"url": "https://opensource.org/licenses/CPL-1.0",
 		"osiApproved": true
 	},
 	"CPOL-1.02": {
@@ -536,7 +561,7 @@
 	},
 	"CUA-OPL-1.0": {
 		"name": "CUA Office Public License v1.0",
-		"url": "http://opensource.org/licenses/CUA-OPL-1.0",
+		"url": "https://opensource.org/licenses/CUA-OPL-1.0",
 		"osiApproved": true
 	},
 	"Caldera": {
@@ -591,12 +616,12 @@
 	},
 	"ECL-1.0": {
 		"name": "Educational Community License v1.0",
-		"url": "http://opensource.org/licenses/ECL-1.0",
+		"url": "https://opensource.org/licenses/ECL-1.0",
 		"osiApproved": true
 	},
 	"ECL-2.0": {
 		"name": "Educational Community License v2.0",
-		"url": "http://opensource.org/licenses/ECL-2.0",
+		"url": "https://opensource.org/licenses/ECL-2.0",
 		"osiApproved": true
 	},
 	"EFL-1.0": {
@@ -641,7 +666,7 @@
 	},
 	"Entessa": {
 		"name": "Entessa Public License v1.0",
-		"url": "http://opensource.org/licenses/Entessa",
+		"url": "https://opensource.org/licenses/Entessa",
 		"osiApproved": true
 	},
 	"ErlPL-1.1": {
@@ -656,7 +681,7 @@
 	},
 	"FSFAP": {
 		"name": "FSF All Permissive License",
-		"url": "http://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html",
+		"url": "https://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html",
 		"osiApproved": false
 	},
 	"FSFUL": {
@@ -681,7 +706,7 @@
 	},
 	"Frameworx-1.0": {
 		"name": "Frameworx Open License 1.0",
-		"url": "http://www.opensource.org/licenses/Frameworx-1.0",
+		"url": "https://opensource.org/licenses/Frameworx-1.0",
 		"osiApproved": true
 	},
 	"FreeImage": {
@@ -691,47 +716,47 @@
 	},
 	"GFDL-1.1": {
 		"name": "GNU Free Documentation License v1.1",
-		"url": "http://www.gnu.org/licenses/old-licenses/fdl-1.1.txt",
+		"url": "https://www.gnu.org/licenses/old-licenses/fdl-1.1.txt",
 		"osiApproved": false
 	},
 	"GFDL-1.1-only": {
 		"name": "GNU Free Documentation License v1.1 only",
-		"url": "http://www.gnu.org/licenses/old-licenses/fdl-1.1.txt",
+		"url": "https://www.gnu.org/licenses/old-licenses/fdl-1.1.txt",
 		"osiApproved": false
 	},
 	"GFDL-1.1-or-later": {
 		"name": "GNU Free Documentation License v1.1 or later",
-		"url": "http://www.gnu.org/licenses/old-licenses/fdl-1.1.txt",
+		"url": "https://www.gnu.org/licenses/old-licenses/fdl-1.1.txt",
 		"osiApproved": false
 	},
 	"GFDL-1.2": {
 		"name": "GNU Free Documentation License v1.2",
-		"url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.txt",
+		"url": "https://www.gnu.org/licenses/old-licenses/fdl-1.2.txt",
 		"osiApproved": false
 	},
 	"GFDL-1.2-only": {
 		"name": "GNU Free Documentation License v1.2 only",
-		"url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.txt",
+		"url": "https://www.gnu.org/licenses/old-licenses/fdl-1.2.txt",
 		"osiApproved": false
 	},
 	"GFDL-1.2-or-later": {
 		"name": "GNU Free Documentation License v1.2 or later",
-		"url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.txt",
+		"url": "https://www.gnu.org/licenses/old-licenses/fdl-1.2.txt",
 		"osiApproved": false
 	},
 	"GFDL-1.3": {
 		"name": "GNU Free Documentation License v1.3",
-		"url": "http://www.gnu.org/licenses/fdl-1.3.txt",
+		"url": "https://www.gnu.org/licenses/fdl-1.3.txt",
 		"osiApproved": false
 	},
 	"GFDL-1.3-only": {
 		"name": "GNU Free Documentation License v1.3 only",
-		"url": "http://www.gnu.org/licenses/fdl-1.3.txt",
+		"url": "https://www.gnu.org/licenses/fdl-1.3.txt",
 		"osiApproved": false
 	},
 	"GFDL-1.3-or-later": {
 		"name": "GNU Free Documentation License v1.3 or later",
-		"url": "http://www.gnu.org/licenses/fdl-1.3.txt",
+		"url": "https://www.gnu.org/licenses/fdl-1.3.txt",
 		"osiApproved": false
 	},
 	"GL2PS": {
@@ -741,42 +766,42 @@
 	},
 	"GPL-1.0": {
 		"name": "GNU General Public License v1.0 only",
-		"url": "http://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html",
 		"osiApproved": false
 	},
 	"GPL-1.0+": {
 		"name": "GNU General Public License v1.0 or later",
-		"url": "http://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html",
 		"osiApproved": false
 	},
 	"GPL-1.0-only": {
 		"name": "GNU General Public License v1.0 only",
-		"url": "http://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html",
 		"osiApproved": false
 	},
 	"GPL-1.0-or-later": {
 		"name": "GNU General Public License v1.0 or later",
-		"url": "http://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html",
 		"osiApproved": false
 	},
 	"GPL-2.0": {
 		"name": "GNU General Public License v2.0 only",
-		"url": "http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
 		"osiApproved": true
 	},
 	"GPL-2.0+": {
 		"name": "GNU General Public License v2.0 or later",
-		"url": "http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
 		"osiApproved": true
 	},
 	"GPL-2.0-only": {
 		"name": "GNU General Public License v2.0 only",
-		"url": "http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
 		"osiApproved": true
 	},
 	"GPL-2.0-or-later": {
 		"name": "GNU General Public License v2.0 or later",
-		"url": "http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
 		"osiApproved": true
 	},
 	"GPL-2.0-with-GCC-exception": {
@@ -796,42 +821,42 @@
 	},
 	"GPL-2.0-with-classpath-exception": {
 		"name": "GNU General Public License v2.0 w/Classpath exception",
-		"url": "http://www.gnu.org/software/classpath/license.html",
+		"url": "https://www.gnu.org/software/classpath/license.html",
 		"osiApproved": false
 	},
 	"GPL-2.0-with-font-exception": {
 		"name": "GNU General Public License v2.0 w/Font exception",
-		"url": "http://www.gnu.org/licenses/gpl-faq.html#FontException",
+		"url": "https://www.gnu.org/licenses/gpl-faq.html#FontException",
 		"osiApproved": false
 	},
 	"GPL-3.0": {
 		"name": "GNU General Public License v3.0 only",
-		"url": "http://www.gnu.org/licenses/gpl-3.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/gpl-3.0-standalone.html",
 		"osiApproved": true
 	},
 	"GPL-3.0+": {
 		"name": "GNU General Public License v3.0 or later",
-		"url": "http://www.gnu.org/licenses/gpl-3.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/gpl-3.0-standalone.html",
 		"osiApproved": true
 	},
 	"GPL-3.0-only": {
 		"name": "GNU General Public License v3.0 only",
-		"url": "http://www.gnu.org/licenses/gpl-3.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/gpl-3.0-standalone.html",
 		"osiApproved": true
 	},
 	"GPL-3.0-or-later": {
 		"name": "GNU General Public License v3.0 or later",
-		"url": "http://www.gnu.org/licenses/gpl-3.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/gpl-3.0-standalone.html",
 		"osiApproved": true
 	},
 	"GPL-3.0-with-GCC-exception": {
 		"name": "GNU General Public License v3.0 w/GCC Runtime Library exception",
-		"url": "http://www.gnu.org/licenses/gcc-exception-3.1.html",
+		"url": "https://www.gnu.org/licenses/gcc-exception-3.1.html",
 		"osiApproved": true
 	},
 	"GPL-3.0-with-autoconf-exception": {
 		"name": "GNU General Public License v3.0 w/Autoconf exception",
-		"url": "http://www.gnu.org/licenses/autoconf-exception-3.0.html",
+		"url": "https://www.gnu.org/licenses/autoconf-exception-3.0.html",
 		"osiApproved": false
 	},
 	"Giftware": {
@@ -851,8 +876,13 @@
 	},
 	"HPND": {
 		"name": "Historical Permission Notice and Disclaimer",
-		"url": "http://www.opensource.org/licenses/HPND",
+		"url": "https://opensource.org/licenses/HPND",
 		"osiApproved": true
+	},
+	"HPND-sell-variant": {
+		"name": "Historical Permission Notice and Disclaimer - sell variant",
+		"url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/net/sunrpc/auth_gss/gss_generic_token.c?h=v4.19",
+		"osiApproved": false
 	},
 	"HaskellReport": {
 		"name": "Haskell Language Report License",
@@ -876,12 +906,12 @@
 	},
 	"IPA": {
 		"name": "IPA Font License",
-		"url": "http://www.opensource.org/licenses/IPA",
+		"url": "https://opensource.org/licenses/IPA",
 		"osiApproved": true
 	},
 	"IPL-1.0": {
 		"name": "IBM Public License v1.0",
-		"url": "http://www.opensource.org/licenses/IPL-1.0",
+		"url": "https://opensource.org/licenses/IPL-1.0",
 		"osiApproved": true
 	},
 	"ISC": {
@@ -906,7 +936,7 @@
 	},
 	"Intel": {
 		"name": "Intel Open Source License",
-		"url": "http://opensource.org/licenses/Intel",
+		"url": "https://opensource.org/licenses/Intel",
 		"osiApproved": true
 	},
 	"Intel-ACPI": {
@@ -917,6 +947,11 @@
 	"Interbase-1.0": {
 		"name": "Interbase Public License v1.0",
 		"url": "https://web.archive.org/web/20060319014854/http://info.borland.com/devsupport/interbase/opensource/IPL.html",
+		"osiApproved": false
+	},
+	"JPNIC": {
+		"name": "Japan Network Information Center License",
+		"url": "https://gitlab.isc.org/isc-projects/bind9/blob/master/COPYRIGHT#L366",
 		"osiApproved": false
 	},
 	"JSON": {
@@ -941,62 +976,62 @@
 	},
 	"LGPL-2.0": {
 		"name": "GNU Library General Public License v2 only",
-		"url": "http://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html",
 		"osiApproved": true
 	},
 	"LGPL-2.0+": {
 		"name": "GNU Library General Public License v2 or later",
-		"url": "http://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html",
 		"osiApproved": true
 	},
 	"LGPL-2.0-only": {
 		"name": "GNU Library General Public License v2 only",
-		"url": "http://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html",
 		"osiApproved": true
 	},
 	"LGPL-2.0-or-later": {
 		"name": "GNU Library General Public License v2 or later",
-		"url": "http://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html",
 		"osiApproved": true
 	},
 	"LGPL-2.1": {
 		"name": "GNU Lesser General Public License v2.1 only",
-		"url": "http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
+		"url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
 		"osiApproved": true
 	},
 	"LGPL-2.1+": {
 		"name": "GNU Library General Public License v2.1 or later",
-		"url": "http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
+		"url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
 		"osiApproved": true
 	},
 	"LGPL-2.1-only": {
 		"name": "GNU Lesser General Public License v2.1 only",
-		"url": "http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
+		"url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
 		"osiApproved": true
 	},
 	"LGPL-2.1-or-later": {
 		"name": "GNU Lesser General Public License v2.1 or later",
-		"url": "http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
+		"url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
 		"osiApproved": true
 	},
 	"LGPL-3.0": {
 		"name": "GNU Lesser General Public License v3.0 only",
-		"url": "http://www.gnu.org/licenses/lgpl-3.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/lgpl-3.0-standalone.html",
 		"osiApproved": true
 	},
 	"LGPL-3.0+": {
 		"name": "GNU Lesser General Public License v3.0 or later",
-		"url": "http://www.gnu.org/licenses/lgpl-3.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/lgpl-3.0-standalone.html",
 		"osiApproved": true
 	},
 	"LGPL-3.0-only": {
 		"name": "GNU Lesser General Public License v3.0 only",
-		"url": "http://www.gnu.org/licenses/lgpl-3.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/lgpl-3.0-standalone.html",
 		"osiApproved": true
 	},
 	"LGPL-3.0-or-later": {
 		"name": "GNU Lesser General Public License v3.0 or later",
-		"url": "http://www.gnu.org/licenses/lgpl-3.0-standalone.html",
+		"url": "https://www.gnu.org/licenses/lgpl-3.0-standalone.html",
 		"osiApproved": true
 	},
 	"LGPLLR": {
@@ -1006,7 +1041,7 @@
 	},
 	"LPL-1.0": {
 		"name": "Lucent Public License Version 1.0",
-		"url": "http://opensource.org/licenses/LPL-1.0",
+		"url": "https://opensource.org/licenses/LPL-1.0",
 		"osiApproved": true
 	},
 	"LPL-1.02": {
@@ -1076,7 +1111,7 @@
 	},
 	"MIT": {
 		"name": "MIT License",
-		"url": "http://www.opensource.org/licenses/MIT",
+		"url": "https://opensource.org/licenses/MIT",
 		"osiApproved": true
 	},
 	"MIT-0": {
@@ -1151,17 +1186,17 @@
 	},
 	"MirOS": {
 		"name": "MirOS License",
-		"url": "http://www.opensource.org/licenses/MirOS",
+		"url": "https://opensource.org/licenses/MirOS",
 		"osiApproved": true
 	},
 	"Motosoto": {
 		"name": "Motosoto License",
-		"url": "http://www.opensource.org/licenses/Motosoto",
+		"url": "https://opensource.org/licenses/Motosoto",
 		"osiApproved": true
 	},
 	"Multics": {
 		"name": "Multics License",
-		"url": "http://www.opensource.org/licenses/Multics",
+		"url": "https://opensource.org/licenses/Multics",
 		"osiApproved": true
 	},
 	"Mup": {
@@ -1186,7 +1221,7 @@
 	},
 	"NGPL": {
 		"name": "Nethack General Public License",
-		"url": "http://www.opensource.org/licenses/NGPL",
+		"url": "https://opensource.org/licenses/NGPL",
 		"osiApproved": true
 	},
 	"NLOD-1.0": {
@@ -1216,7 +1251,7 @@
 	},
 	"NPOSL-3.0": {
 		"name": "Non-Profit Open Software License 3.0",
-		"url": "http://www.opensource.org/licenses/NOSL3.0",
+		"url": "https://opensource.org/licenses/NOSL3.0",
 		"osiApproved": true
 	},
 	"NRL": {
@@ -1226,12 +1261,12 @@
 	},
 	"NTP": {
 		"name": "NTP License",
-		"url": "http://www.opensource.org/licenses/NTP",
+		"url": "https://opensource.org/licenses/NTP",
 		"osiApproved": true
 	},
 	"Naumen": {
 		"name": "Naumen Public License",
-		"url": "http://www.opensource.org/licenses/Naumen",
+		"url": "https://opensource.org/licenses/Naumen",
 		"osiApproved": true
 	},
 	"Net-SNMP": {
@@ -1251,7 +1286,7 @@
 	},
 	"Nokia": {
 		"name": "Nokia Open Source License",
-		"url": "http://www.opensource.org/licenses/nokia",
+		"url": "https://opensource.org/licenses/nokia",
 		"osiApproved": true
 	},
 	"Noweb": {
@@ -1411,7 +1446,7 @@
 	},
 	"OSL-1.0": {
 		"name": "Open Software License 1.0",
-		"url": "http://opensource.org/licenses/OSL-1.0",
+		"url": "https://opensource.org/licenses/OSL-1.0",
 		"osiApproved": true
 	},
 	"OSL-1.1": {
@@ -1454,6 +1489,11 @@
 		"url": "http://www.php.net/license/3_01.txt",
 		"osiApproved": false
 	},
+	"Parity-6.0.0": {
+		"name": "The Parity Public License 6.0.0",
+		"url": "https://paritylicense.com/versions/6.0.0.html",
+		"osiApproved": false
+	},
 	"Plexus": {
 		"name": "Plexus Classworlds License",
 		"url": "https://fedoraproject.org/wiki/Licensing/Plexus_Classworlds_License",
@@ -1466,7 +1506,7 @@
 	},
 	"Python-2.0": {
 		"name": "Python License 2.0",
-		"url": "http://www.opensource.org/licenses/Python-2.0",
+		"url": "https://opensource.org/licenses/Python-2.0",
 		"osiApproved": true
 	},
 	"QPL-1.0": {
@@ -1486,12 +1526,12 @@
 	},
 	"RPL-1.1": {
 		"name": "Reciprocal Public License 1.1",
-		"url": "http://opensource.org/licenses/RPL-1.1",
+		"url": "https://opensource.org/licenses/RPL-1.1",
 		"osiApproved": true
 	},
 	"RPL-1.5": {
 		"name": "Reciprocal Public License 1.5",
-		"url": "http://www.opensource.org/licenses/RPL-1.5",
+		"url": "https://opensource.org/licenses/RPL-1.5",
 		"osiApproved": true
 	},
 	"RPSL-1.0": {
@@ -1544,6 +1584,16 @@
 		"url": "http://oss.sgi.com/projects/FreeB/SGIFreeSWLicB.2.0.pdf",
 		"osiApproved": false
 	},
+	"SHL-0.5": {
+		"name": "Solderpad Hardware License v0.5",
+		"url": "https://solderpad.org/licenses/SHL-0.5/",
+		"osiApproved": false
+	},
+	"SHL-0.51": {
+		"name": "Solderpad Hardware License, Version 0.51",
+		"url": "https://solderpad.org/licenses/SHL-0.51/",
+		"osiApproved": false
+	},
 	"SISSL": {
 		"name": "Sun Industry Standards Source License v1.1",
 		"url": "http://www.openoffice.org/licenses/sissl_license.html",
@@ -1571,8 +1621,13 @@
 	},
 	"SPL-1.0": {
 		"name": "Sun Public License v1.0",
-		"url": "http://www.opensource.org/licenses/SPL-1.0",
+		"url": "https://opensource.org/licenses/SPL-1.0",
 		"osiApproved": true
+	},
+	"SSPL-1.0": {
+		"name": "Server Side Public License, v 1",
+		"url": "https://www.mongodb.com/licensing/server-side-public-license",
+		"osiApproved": false
 	},
 	"SWL": {
 		"name": "Scheme Widget Library (SWL) Software License Agreement",
@@ -1596,12 +1651,12 @@
 	},
 	"SimPL-2.0": {
 		"name": "Simple Public License 2.0",
-		"url": "http://www.opensource.org/licenses/SimPL-2.0",
+		"url": "https://opensource.org/licenses/SimPL-2.0",
 		"osiApproved": true
 	},
 	"Sleepycat": {
 		"name": "Sleepycat License",
-		"url": "http://www.opensource.org/licenses/Sleepycat",
+		"url": "https://opensource.org/licenses/Sleepycat",
 		"osiApproved": true
 	},
 	"Spencer-86": {
@@ -1627,6 +1682,11 @@
 	"SugarCRM-1.1.3": {
 		"name": "SugarCRM Public License v1.1.3",
 		"url": "http://www.sugarcrm.com/crm/SPL",
+		"osiApproved": false
+	},
+	"TAPR-OHL-1.0": {
+		"name": "TAPR Open Hardware License v1.0",
+		"url": "https://www.tapr.org/OHL",
 		"osiApproved": false
 	},
 	"TCL": {
@@ -1666,7 +1726,7 @@
 	},
 	"UPL-1.0": {
 		"name": "Universal Permissive License v1.0",
-		"url": "http://opensource.org/licenses/UPL",
+		"url": "https://opensource.org/licenses/UPL",
 		"osiApproved": true
 	},
 	"Unicode-DFS-2015": {
@@ -1696,7 +1756,7 @@
 	},
 	"VSL-1.0": {
 		"name": "Vovida Software License v1.0",
-		"url": "http://www.opensource.org/licenses/VSL-1.0",
+		"url": "https://opensource.org/licenses/VSL-1.0",
 		"osiApproved": true
 	},
 	"Vim": {
@@ -1726,7 +1786,7 @@
 	},
 	"Watcom-1.0": {
 		"name": "Sybase Open Watcom Public License 1.0",
-		"url": "http://www.opensource.org/licenses/Watcom-1.0",
+		"url": "https://opensource.org/licenses/Watcom-1.0",
 		"osiApproved": true
 	},
 	"Wsuipa": {
@@ -1756,7 +1816,7 @@
 	},
 	"Xnet": {
 		"name": "X.Net License",
-		"url": "http://opensource.org/licenses/Xnet",
+		"url": "https://opensource.org/licenses/Xnet",
 		"osiApproved": true
 	},
 	"YPL-1.0": {
@@ -1809,6 +1869,11 @@
 		"url": "http://www.zlib.net/zlib_license.html",
 		"osiApproved": true
 	},
+	"blessing": {
+		"name": "SQLite Blessing",
+		"url": "https://www.sqlite.org/src/artifact/e33a4df7e32d742a?ln=4-9",
+		"osiApproved": false
+	},
 	"bzip2-1.0.5": {
 		"name": "bzip2 and libbzip2 License v1.0.5",
 		"url": "http://bzip.org/1.0.5/bzip2-manual-1.0.5.html",
@@ -1846,7 +1911,7 @@
 	},
 	"eCos-2.0": {
 		"name": "eCos license version 2.0",
-		"url": "http://www.gnu.org/licenses/ecos-license.html",
+		"url": "https://www.gnu.org/licenses/ecos-license.html",
 		"osiApproved": false
 	},
 	"eGenix": {
@@ -1867,6 +1932,11 @@
 	"iMatix": {
 		"name": "iMatix Standard Function Library Agreement",
 		"url": "http://legacy.imatix.com/html/sfl/sfl4.htm#license",
+		"osiApproved": false
+	},
+	"libpng-2.0": {
+		"name": "PNG Reference Library version 2",
+		"url": "http://www.libpng.org/pub/png/src/libpng-LICENSE.txt",
 		"osiApproved": false
 	},
 	"libtiff": {
@@ -1891,7 +1961,7 @@
 	},
 	"wxWindows": {
 		"name": "wxWindows Library License",
-		"url": "http://www.opensource.org/licenses/WXwindows",
+		"url": "https://opensource.org/licenses/WXwindows",
 		"osiApproved": false
 	},
 	"xinetd": {
