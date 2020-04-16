@@ -520,7 +520,7 @@
 		"osiApproved": false
 	},
 	"CERN-OHL-1.1": {
-		"name": "CERN Open Hardware License v1.1",
+		"name": "CERN Open Hardware Licence v1.1",
 		"url": "https://www.ohwr.org/project/licenses/wikis/cern-ohl-v1.1",
 		"osiApproved": false
 	},
@@ -971,7 +971,7 @@
 	},
 	"LAL-1.3": {
 		"name": "Licence Art Libre 1.3",
-		"url": "http://artlibre.org/",
+		"url": "https://artlibre.org/",
 		"osiApproved": false
 	},
 	"LGPL-2.0": {
@@ -1117,7 +1117,7 @@
 	"MIT-0": {
 		"name": "MIT No Attribution",
 		"url": "https://github.com/aws/mit-0",
-		"osiApproved": true
+		"osiApproved": false
 	},
 	"MIT-CMU": {
 		"name": "CMU License",
@@ -1185,7 +1185,7 @@
 		"osiApproved": false
 	},
 	"MirOS": {
-		"name": "MirOS License",
+		"name": "The MirOS Licence",
 		"url": "https://opensource.org/licenses/MirOS",
 		"osiApproved": true
 	},
@@ -1193,6 +1193,11 @@
 		"name": "Motosoto License",
 		"url": "https://opensource.org/licenses/Motosoto",
 		"osiApproved": true
+	},
+	"MulanPSL-1.0": {
+		"name": "Mulan Permissive Software License, Version 1",
+		"url": "https://license.coscl.org.cn/MulanPSL/",
+		"osiApproved": false
 	},
 	"Multics": {
 		"name": "Multics License",
@@ -1264,6 +1269,11 @@
 		"url": "https://opensource.org/licenses/NTP",
 		"osiApproved": true
 	},
+	"NTP-0": {
+		"name": "NTP No Attribution",
+		"url": "https://github.com/tytso/e2fsprogs/blob/master/lib/et/et_name.c",
+		"osiApproved": false
+	},
 	"Naumen": {
 		"name": "Naumen Public License",
 		"url": "https://opensource.org/licenses/Naumen",
@@ -1324,10 +1334,35 @@
 		"url": "http://scripts.sil.org/cms/scripts/page.php?item_id=OFL10_web",
 		"osiApproved": false
 	},
+	"OFL-1.0-RFN": {
+		"name": "SIL Open Font License 1.0 with Reserved Font Name",
+		"url": "http://scripts.sil.org/cms/scripts/page.php?item_id=OFL10_web",
+		"osiApproved": false
+	},
+	"OFL-1.0-no-RFN": {
+		"name": "SIL Open Font License 1.0 with no Reserved Font Name",
+		"url": "http://scripts.sil.org/cms/scripts/page.php?item_id=OFL10_web",
+		"osiApproved": false
+	},
 	"OFL-1.1": {
 		"name": "SIL Open Font License 1.1",
 		"url": "http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web",
 		"osiApproved": true
+	},
+	"OFL-1.1-RFN": {
+		"name": "SIL Open Font License 1.1 with Reserved Font Name",
+		"url": "http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web",
+		"osiApproved": true
+	},
+	"OFL-1.1-no-RFN": {
+		"name": "SIL Open Font License 1.1 with no Reserved Font Name",
+		"url": "http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web",
+		"osiApproved": true
+	},
+	"OGL-Canada-2.0": {
+		"name": "Open Government Licence - Canada",
+		"url": "https://open.canada.ca/en/open-government-licence-canada",
+		"osiApproved": false
 	},
 	"OGL-UK-1.0": {
 		"name": "Open Government Licence v1.0",
@@ -1489,6 +1524,11 @@
 		"url": "http://www.php.net/license/3_01.txt",
 		"osiApproved": false
 	},
+	"PSF-2.0": {
+		"name": "Python Software Foundation License 2.0",
+		"url": "https://opensource.org/licenses/Python-2.0",
+		"osiApproved": false
+	},
 	"Parity-6.0.0": {
 		"name": "The Parity Public License 6.0.0",
 		"url": "https://paritylicense.com/versions/6.0.0.html",
@@ -1624,6 +1664,16 @@
 		"url": "https://opensource.org/licenses/SPL-1.0",
 		"osiApproved": true
 	},
+	"SSH-OpenSSH": {
+		"name": "SSH OpenSSH license",
+		"url": "https://github.com/openssh/openssh-portable/blob/1b11ea7c58cd5c59838b5fa574cd456d6047b2d4/LICENCE#L10",
+		"osiApproved": false
+	},
+	"SSH-short": {
+		"name": "SSH short notice",
+		"url": "https://github.com/openssh/openssh-portable/blob/1b11ea7c58cd5c59838b5fa574cd456d6047b2d4/pathnames.h",
+		"osiApproved": false
+	},
 	"SSPL-1.0": {
 		"name": "Server Side Public License, v 1",
 		"url": "https://www.mongodb.com/licensing/server-side-public-license",
@@ -1724,6 +1774,11 @@
 		"url": "https://github.com/CorsixTH/deps/blob/fd339a9f526d1d9c9f01ccf39e438a015da50035/licences/libgsm.txt",
 		"osiApproved": false
 	},
+	"UCL-1.0": {
+		"name": "Upstream Compatibility License v1.0",
+		"url": "https://opensource.org/licenses/UCL-1.0",
+		"osiApproved": true
+	},
 	"UPL-1.0": {
 		"name": "Universal Permissive License v1.0",
 		"url": "https://opensource.org/licenses/UPL",
@@ -1746,7 +1801,7 @@
 	},
 	"Unlicense": {
 		"name": "The Unlicense",
-		"url": "http://unlicense.org/",
+		"url": "https://unlicense.org/",
 		"osiApproved": false
 	},
 	"VOSTROM": {
@@ -1919,6 +1974,11 @@
 		"url": "http://www.egenix.com/products/eGenix.com-Public-License-1.1.0.pdf",
 		"osiApproved": false
 	},
+	"etalab-2.0": {
+		"name": "Etalab Open License 2.0",
+		"url": "https://github.com/DISIC/politique-de-contribution-open-source/blob/master/LICENSE.pdf",
+		"osiApproved": false
+	},
 	"gSOAP-1.3b": {
 		"name": "gSOAP Public License v1.3b",
 		"url": "http://www.cs.fsu.edu/~engelen/license.html",
@@ -1937,6 +1997,11 @@
 	"libpng-2.0": {
 		"name": "PNG Reference Library version 2",
 		"url": "http://www.libpng.org/pub/png/src/libpng-LICENSE.txt",
+		"osiApproved": false
+	},
+	"libselinux-1.0": {
+		"name": "libselinux public domain notice",
+		"url": "https://github.com/SELinuxProject/selinux/blob/master/libselinux/LICENSE",
 		"osiApproved": false
 	},
 	"libtiff": {
