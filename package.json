@@ -13,13 +13,16 @@
 		"node": ">=8"
 	},
 	"scripts": {
-		"test": "xo && ava",
+		"test": "xo && ava && tsd",
 		"make": "node make.js"
 	},
 	"files": [
 		"index.js",
+		"index.d.ts",
 		"full.js",
+		"full.d.ts",
 		"simple.js",
+		"simple.d.ts",
 		"spdx.json",
 		"spdx-full.json",
 		"spdx-simple.json",
@@ -45,6 +48,7 @@
 		"hard-rejection": "^2.0.0",
 		"ora": "^3.2.0",
 		"p-map": "^2.0.0",
+		"tsd": "^0.13.1",
 		"xo": "^0.24.0"
 	}
 }
