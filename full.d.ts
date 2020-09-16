@@ -16,7 +16,7 @@ console.log(spdxFull.MIT);
 */
 declare const spdxLicenseListFull: Readonly<Record<string, {
 	/**
-	Common, textual name of the license.
+	Name of the license.
 	*/
 	readonly name: string;
 
@@ -26,7 +26,7 @@ declare const spdxLicenseListFull: Readonly<Record<string, {
 	readonly url: string;
 
 	/**
-	`true` if the license is OSI approved, `false` otherwise.
+	Whether the license is OSI approved.
 	*/
 	readonly osiApproved: boolean;
 

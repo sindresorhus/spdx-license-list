@@ -1,4 +1,4 @@
-# spdx-license-list [![Build Status](https://travis-ci.com/sindresorhus/spdx-license-list.svg?branch=master)](https://travis-ci.com/sindresorhus/spdx-license-list)
+# spdx-license-list [![Build Status](https://travis-ci.com/sindresorhus/spdx-license-list.svg?branch=master)](https://travis-ci.com/github/sindresorhus/spdx-license-list)
 
 > List of [SPDX licenses](https://spdx.org/licenses/)
 
@@ -8,7 +8,7 @@ The lists of licenses are just JSON files and can be used anywhere.
 - [spdx-full.json](spdx-full.json) includes the license text too
 - [spdx-simple.json](spdx-simple.json) only contains the license IDs
 
-*Using SPDX License List version 3.8 (2020-02-09)*
+*Using SPDX License List version 3.10 (2020-08-03)*
 
 ## Install
 
