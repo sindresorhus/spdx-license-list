@@ -13,7 +13,7 @@ console.log(spdx.MIT);
 //=> }
 ```
 */
-declare const SpdxLicenseList: Readonly<Record<string, {
+declare const spdxLicenseList: Readonly<Record<string, {
 	/**
 	Common, textual name of the license.
 	*/
@@ -30,4 +30,4 @@ declare const SpdxLicenseList: Readonly<Record<string, {
 	readonly osiApproved: boolean;
 }>>;
 
-export = SpdxLicenseList;
+export = spdxLicenseList;
