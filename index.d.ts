@@ -3,7 +3,8 @@ Object containing [SPDX licenses](https://spdx.org/licenses/) indexed by their i
 
 @example
 ```
-import * as spdx from "spdx-license-list";
+import * as spdx from 'spdx-license-list';
+
 console.log(spdx.MIT);
 //=> {
 //=> 	name: 'MIT License',
@@ -13,13 +14,19 @@ console.log(spdx.MIT);
 ```
 */
 declare const SpdxLicenseList: Readonly<Record<string, {
-	/** Common, textual name of license. */
+	/**
+	Common, textual name of the license.
+	*/
 	readonly name: string;
 
-	/** URL where license can be downloaded. */
+	/**
+	URL where the license can be downloaded.
+	*/
 	readonly url: string;
 
-	/** Value is `true` if license is OSI approved, `false` otherwise. */
+	/**
+	`true` if the license is OSI approved, `false` otherwise.
+	*/
 	readonly osiApproved: boolean;
 }>>;
 
