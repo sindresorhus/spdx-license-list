@@ -14,7 +14,7 @@ console.log(spdxFull.MIT);
 //=> }
 ```
 */
-declare const SpdxLicenseListFull: Readonly<Record<string, {
+declare const spdxLicenseListFull: Readonly<Record<string, {
 	/**
 	Common, textual name of the license.
 	*/
@@ -36,4 +36,4 @@ declare const SpdxLicenseListFull: Readonly<Record<string, {
 	readonly licenseText: string;
 }>>;
 
-export = SpdxLicenseListFull;
+export = spdxLicenseListFull;
