@@ -1,4 +1,4 @@
-# spdx-license-list [![Build Status](https://travis-ci.com/sindresorhus/spdx-license-list.svg?branch=master)](https://travis-ci.com/github/sindresorhus/spdx-license-list)
+# spdx-license-list
 
 > List of [SPDX licenses](https://spdx.org/licenses/)
 
