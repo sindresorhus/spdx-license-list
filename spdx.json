@@ -89,6 +89,11 @@
 		"url": "http://www.antlr2.org/license.html",
 		"osiApproved": false
 	},
+	"ANTLR-PD-fallback": {
+		"name": "ANTLR Software Rights Notice with license fallback",
+		"url": "http://www.antlr2.org/license.html",
+		"osiApproved": false
+	},
 	"APAFML": {
 		"name": "Adobe Postscript AFM License",
 		"url": "https://fedoraproject.org/wiki/Licensing/AdobePostscriptAFM",
@@ -274,6 +279,11 @@
 		"url": "http://www.boost.org/LICENSE_1_0.txt",
 		"osiApproved": true
 	},
+	"BUSL-1.1": {
+		"name": "Business Source License 1.1",
+		"url": "https://mariadb.com/bsl11/",
+		"osiApproved": false
+	},
 	"Bahyph": {
 		"name": "Bahyph License",
 		"url": "https://fedoraproject.org/wiki/Licensing/Bahyph",
@@ -347,6 +357,11 @@
 	"CC-BY-3.0-AT": {
 		"name": "Creative Commons Attribution 3.0 Austria",
 		"url": "https://creativecommons.org/licenses/by/3.0/at/legalcode",
+		"osiApproved": false
+	},
+	"CC-BY-3.0-US": {
+		"name": "Creative Commons Attribution 3.0 United States",
+		"url": "https://creativecommons.org/licenses/by/3.0/us/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-4.0": {
@@ -467,6 +482,11 @@
 	"CC-BY-SA-2.0": {
 		"name": "Creative Commons Attribution Share Alike 2.0 Generic",
 		"url": "https://creativecommons.org/licenses/by-sa/2.0/legalcode",
+		"osiApproved": false
+	},
+	"CC-BY-SA-2.0-UK": {
+		"name": "Creative Commons Attribution Share Alike 2.0 England and Wales",
+		"url": "https://creativecommons.org/licenses/by-sa/2.0/uk/legalcode",
 		"osiApproved": false
 	},
 	"CC-BY-SA-2.5": {
@@ -999,6 +1019,11 @@
 		"url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/net/sunrpc/auth_gss/gss_generic_token.c?h=v4.19",
 		"osiApproved": false
 	},
+	"HTMLTIDY": {
+		"name": "HTML Tidy License",
+		"url": "https://github.com/htacg/tidy-html5/blob/next/README/LICENSE.md",
+		"osiApproved": false
+	},
 	"HaskellReport": {
 		"name": "Haskell Language Report License",
 		"url": "https://fedoraproject.org/wiki/Licensing/Haskell_Language_Report_License",
@@ -1237,7 +1262,7 @@
 	"MIT-0": {
 		"name": "MIT No Attribution",
 		"url": "https://github.com/aws/mit-0",
-		"osiApproved": false
+		"osiApproved": true
 	},
 	"MIT-CMU": {
 		"name": "CMU License",
@@ -1257,6 +1282,11 @@
 	"MIT-feh": {
 		"name": "feh License",
 		"url": "https://fedoraproject.org/wiki/Licensing/MIT#feh",
+		"osiApproved": false
+	},
+	"MIT-open-group": {
+		"name": "MIT Open Group variant",
+		"url": "https://gitlab.freedesktop.org/xorg/app/iceauth/-/blob/master/COPYING",
 		"osiApproved": false
 	},
 	"MITNFA": {
@@ -1612,7 +1642,7 @@
 	"OLDAP-2.8": {
 		"name": "Open LDAP Public License v2.8",
 		"url": "http://www.openldap.org/software/release/license.html",
-		"osiApproved": false
+		"osiApproved": true
 	},
 	"OML": {
 		"name": "Open Market License",
@@ -1957,7 +1987,7 @@
 	"Unicode-DFS-2016": {
 		"name": "Unicode License Agreement - Data Files and Software (2016)",
 		"url": "http://www.unicode.org/copyright.html",
-		"osiApproved": false
+		"osiApproved": true
 	},
 	"Unicode-TOU": {
 		"name": "Unicode Terms of Use",

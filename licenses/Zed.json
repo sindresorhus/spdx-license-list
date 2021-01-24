@@ -2,5 +2,5 @@
 	"name": "Zed License",
 	"url": "https://fedoraproject.org/wiki/Licensing/Zed",
 	"osiApproved": false,
-	"licenseText": "(c) Jim Davies, January 1995\n\nYou may copy and distribute this file freely. Any queries and complaints should be forwarded to Jim.Davies@comlab.ox.ac.uk.\n\nIf you make any changes to this file, please do not distribute the results under the name `zed-csp.sty'."
+	"licenseText": "(c) Jim Davies, January 1995\nYou may copy and distribute this file freely.  Any queries and complaints should be forwarded to Jim.Davies@comlab.ox.ac.uk.\nIf you make any changes to this file, please do not distribute the results under the name `zed-csp.sty'."
 }
