@@ -1,2 +1,2 @@
 'use strict';
-module.exports = require('./spdx.json');
+module.exports = require('./spdx');
