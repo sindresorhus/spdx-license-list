@@ -51,5 +51,10 @@
 		"p-map": "^2.0.0",
 		"tsd": "^0.13.1",
 		"xo": "^0.24.0"
+	},
+	"xo": {
+		"rules": {
+			"import/extensions": "off"
+		}
 	}
 }

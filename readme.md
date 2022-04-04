@@ -12,8 +12,8 @@ The lists of licenses are just JSON files and can be used anywhere.
 
 ## Install
 
-```
-$ npm install spdx-license-list
+```sh
+npm install spdx-license-list
 ```
 
 ## Usage
