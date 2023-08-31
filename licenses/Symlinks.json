@@ -1,0 +1,6 @@
+{
+	"name": "Symlinks License",
+	"url": "https://www.mail-archive.com/debian-bugs-rc@lists.debian.org/msg11494.html",
+	"osiApproved": false,
+	"licenseText": "My \"symlinks\" utility pre-dates the \"open source licensing\"\nfad by a number of years. Just to clarify, this is 100%\nfreeware, written entirely by myself. The intent is to use\nit to detect missing/obsolete symlink targets on an installed\ndistro, before creating the \"gold\" (or \"final\") release discs.\n\nUse and distribute and modify as you (or anyone\nelse) sees fit. There have no formal restrictions or\nrequirements whatsoever regarding distribution of either\nbinaries or source code, whether modified or original."
+}

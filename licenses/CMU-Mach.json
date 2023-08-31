@@ -1,0 +1,6 @@
+{
+	"name": "CMU Mach License",
+	"url": "https://www.cs.cmu.edu/~410/licenses.html",
+	"osiApproved": false,
+	"licenseText": "Copyright (c) 1991,1990,1989 Carnegie Mellon University\nAll Rights Reserved.\n\nPermission to use, copy, modify and distribute this software and its\ndocumentation is hereby granted, provided that both the copyright\nnotice and this permission notice appear in all copies of the\nsoftware, derivative works or modified versions, and any portions\nthereof, and that both notices appear in supporting documentation.\n\nCARNEGIE MELLON ALLOWS FREE USE OF THIS SOFTWARE IN ITS \"AS IS\"\nCONDITION.  CARNEGIE MELLON DISCLAIMS ANY LIABILITY OF ANY KIND FOR\nANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.\n\nCarnegie Mellon requests users of this software to return to\n\n Software Distribution Coordinator  or  Software.Distribution@CS.CMU.EDU\n School of Computer Science\n Carnegie Mellon University\n Pittsburgh PA 15213-3890\n\nany improvements or extensions that they make and grant Carnegie Mellon\nthe rights to redistribute these changes."
+}

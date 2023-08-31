@@ -1,0 +1,6 @@
+{
+	"name": "Checkmk License",
+	"url": "https://github.com/libcheck/check/blob/master/checkmk/checkmk.in",
+	"osiApproved": false,
+	"licenseText": "# Copyright (c) 2006, 2010  Micah Cowan\n#\n# Redistribution of this program in any form, with or without\n# modifications, is permitted, provided that the above copyright is\n# retained in distributions of this program in source form.\n#\n# (This is a free, non-copyleft license compatible with pretty much any\n# other free or proprietary license, including the GPL. It's essentially\n# a scaled-down version of the \"modified\" BSD license.)"
+}

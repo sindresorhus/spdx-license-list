@@ -1,0 +1,6 @@
+{
+	"name": "Knuth CTAN License",
+	"url": "https://ctan.org/license/knuth",
+	"osiApproved": false,
+	"licenseText": "This software is copyrighted. Unlimited copying and redistribution\nof this package and/or its individual files are permitted\nas long as there are no modifications. Modifications, and\nredistribution of modifications, are also permitted, but\nonly if the resulting package and/or files are renamed."
+}

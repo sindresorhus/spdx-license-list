@@ -1,0 +1,6 @@
+{
+	"name": "snprintf License",
+	"url": "https://github.com/openssh/openssh-portable/blob/master/openbsd-compat/bsd-snprintf.c#L2",
+	"osiApproved": false,
+	"licenseText": "Copyright Patrick Powell 1995 \n\nThis code is based on code written by Patrick Powell (papowell@astart.com) It may be used for any purpose as long as this notice remains intact on all source code distributions"
+}
