@@ -1,0 +1,6 @@
+{
+	"name": "Historical Permission Notice and Disclaimer - DEC variant",
+	"url": "https://gitlab.freedesktop.org/xorg/app/xkbcomp/-/blob/master/COPYING?ref_type=heads#L69",
+	"osiApproved": false,
+	"licenseText": "COPYRIGHT 1990\nDIGITAL EQUIPMENT CORPORATION\nMAYNARD, MASSACHUSETTS\nALL RIGHTS RESERVED.\n\nTHE INFORMATION IN THIS SOFTWARE IS SUBJECT TO CHANGE WITHOUT NOTICE AND SHOULD NOT BE CONSTRUED AS A COMMITMENT BY DIGITAL EQUIPMENT CORPORATION.\nDIGITAL MAKES NO REPRESENTATIONS ABOUT THE SUITABILITY OF THIS SOFTWARE\nFOR ANY PURPOSE. IT IS SUPPLIED \"AS IS\" WITHOUT EXPRESS OR IMPLIED\nWARRANTY.\n\nIF THE SOFTWARE IS MODIFIED IN A MANNER CREATING DERIVATIVE COPYRIGHT\nRIGHTS, APPROPRIATE LEGENDS MAY BE PLACED ON THE DERIVATIVE WORK IN\nADDITION TO THAT SET FORTH ABOVE.\n\nPermission to use, copy, modify, and distribute this software and\nits documentation for any purpose and without fee is hereby granted,\nprovided that the above copyright notice appear in all copies\nand that both that copyright notice and this permission notice appear in supporting\ndocumentation,\nand that the name of Digital Equipment Corporation not be\nused in advertising or publicity pertaining to distribution of the\nsoftware without specific, written prior permission."
+}

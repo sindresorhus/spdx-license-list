@@ -1,0 +1,6 @@
+{
+	"name": "Cronyx License",
+	"url": "https://gitlab.freedesktop.org/xorg/font/alias/-/blob/master/COPYING",
+	"osiApproved": false,
+	"licenseText": "This package contains a set of Russian fonts for X11 Release 6.\nCopyright (C) 1994-1995 Cronyx Ltd.\nChanges Copyright (C) 1996 by Sergey Vovk\nChanges Copyright (C) 1999-2000 by Serge Winitzki\nChanges Copyright (C) 1996-2000 by Andrey A. Chernov, Moscow, Russia.\n\nThis software may be used, modified, copied, distributed, and sold,\nin both source and binary form provided that the copyright\nand these terms are retained. Under no circumstances is the author\nresponsible for the proper functioning of this software, nor does\nthe author assume any responsibility for damages incurred with its use."
+}

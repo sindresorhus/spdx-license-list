@@ -1,0 +1,6 @@
+{
+	"name": "Fuzzy Bitmap License",
+	"url": "https://github.com/SWI-Prolog/packages-xpce/blob/161a40cd82004f731ba48024f9d30af388a7edf5/src/img/gifwrite.c#L21-L26",
+	"osiApproved": false,
+	"licenseText": "Portions of this code Copyright (C) 1989 by Michael Mauldin.\nPermission is granted to use this file in whole or in\npart for any purpose, educational, recreational or commercial,\nprovided that this copyright notice is retained unchanged.\nThis software is available to all free of charge by anonymous\nFTP and in the UUNET archives."
+}
