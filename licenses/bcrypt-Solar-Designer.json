@@ -1,0 +1,6 @@
+{
+	"name": "bcrypt Solar Designer License",
+	"url": "https://github.com/bcrypt-ruby/bcrypt-ruby/blob/master/ext/mri/crypt_blowfish.c",
+	"osiApproved": false,
+	"licenseText": "Written by Solar Designer <solar at openwall.com> in 1998-2014.\nNo copyright is claimed, and the software is hereby placed in the public\ndomain.  In case this attempt to disclaim copyright and place the software\nin the public domain is deemed null and void, then the software is\nCopyright (c) 1998-2014 Solar Designer and it is hereby released to the\ngeneral public under the following terms:\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted.\n\nThere's ABSOLUTELY NO WARRANTY, express or implied."
+}
