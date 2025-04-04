@@ -1,0 +1,6 @@
+{
+	"name": "DocBook Stylesheet License",
+	"url": "http://www.docbook.org/xml/5.0/docbook-5.0.zip",
+	"osiApproved": false,
+	"licenseText": "Copyright 2005 Norman Walsh, Sun Microsystems,\nInc., and the Organization for the Advancement\nof Structured Information Standards (OASIS).\n\nRelease: $Id: db4-upgrade.xsl 8905 2010-09-12 11:47:07Z bobstayton $\n\nPermission to use, copy, modify and distribute this stylesheet\nand its accompanying documentation for any purpose and\nwithout fee is hereby granted in perpetuity, provided that\nthe above copyright notice and this paragraph appear in\nall copies. The copyright holders make no representation\nabout the suitability of the schema for any purpose. It\nis provided \"as is\" without expressed or implied warranty."
+}

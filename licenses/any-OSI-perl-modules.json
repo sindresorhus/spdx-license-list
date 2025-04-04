@@ -1,0 +1,6 @@
+{
+	"name": "Any OSI License - Perl Modules",
+	"url": "https://metacpan.org/release/JUERD/Exporter-Tidy-0.09/view/Tidy.pm#LICENSE",
+	"osiApproved": false,
+	"licenseText": "This software may be redistributed under the terms of the GPL, LGPL,\nmodified BSD, or Artistic license, or any of the other OSI approved\nlicenses listed at http://www.opensource.org/licenses/alphabetical.\nDistribution is allowed under all of these licenses, or any smaller\nsubset of multiple or just one of these licenses.\n\nWhen using a packaged version, please refer to the package metadata to see\nunder which license terms it was distributed. Alternatively, a distributor\nmay choose to replace the LICENSE section of the documentation and/or\ninclude a LICENSE file to reflect the license(s) they chose to redistribute\nunder."
+}

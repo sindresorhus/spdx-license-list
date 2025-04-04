@@ -1,0 +1,6 @@
+{
+	"name": "Sun PPP License (2000)",
+	"url": "https://github.com/ppp-project/ppp/blob/master/modules/ppp_ahdlc.c#L7-L19",
+	"osiApproved": false,
+	"licenseText": "Copyright (c) 2000 by Sun Microsystems, Inc.\nAll rights reserved.\n\nPermission to use, copy, modify, and distribute this software and its\ndocumentation is hereby granted, provided that the above copyright\nnotice appears in all copies.\n\nSUN MAKES NO REPRESENTATION OR WARRANTIES ABOUT THE SUITABILITY OF\nTHE SOFTWARE, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED\nTO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A\nPARTICULAR PURPOSE, OR NON-INFRINGEMENT.  SUN SHALL NOT BE LIABLE FOR\nANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING, MODIFYING OR\nDISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES"
+}

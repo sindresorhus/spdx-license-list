@@ -1,0 +1,6 @@
+{
+	"name": "Common Vulnerability Enumeration ToU License",
+	"url": "https://www.cve.org/Legal/TermsOfUse",
+	"osiApproved": false,
+	"licenseText": "CVE Usage: MITRE hereby grants you a perpetual, worldwide, non-exclusive,\nno-charge, royalty-free, irrevocable copyright license to reproduce, prepare\nderivative works of, publicly display, publicly perform, sublicense, and\ndistribute Common Vulnerabilities and Exposures (CVE®). Any copy you make for\nsuch purposes is authorized provided that you reproduce MITRE's copyright\ndesignation and this license in any such copy.\n\nDISCLAIMERS\n\nALL DOCUMENTS AND THE INFORMATION CONTAINED THEREIN PROVIDED BY MITRE ARE\nPROVIDED ON AN \"AS IS\" BASIS AND THE CONTRIBUTOR, THE ORGANIZATION HE/SHE\nREPRESENTS OR IS SPONSORED BY (IF ANY), THE MITRE CORPORATION, ITS BOARD OF\nTRUSTEES, OFFICERS, AGENTS, AND EMPLOYEES, DISCLAIM ALL WARRANTIES, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE\nINFORMATION THEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF\nMERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE."
+}

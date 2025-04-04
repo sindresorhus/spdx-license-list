@@ -1,0 +1,6 @@
+{
+	"name": "Ruby pty extension license",
+	"url": "https://github.com/ruby/ruby/blob/9f6deaa6888a423720b4b127b5314f0ad26cc2e6/ext/pty/pty.c#L775-L786",
+	"osiApproved": false,
+	"licenseText": "(c) Copyright 1998 by Akinori Ito.\n\nThis software may be redistributed freely for this purpose, in full\nor in part, provided that this entire copyright notice is included\non any copies of this software and applications and derivations thereof.\n\nThis software is provided on an \"as is\" basis, without warranty of any\nkind, either expressed or implied, as to any matter including, but not\nlimited to warranty of fitness of purpose, or merchantability, or\nresults obtained from use of this software."
+}

@@ -1,0 +1,6 @@
+{
+	"name": "OAR License",
+	"url": "https://sourceware.org/git/?p=newlib-cygwin.git;a=blob;f=newlib/libc/string/strsignal.c;hb=HEAD#l35",
+	"osiApproved": false,
+	"licenseText": "COPYRIGHT (c) 1989-2013, 2015.\nOn-Line Applications Research Corporation (OAR).\n\nPermission to use, copy, modify, and distribute this software for any\npurpose without fee is hereby granted, provided that this entire notice\nis included in all copies of any software which is or includes a copy\nor modification of this software.\n\nTHIS SOFTWARE IS BEING PROVIDED \"AS IS\", WITHOUT ANY EXPRESS OR IMPLIED\nWARRANTY.  IN PARTICULAR,  THE AUTHOR MAKES NO REPRESENTATION\nOR WARRANTY OF ANY KIND CONCERNING THE MERCHANTABILITY OF THIS\nSOFTWARE OR ITS FITNESS FOR ANY PARTICULAR PURPOSE."
+}

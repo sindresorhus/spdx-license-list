@@ -1,0 +1,6 @@
+{
+	"name": "AMD newlib License",
+	"url": "https://sourceware.org/git/?p=newlib-cygwin.git;a=blob;f=newlib/libc/sys/a29khif/_close.S;h=04f52ae00de1dafbd9055ad8d73c5c697a3aae7f;hb=HEAD",
+	"osiApproved": false,
+	"licenseText": "Copyright 1989, 1990 Advanced Micro Devices, Inc.\n\nThis software is the property of Advanced Micro Devices, Inc  (AMD)  which\nspecifically  grants the user the right to modify, use and distribute this\nsoftware provided this notice is not removed or altered.  All other rights\nare reserved by AMD.\n\nAMD MAKES NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH REGARD TO THIS\nSOFTWARE.  IN NO EVENT SHALL AMD BE LIABLE FOR INCIDENTAL OR CONSEQUENTIAL\nDAMAGES IN CONNECTION WITH OR ARISING FROM THE FURNISHING, PERFORMANCE, OR\nUSE OF THIS SOFTWARE."
+}

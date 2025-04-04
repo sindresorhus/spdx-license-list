@@ -1,0 +1,6 @@
+{
+	"name": "Boehm-Demers-Weiser GC License (without fee)",
+	"url": "https://github.com/MariaDB/server/blob/11.6/libmysqld/lib_sql.cc",
+	"osiApproved": false,
+	"licenseText": "Copyright (c)  2000\nSWsoft  company\n\nModifications copyright (c) 2001, 2013. Oracle and/or its affiliates.\nAll rights reserved.\n\nThis material is provided \"as is\", with absolutely no warranty expressed\nor implied. Any use is at your own risk.\n\nPermission to use or copy this software for any purpose is hereby granted\nwithout fee, provided the above notices are retained on all copies.\nPermission to modify the code and to distribute modified code is granted,\nprovided the above notices are retained, and a notice that the code was\nmodified is included with the above copyright notice."
+}

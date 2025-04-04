@@ -1,0 +1,6 @@
+{
+	"name": "MIPS License",
+	"url": "https://sourceware.org/cgit/binutils-gdb/tree/include/coff/sym.h#n11",
+	"osiApproved": false,
+	"licenseText": "Copyright (c) 1992, 1991, 1990 MIPS Computer Systems, Inc.\nMIPS Computer Systems, Inc. grants reproduction and use\nrights to all parties, PROVIDED that this comment is\nmaintained in the copy."
+}
